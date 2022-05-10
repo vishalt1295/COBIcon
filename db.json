@@ -1,0 +1,7469 @@
+{
+  "icons": [
+    {
+      "id": 1,
+      "icon": "fill add-circle",
+      "svgPath": "icons/fill add-circle.svg"
+    },
+    {
+      "id": 2,
+      "icon": "fill add-square",
+      "svgPath": "icons/fill add-square.svg"
+    },
+    {
+      "id": 3,
+      "icon": "fill add",
+      "svgPath": "icons/fill add.svg"
+    },
+    {
+      "id": 4,
+      "icon": "fill android",
+      "svgPath": "icons/fill android.svg"
+    },
+    {
+      "id": 5,
+      "icon": "fill apple",
+      "svgPath": "icons/fill apple.svg"
+    },
+    {
+      "id": 6,
+      "icon": "fill archive-1",
+      "svgPath": "icons/fill archive-1.svg"
+    },
+    {
+      "id": 7,
+      "icon": "fill archive-add",
+      "svgPath": "icons/fill archive-add.svg"
+    },
+    {
+      "id": 8,
+      "icon": "fill archive-book",
+      "svgPath": "icons/fill archive-book.svg"
+    },
+    {
+      "id": 9,
+      "icon": "fill archive-minus",
+      "svgPath": "icons/fill archive-minus.svg"
+    },
+    {
+      "id": 10,
+      "icon": "fill archive-slash",
+      "svgPath": "icons/fill archive-slash.svg"
+    },
+    {
+      "id": 11,
+      "icon": "fill archive-tick",
+      "svgPath": "icons/fill archive-tick.svg"
+    },
+    {
+      "id": 12,
+      "icon": "fill archive",
+      "svgPath": "icons/fill archive.svg"
+    },
+    {
+      "id": 13,
+      "icon": "fill arrange-circle-2",
+      "svgPath": "icons/fill arrange-circle-2.svg"
+    },
+    {
+      "id": 14,
+      "icon": "fill arrange-circle",
+      "svgPath": "icons/fill arrange-circle.svg"
+    },
+    {
+      "id": 15,
+      "icon": "fill arrange-square-2",
+      "svgPath": "icons/fill arrange-square-2.svg"
+    },
+    {
+      "id": 16,
+      "icon": "fill arrange-square",
+      "svgPath": "icons/fill arrange-square.svg"
+    },
+    {
+      "id": 17,
+      "icon": "fill arrow-circle-down-1",
+      "svgPath": "icons/fill arrow-circle-down-1.svg"
+    },
+    {
+      "id": 18,
+      "icon": "fill arrow-circle-down",
+      "svgPath": "icons/fill arrow-circle-down.svg"
+    },
+    {
+      "id": 19,
+      "icon": "fill arrow-circle-left-1",
+      "svgPath": "icons/fill arrow-circle-left-1.svg"
+    },
+    {
+      "id": 20,
+      "icon": "fill arrow-circle-left",
+      "svgPath": "icons/fill arrow-circle-left.svg"
+    },
+    {
+      "id": 21,
+      "icon": "fill arrow-circle-right-1",
+      "svgPath": "icons/fill arrow-circle-right-1.svg"
+    },
+    {
+      "id": 22,
+      "icon": "fill arrow-circle-right",
+      "svgPath": "icons/fill arrow-circle-right.svg"
+    },
+    {
+      "id": 23,
+      "icon": "fill arrow-circle-up-1",
+      "svgPath": "icons/fill arrow-circle-up-1.svg"
+    },
+    {
+      "id": 24,
+      "icon": "fill arrow-circle-up",
+      "svgPath": "icons/fill arrow-circle-up.svg"
+    },
+    {
+      "id": 25,
+      "icon": "fill arrow-down-1",
+      "svgPath": "icons/fill arrow-down-1.svg"
+    },
+    {
+      "id": 26,
+      "icon": "fill arrow-down",
+      "svgPath": "icons/fill arrow-down.svg"
+    },
+    {
+      "id": 27,
+      "icon": "fill arrow-left-1",
+      "svgPath": "icons/fill arrow-left-1.svg"
+    },
+    {
+      "id": 28,
+      "icon": "fill arrow-left",
+      "svgPath": "icons/fill arrow-left.svg"
+    },
+    {
+      "id": 29,
+      "icon": "fill arrow-right-1",
+      "svgPath": "icons/fill arrow-right-1.svg"
+    },
+    {
+      "id": 30,
+      "icon": "fill arrow-right",
+      "svgPath": "icons/fill arrow-right.svg"
+    },
+    {
+      "id": 31,
+      "icon": "fill arrow-square-down-1",
+      "svgPath": "icons/fill arrow-square-down-1.svg"
+    },
+    {
+      "id": 32,
+      "icon": "fill arrow-square-down",
+      "svgPath": "icons/fill arrow-square-down.svg"
+    },
+    {
+      "id": 33,
+      "icon": "fill arrow-square-left-1",
+      "svgPath": "icons/fill arrow-square-left-1.svg"
+    },
+    {
+      "id": 34,
+      "icon": "fill arrow-square-left",
+      "svgPath": "icons/fill arrow-square-left.svg"
+    },
+    {
+      "id": 35,
+      "icon": "fill arrow-square-right-1",
+      "svgPath": "icons/fill arrow-square-right-1.svg"
+    },
+    {
+      "id": 36,
+      "icon": "fill arrow-square-right",
+      "svgPath": "icons/fill arrow-square-right.svg"
+    },
+    {
+      "id": 37,
+      "icon": "fill arrow-square-up-1",
+      "svgPath": "icons/fill arrow-square-up-1.svg"
+    },
+    {
+      "id": 38,
+      "icon": "fill arrow-square-up",
+      "svgPath": "icons/fill arrow-square-up.svg"
+    },
+    {
+      "id": 39,
+      "icon": "fill arrow-swap-horizontal",
+      "svgPath": "icons/fill arrow-swap-horizontal.svg"
+    },
+    {
+      "id": 40,
+      "icon": "fill arrow-swap",
+      "svgPath": "icons/fill arrow-swap.svg"
+    },
+    {
+      "id": 41,
+      "icon": "fill arrow-up-1",
+      "svgPath": "icons/fill arrow-up-1.svg"
+    },
+    {
+      "id": 42,
+      "icon": "fill arrow-up",
+      "svgPath": "icons/fill arrow-up.svg"
+    },
+    {
+      "id": 43,
+      "icon": "fill award",
+      "svgPath": "icons/fill award.svg"
+    },
+    {
+      "id": 44,
+      "icon": "fill back-square",
+      "svgPath": "icons/fill back-square.svg"
+    },
+    {
+      "id": 45,
+      "icon": "fill bag-2",
+      "svgPath": "icons/fill bag-2.svg"
+    },
+    {
+      "id": 46,
+      "icon": "fill bag-cross-1",
+      "svgPath": "icons/fill bag-cross-1.svg"
+    },
+    {
+      "id": 47,
+      "icon": "fill bag-cross",
+      "svgPath": "icons/fill bag-cross.svg"
+    },
+    {
+      "id": 48,
+      "icon": "fill bag-happy",
+      "svgPath": "icons/fill bag-happy.svg"
+    },
+    {
+      "id": 49,
+      "icon": "fill bag-tick-2",
+      "svgPath": "icons/fill bag-tick-2.svg"
+    },
+    {
+      "id": 50,
+      "icon": "fill bag-tick",
+      "svgPath": "icons/fill bag-tick.svg"
+    },
+    {
+      "id": 51,
+      "icon": "fill bag-timer",
+      "svgPath": "icons/fill bag-timer.svg"
+    },
+    {
+      "id": 52,
+      "icon": "fill bag",
+      "svgPath": "icons/fill bag.svg"
+    },
+    {
+      "id": 53,
+      "icon": "fill bank",
+      "svgPath": "icons/fill bank.svg"
+    },
+    {
+      "id": 54,
+      "icon": "fill barcode",
+      "svgPath": "icons/fill barcode.svg"
+    },
+    {
+      "id": 55,
+      "icon": "fill bhim-1",
+      "svgPath": "icons/fill bhim-1.svg"
+    },
+    {
+      "id": 56,
+      "icon": "fill bhim",
+      "svgPath": "icons/fill bhim.svg"
+    },
+    {
+      "id": 57,
+      "icon": "fill bill",
+      "svgPath": "icons/fill bill.svg"
+    },
+    {
+      "id": 58,
+      "icon": "fill book-1",
+      "svgPath": "icons/fill book-1.svg"
+    },
+    {
+      "id": 59,
+      "icon": "fill book-saved",
+      "svgPath": "icons/fill book-saved.svg"
+    },
+    {
+      "id": 60,
+      "icon": "fill book-square",
+      "svgPath": "icons/fill book-square.svg"
+    },
+    {
+      "id": 61,
+      "icon": "fill book",
+      "svgPath": "icons/fill book.svg"
+    },
+    {
+      "id": 62,
+      "icon": "fill bookmark-2",
+      "svgPath": "icons/fill bookmark-2.svg"
+    },
+    {
+      "id": 63,
+      "icon": "fill bookmark",
+      "svgPath": "icons/fill bookmark.svg"
+    },
+    {
+      "id": 64,
+      "icon": "fill box",
+      "svgPath": "icons/fill box.svg"
+    },
+    {
+      "id": 65,
+      "icon": "fill briefcase",
+      "svgPath": "icons/fill briefcase.svg"
+    },
+    {
+      "id": 66,
+      "icon": "fill brifecase-cross",
+      "svgPath": "icons/fill brifecase-cross.svg"
+    },
+    {
+      "id": 67,
+      "icon": "fill brifecase-tick",
+      "svgPath": "icons/fill brifecase-tick.svg"
+    },
+    {
+      "id": 68,
+      "icon": "fill brifecase-timer",
+      "svgPath": "icons/fill brifecase-timer.svg"
+    },
+    {
+      "id": 69,
+      "icon": "fill building-1",
+      "svgPath": "icons/fill building-1.svg"
+    },
+    {
+      "id": 70,
+      "icon": "fill building-2",
+      "svgPath": "icons/fill building-2.svg"
+    },
+    {
+      "id": 71,
+      "icon": "fill building-3",
+      "svgPath": "icons/fill building-3.svg"
+    },
+    {
+      "id": 72,
+      "icon": "fill building",
+      "svgPath": "icons/fill building.svg"
+    },
+    {
+      "id": 73,
+      "icon": "fill bus",
+      "svgPath": "icons/fill bus.svg"
+    },
+    {
+      "id": 74,
+      "icon": "fill calculator",
+      "svgPath": "icons/fill calculator.svg"
+    },
+    {
+      "id": 75,
+      "icon": "fill calendar-1",
+      "svgPath": "icons/fill calendar-1.svg"
+    },
+    {
+      "id": 76,
+      "icon": "fill calendar-2",
+      "svgPath": "icons/fill calendar-2.svg"
+    },
+    {
+      "id": 77,
+      "icon": "fill calendar-add",
+      "svgPath": "icons/fill calendar-add.svg"
+    },
+    {
+      "id": 78,
+      "icon": "fill calendar-circle",
+      "svgPath": "icons/fill calendar-circle.svg"
+    },
+    {
+      "id": 79,
+      "icon": "fill calendar-edit",
+      "svgPath": "icons/fill calendar-edit.svg"
+    },
+    {
+      "id": 80,
+      "icon": "fill calendar-remove",
+      "svgPath": "icons/fill calendar-remove.svg"
+    },
+    {
+      "id": 81,
+      "icon": "fill calendar-search",
+      "svgPath": "icons/fill calendar-search.svg"
+    },
+    {
+      "id": 82,
+      "icon": "fill calendar-tick",
+      "svgPath": "icons/fill calendar-tick.svg"
+    },
+    {
+      "id": 83,
+      "icon": "fill calendar",
+      "svgPath": "icons/fill calendar.svg"
+    },
+    {
+      "id": 84,
+      "icon": "fill call-add",
+      "svgPath": "icons/fill call-add.svg"
+    },
+    {
+      "id": 85,
+      "icon": "fill call-calling",
+      "svgPath": "icons/fill call-calling.svg"
+    },
+    {
+      "id": 86,
+      "icon": "fill call-incoming",
+      "svgPath": "icons/fill call-incoming.svg"
+    },
+    {
+      "id": 87,
+      "icon": "fill call-minus",
+      "svgPath": "icons/fill call-minus.svg"
+    },
+    {
+      "id": 88,
+      "icon": "fill call-outgoing",
+      "svgPath": "icons/fill call-outgoing.svg"
+    },
+    {
+      "id": 89,
+      "icon": "fill call-received",
+      "svgPath": "icons/fill call-received.svg"
+    },
+    {
+      "id": 90,
+      "icon": "fill call-remove",
+      "svgPath": "icons/fill call-remove.svg"
+    },
+    {
+      "id": 91,
+      "icon": "fill call-slash",
+      "svgPath": "icons/fill call-slash.svg"
+    },
+    {
+      "id": 92,
+      "icon": "fill call",
+      "svgPath": "icons/fill call.svg"
+    },
+    {
+      "id": 93,
+      "icon": "fill camera-slash",
+      "svgPath": "icons/fill camera-slash.svg"
+    },
+    {
+      "id": 94,
+      "icon": "fill camera",
+      "svgPath": "icons/fill camera.svg"
+    },
+    {
+      "id": 95,
+      "icon": "fill car",
+      "svgPath": "icons/fill car.svg"
+    },
+    {
+      "id": 96,
+      "icon": "fill card-add",
+      "svgPath": "icons/fill card-add.svg"
+    },
+    {
+      "id": 97,
+      "icon": "fill card-edit",
+      "svgPath": "icons/fill card-edit.svg"
+    },
+    {
+      "id": 98,
+      "icon": "fill card-pos",
+      "svgPath": "icons/fill card-pos.svg"
+    },
+    {
+      "id": 99,
+      "icon": "fill card-receive",
+      "svgPath": "icons/fill card-receive.svg"
+    },
+    {
+      "id": 100,
+      "icon": "fill card-remove-1",
+      "svgPath": "icons/fill card-remove-1.svg"
+    },
+    {
+      "id": 101,
+      "icon": "fill card-remove",
+      "svgPath": "icons/fill card-remove.svg"
+    },
+    {
+      "id": 102,
+      "icon": "fill card-send",
+      "svgPath": "icons/fill card-send.svg"
+    },
+    {
+      "id": 103,
+      "icon": "fill card-slash",
+      "svgPath": "icons/fill card-slash.svg"
+    },
+    {
+      "id": 104,
+      "icon": "fill card-tick-1",
+      "svgPath": "icons/fill card-tick-1.svg"
+    },
+    {
+      "id": 105,
+      "icon": "fill card-tick",
+      "svgPath": "icons/fill card-tick.svg"
+    },
+    {
+      "id": 106,
+      "icon": "fill cards",
+      "svgPath": "icons/fill cards.svg"
+    },
+    {
+      "id": 107,
+      "icon": "fill category-2",
+      "svgPath": "icons/fill category-2.svg"
+    },
+    {
+      "id": 108,
+      "icon": "fill category",
+      "svgPath": "icons/fill category.svg"
+    },
+    {
+      "id": 109,
+      "icon": "fill chart-2",
+      "svgPath": "icons/fill chart-2.svg"
+    },
+    {
+      "id": 110,
+      "icon": "fill chart",
+      "svgPath": "icons/fill chart.svg"
+    },
+    {
+      "id": 111,
+      "icon": "fill clipboard-close",
+      "svgPath": "icons/fill clipboard-close.svg"
+    },
+    {
+      "id": 112,
+      "icon": "fill clipboard-export",
+      "svgPath": "icons/fill clipboard-export.svg"
+    },
+    {
+      "id": 113,
+      "icon": "fill clipboard-import",
+      "svgPath": "icons/fill clipboard-import.svg"
+    },
+    {
+      "id": 114,
+      "icon": "fill clipboard-text",
+      "svgPath": "icons/fill clipboard-text.svg"
+    },
+    {
+      "id": 115,
+      "icon": "fill clipboard-tick",
+      "svgPath": "icons/fill clipboard-tick.svg"
+    },
+    {
+      "id": 116,
+      "icon": "fill clock",
+      "svgPath": "icons/fill clock.svg"
+    },
+    {
+      "id": 117,
+      "icon": "fill close-circle",
+      "svgPath": "icons/fill close-circle.svg"
+    },
+    {
+      "id": 118,
+      "icon": "fill close-square",
+      "svgPath": "icons/fill close-square.svg"
+    },
+    {
+      "id": 119,
+      "icon": "fill computing",
+      "svgPath": "icons/fill computing.svg"
+    },
+    {
+      "id": 120,
+      "icon": "fill convert",
+      "svgPath": "icons/fill convert.svg"
+    },
+    {
+      "id": 121,
+      "icon": "fill courthouse",
+      "svgPath": "icons/fill courthouse.svg"
+    },
+    {
+      "id": 122,
+      "icon": "fill credit-card",
+      "svgPath": "icons/fill credit-card.svg"
+    },
+    {
+      "id": 123,
+      "icon": "fill cup",
+      "svgPath": "icons/fill cup.svg"
+    },
+    {
+      "id": 124,
+      "icon": "fill danger",
+      "svgPath": "icons/fill danger.svg"
+    },
+    {
+      "id": 125,
+      "icon": "fill device-message",
+      "svgPath": "icons/fill device-message.svg"
+    },
+    {
+      "id": 126,
+      "icon": "fill direct-down",
+      "svgPath": "icons/fill direct-down.svg"
+    },
+    {
+      "id": 127,
+      "icon": "fill direct-inbox",
+      "svgPath": "icons/fill direct-inbox.svg"
+    },
+    {
+      "id": 128,
+      "icon": "fill direct-left",
+      "svgPath": "icons/fill direct-left.svg"
+    },
+    {
+      "id": 129,
+      "icon": "fill direct-normal",
+      "svgPath": "icons/fill direct-normal.svg"
+    },
+    {
+      "id": 130,
+      "icon": "fill direct-notification",
+      "svgPath": "icons/fill direct-notification.svg"
+    },
+    {
+      "id": 131,
+      "icon": "fill direct-right",
+      "svgPath": "icons/fill direct-right.svg"
+    },
+    {
+      "id": 132,
+      "icon": "fill direct-send",
+      "svgPath": "icons/fill direct-send.svg"
+    },
+    {
+      "id": 133,
+      "icon": "fill direct-up",
+      "svgPath": "icons/fill direct-up.svg"
+    },
+    {
+      "id": 134,
+      "icon": "fill direct",
+      "svgPath": "icons/fill direct.svg"
+    },
+    {
+      "id": 135,
+      "icon": "fill directbox-default",
+      "svgPath": "icons/fill directbox-default.svg"
+    },
+    {
+      "id": 136,
+      "icon": "fill directbox-notif",
+      "svgPath": "icons/fill directbox-notif.svg"
+    },
+    {
+      "id": 137,
+      "icon": "fill directbox-receive",
+      "svgPath": "icons/fill directbox-receive.svg"
+    },
+    {
+      "id": 138,
+      "icon": "fill directbox-send",
+      "svgPath": "icons/fill directbox-send.svg"
+    },
+    {
+      "id": 139,
+      "icon": "fill discount-circle",
+      "svgPath": "icons/fill discount-circle.svg"
+    },
+    {
+      "id": 140,
+      "icon": "fill discount-shape",
+      "svgPath": "icons/fill discount-shape.svg"
+    },
+    {
+      "id": 141,
+      "icon": "fill discover",
+      "svgPath": "icons/fill discover.svg"
+    },
+    {
+      "id": 142,
+      "icon": "fill dislike",
+      "svgPath": "icons/fill dislike.svg"
+    },
+    {
+      "id": 143,
+      "icon": "fill document-1",
+      "svgPath": "icons/fill document-1.svg"
+    },
+    {
+      "id": 144,
+      "icon": "fill document-copy",
+      "svgPath": "icons/fill document-copy.svg"
+    },
+    {
+      "id": 145,
+      "icon": "fill document-download",
+      "svgPath": "icons/fill document-download.svg"
+    },
+    {
+      "id": 146,
+      "icon": "fill document-filter",
+      "svgPath": "icons/fill document-filter.svg"
+    },
+    {
+      "id": 147,
+      "icon": "fill document-forward",
+      "svgPath": "icons/fill document-forward.svg"
+    },
+    {
+      "id": 148,
+      "icon": "fill document-normal",
+      "svgPath": "icons/fill document-normal.svg"
+    },
+    {
+      "id": 149,
+      "icon": "fill document-previous",
+      "svgPath": "icons/fill document-previous.svg"
+    },
+    {
+      "id": 150,
+      "icon": "fill document-text-1",
+      "svgPath": "icons/fill document-text-1.svg"
+    },
+    {
+      "id": 151,
+      "icon": "fill document-text",
+      "svgPath": "icons/fill document-text.svg"
+    },
+    {
+      "id": 152,
+      "icon": "fill document-upload",
+      "svgPath": "icons/fill document-upload.svg"
+    },
+    {
+      "id": 153,
+      "icon": "fill document",
+      "svgPath": "icons/fill document.svg"
+    },
+    {
+      "id": 154,
+      "icon": "fill dollar-circle",
+      "svgPath": "icons/fill dollar-circle.svg"
+    },
+    {
+      "id": 155,
+      "icon": "fill dollar-square",
+      "svgPath": "icons/fill dollar-square.svg"
+    },
+    {
+      "id": 156,
+      "icon": "fill dribbble",
+      "svgPath": "icons/fill dribbble.svg"
+    },
+    {
+      "id": 157,
+      "icon": "fill driving",
+      "svgPath": "icons/fill driving.svg"
+    },
+    {
+      "id": 158,
+      "icon": "fill edit-2",
+      "svgPath": "icons/fill edit-2.svg"
+    },
+    {
+      "id": 159,
+      "icon": "fill edit",
+      "svgPath": "icons/fill edit.svg"
+    },
+    {
+      "id": 160,
+      "icon": "fill emoji-happy",
+      "svgPath": "icons/fill emoji-happy.svg"
+    },
+    {
+      "id": 161,
+      "icon": "fill emoji-normal",
+      "svgPath": "icons/fill emoji-normal.svg"
+    },
+    {
+      "id": 162,
+      "icon": "fill emoji-sad",
+      "svgPath": "icons/fill emoji-sad.svg"
+    },
+    {
+      "id": 163,
+      "icon": "fill empty-wallet-add",
+      "svgPath": "icons/fill empty-wallet-add.svg"
+    },
+    {
+      "id": 164,
+      "icon": "fill empty-wallet-change",
+      "svgPath": "icons/fill empty-wallet-change.svg"
+    },
+    {
+      "id": 165,
+      "icon": "fill empty-wallet-remove",
+      "svgPath": "icons/fill empty-wallet-remove.svg"
+    },
+    {
+      "id": 166,
+      "icon": "fill empty-wallet-tick",
+      "svgPath": "icons/fill empty-wallet-tick.svg"
+    },
+    {
+      "id": 167,
+      "icon": "fill empty-wallet-time",
+      "svgPath": "icons/fill empty-wallet-time.svg"
+    },
+    {
+      "id": 168,
+      "icon": "fill empty-wallet",
+      "svgPath": "icons/fill empty-wallet.svg"
+    },
+    {
+      "id": 169,
+      "icon": "fill export-3",
+      "svgPath": "icons/fill export-3.svg"
+    },
+    {
+      "id": 170,
+      "icon": "fill export-circle",
+      "svgPath": "icons/fill export-circle.svg"
+    },
+    {
+      "id": 171,
+      "icon": "fill export-square",
+      "svgPath": "icons/fill export-square.svg"
+    },
+    {
+      "id": 172,
+      "icon": "fill export",
+      "svgPath": "icons/fill export.svg"
+    },
+    {
+      "id": 173,
+      "icon": "fill eye-slash",
+      "svgPath": "icons/fill eye-slash.svg"
+    },
+    {
+      "id": 174,
+      "icon": "fill eye",
+      "svgPath": "icons/fill eye.svg"
+    },
+    {
+      "id": 175,
+      "icon": "fill facebook",
+      "svgPath": "icons/fill facebook.svg"
+    },
+    {
+      "id": 176,
+      "icon": "fill filter-add",
+      "svgPath": "icons/fill filter-add.svg"
+    },
+    {
+      "id": 177,
+      "icon": "fill filter-edit",
+      "svgPath": "icons/fill filter-edit.svg"
+    },
+    {
+      "id": 178,
+      "icon": "fill filter-remove",
+      "svgPath": "icons/fill filter-remove.svg"
+    },
+    {
+      "id": 179,
+      "icon": "fill filter-search",
+      "svgPath": "icons/fill filter-search.svg"
+    },
+    {
+      "id": 180,
+      "icon": "fill filter-square",
+      "svgPath": "icons/fill filter-square.svg"
+    },
+    {
+      "id": 181,
+      "icon": "fill filter-tick",
+      "svgPath": "icons/fill filter-tick.svg"
+    },
+    {
+      "id": 182,
+      "icon": "fill filter",
+      "svgPath": "icons/fill filter.svg"
+    },
+    {
+      "id": 183,
+      "icon": "fill flag-2",
+      "svgPath": "icons/fill flag-2.svg"
+    },
+    {
+      "id": 184,
+      "icon": "fill flag",
+      "svgPath": "icons/fill flag.svg"
+    },
+    {
+      "id": 185,
+      "icon": "fill flash-circle",
+      "svgPath": "icons/fill flash-circle.svg"
+    },
+    {
+      "id": 186,
+      "icon": "fill flash-slash",
+      "svgPath": "icons/fill flash-slash.svg"
+    },
+    {
+      "id": 187,
+      "icon": "fill flash",
+      "svgPath": "icons/fill flash.svg"
+    },
+    {
+      "id": 188,
+      "icon": "fill forbidden-2",
+      "svgPath": "icons/fill forbidden-2.svg"
+    },
+    {
+      "id": 189,
+      "icon": "fill forbidden",
+      "svgPath": "icons/fill forbidden.svg"
+    },
+    {
+      "id": 190,
+      "icon": "fill forward-square",
+      "svgPath": "icons/fill forward-square.svg"
+    },
+    {
+      "id": 191,
+      "icon": "fill gallery-add",
+      "svgPath": "icons/fill gallery-add.svg"
+    },
+    {
+      "id": 192,
+      "icon": "fill gallery-export",
+      "svgPath": "icons/fill gallery-export.svg"
+    },
+    {
+      "id": 193,
+      "icon": "fill gallery-import",
+      "svgPath": "icons/fill gallery-import.svg"
+    },
+    {
+      "id": 194,
+      "icon": "fill gallery-remove",
+      "svgPath": "icons/fill gallery-remove.svg"
+    },
+    {
+      "id": 195,
+      "icon": "fill gallery-slash",
+      "svgPath": "icons/fill gallery-slash.svg"
+    },
+    {
+      "id": 196,
+      "icon": "fill gallery-tick",
+      "svgPath": "icons/fill gallery-tick.svg"
+    },
+    {
+      "id": 197,
+      "icon": "fill gallery",
+      "svgPath": "icons/fill gallery.svg"
+    },
+    {
+      "id": 198,
+      "icon": "fill gas-station",
+      "svgPath": "icons/fill gas-station.svg"
+    },
+    {
+      "id": 199,
+      "icon": "fill gift",
+      "svgPath": "icons/fill gift.svg"
+    },
+    {
+      "id": 200,
+      "icon": "fill google-pay",
+      "svgPath": "icons/fill google-pay.svg"
+    },
+    {
+      "id": 201,
+      "icon": "fill google-play",
+      "svgPath": "icons/fill google-play.svg"
+    },
+    {
+      "id": 202,
+      "icon": "fill google",
+      "svgPath": "icons/fill google.svg"
+    },
+    {
+      "id": 203,
+      "icon": "fill gps-slash",
+      "svgPath": "icons/fill gps-slash.svg"
+    },
+    {
+      "id": 204,
+      "icon": "fill gps",
+      "svgPath": "icons/fill gps.svg"
+    },
+    {
+      "id": 205,
+      "icon": "fill heart-add",
+      "svgPath": "icons/fill heart-add.svg"
+    },
+    {
+      "id": 206,
+      "icon": "fill heart-circle",
+      "svgPath": "icons/fill heart-circle.svg"
+    },
+    {
+      "id": 207,
+      "icon": "fill heart-edit",
+      "svgPath": "icons/fill heart-edit.svg"
+    },
+    {
+      "id": 208,
+      "icon": "fill heart-remove",
+      "svgPath": "icons/fill heart-remove.svg"
+    },
+    {
+      "id": 209,
+      "icon": "fill heart-search",
+      "svgPath": "icons/fill heart-search.svg"
+    },
+    {
+      "id": 210,
+      "icon": "fill heart-slash",
+      "svgPath": "icons/fill heart-slash.svg"
+    },
+    {
+      "id": 211,
+      "icon": "fill heart-tick",
+      "svgPath": "icons/fill heart-tick.svg"
+    },
+    {
+      "id": 212,
+      "icon": "fill heart",
+      "svgPath": "icons/fill heart.svg"
+    },
+    {
+      "id": 213,
+      "icon": "fill home-1",
+      "svgPath": "icons/fill home-1.svg"
+    },
+    {
+      "id": 214,
+      "icon": "fill home-2",
+      "svgPath": "icons/fill home-2.svg"
+    },
+    {
+      "id": 215,
+      "icon": "fill home-wifi",
+      "svgPath": "icons/fill home-wifi.svg"
+    },
+    {
+      "id": 216,
+      "icon": "fill home",
+      "svgPath": "icons/fill home.svg"
+    },
+    {
+      "id": 217,
+      "icon": "fill hospital",
+      "svgPath": "icons/fill hospital.svg"
+    },
+    {
+      "id": 218,
+      "icon": "fill house-2",
+      "svgPath": "icons/fill house-2.svg"
+    },
+    {
+      "id": 219,
+      "icon": "fill house",
+      "svgPath": "icons/fill house.svg"
+    },
+    {
+      "id": 220,
+      "icon": "fill image",
+      "svgPath": "icons/fill image.svg"
+    },
+    {
+      "id": 221,
+      "icon": "fill import-1",
+      "svgPath": "icons/fill import-1.svg"
+    },
+    {
+      "id": 222,
+      "icon": "fill import-circle",
+      "svgPath": "icons/fill import-circle.svg"
+    },
+    {
+      "id": 223,
+      "icon": "fill import-square",
+      "svgPath": "icons/fill import-square.svg"
+    },
+    {
+      "id": 224,
+      "icon": "fill import",
+      "svgPath": "icons/fill import.svg"
+    },
+    {
+      "id": 225,
+      "icon": "fill info-circle",
+      "svgPath": "icons/fill info-circle.svg"
+    },
+    {
+      "id": 226,
+      "icon": "fill information",
+      "svgPath": "icons/fill information.svg"
+    },
+    {
+      "id": 227,
+      "icon": "fill instagram",
+      "svgPath": "icons/fill instagram.svg"
+    },
+    {
+      "id": 228,
+      "icon": "fill key-square",
+      "svgPath": "icons/fill key-square.svg"
+    },
+    {
+      "id": 229,
+      "icon": "fill key",
+      "svgPath": "icons/fill key.svg"
+    },
+    {
+      "id": 230,
+      "icon": "fill lamp-charge",
+      "svgPath": "icons/fill lamp-charge.svg"
+    },
+    {
+      "id": 231,
+      "icon": "fill lamp-on",
+      "svgPath": "icons/fill lamp-on.svg"
+    },
+    {
+      "id": 232,
+      "icon": "fill lamp-slash",
+      "svgPath": "icons/fill lamp-slash.svg"
+    },
+    {
+      "id": 233,
+      "icon": "fill lamp",
+      "svgPath": "icons/fill lamp.svg"
+    },
+    {
+      "id": 234,
+      "icon": "fill like-1",
+      "svgPath": "icons/fill like-1.svg"
+    },
+    {
+      "id": 235,
+      "icon": "fill like-dislike",
+      "svgPath": "icons/fill like-dislike.svg"
+    },
+    {
+      "id": 236,
+      "icon": "fill like-shapes",
+      "svgPath": "icons/fill like-shapes.svg"
+    },
+    {
+      "id": 237,
+      "icon": "fill like-tag",
+      "svgPath": "icons/fill like-tag.svg"
+    },
+    {
+      "id": 238,
+      "icon": "fill like",
+      "svgPath": "icons/fill like.svg"
+    },
+    {
+      "id": 239,
+      "icon": "fill location-add",
+      "svgPath": "icons/fill location-add.svg"
+    },
+    {
+      "id": 240,
+      "icon": "fill location-cross",
+      "svgPath": "icons/fill location-cross.svg"
+    },
+    {
+      "id": 241,
+      "icon": "fill location-minus",
+      "svgPath": "icons/fill location-minus.svg"
+    },
+    {
+      "id": 242,
+      "icon": "fill location-slash",
+      "svgPath": "icons/fill location-slash.svg"
+    },
+    {
+      "id": 243,
+      "icon": "fill location-tick",
+      "svgPath": "icons/fill location-tick.svg"
+    },
+    {
+      "id": 244,
+      "icon": "fill location",
+      "svgPath": "icons/fill location.svg"
+    },
+    {
+      "id": 245,
+      "icon": "fill lock-1",
+      "svgPath": "icons/fill lock-1.svg"
+    },
+    {
+      "id": 246,
+      "icon": "fill lock-circle",
+      "svgPath": "icons/fill lock-circle.svg"
+    },
+    {
+      "id": 247,
+      "icon": "fill lock-slash",
+      "svgPath": "icons/fill lock-slash.svg"
+    },
+    {
+      "id": 248,
+      "icon": "fill lock",
+      "svgPath": "icons/fill lock.svg"
+    },
+    {
+      "id": 249,
+      "icon": "fill login-1",
+      "svgPath": "icons/fill login-1.svg"
+    },
+    {
+      "id": 250,
+      "icon": "fill login",
+      "svgPath": "icons/fill login.svg"
+    },
+    {
+      "id": 251,
+      "icon": "fill logout-1",
+      "svgPath": "icons/fill logout-1.svg"
+    },
+    {
+      "id": 252,
+      "icon": "fill logout",
+      "svgPath": "icons/fill logout.svg"
+    },
+    {
+      "id": 253,
+      "icon": "fill lovely",
+      "svgPath": "icons/fill lovely.svg"
+    },
+    {
+      "id": 254,
+      "icon": "fill magic-star",
+      "svgPath": "icons/fill magic-star.svg"
+    },
+    {
+      "id": 255,
+      "icon": "fill mail-edit",
+      "svgPath": "icons/fill mail-edit.svg"
+    },
+    {
+      "id": 256,
+      "icon": "fill mail-notification",
+      "svgPath": "icons/fill mail-notification.svg"
+    },
+    {
+      "id": 257,
+      "icon": "fill mail-search",
+      "svgPath": "icons/fill mail-search.svg"
+    },
+    {
+      "id": 258,
+      "icon": "fill mail-star",
+      "svgPath": "icons/fill mail-star.svg"
+    },
+    {
+      "id": 259,
+      "icon": "fill mail-tracking",
+      "svgPath": "icons/fill mail-tracking.svg"
+    },
+    {
+      "id": 260,
+      "icon": "fill mail",
+      "svgPath": "icons/fill mail.svg"
+    },
+    {
+      "id": 261,
+      "icon": "fill map-1",
+      "svgPath": "icons/fill map-1.svg"
+    },
+    {
+      "id": 262,
+      "icon": "fill map",
+      "svgPath": "icons/fill map.svg"
+    },
+    {
+      "id": 263,
+      "icon": "fill math",
+      "svgPath": "icons/fill math.svg"
+    },
+    {
+      "id": 264,
+      "icon": "fill medal-star",
+      "svgPath": "icons/fill medal-star.svg"
+    },
+    {
+      "id": 265,
+      "icon": "fill medal",
+      "svgPath": "icons/fill medal.svg"
+    },
+    {
+      "id": 266,
+      "icon": "fill menu-1",
+      "svgPath": "icons/fill menu-1.svg"
+    },
+    {
+      "id": 267,
+      "icon": "fill menu-board",
+      "svgPath": "icons/fill menu-board.svg"
+    },
+    {
+      "id": 268,
+      "icon": "fill menu",
+      "svgPath": "icons/fill menu.svg"
+    },
+    {
+      "id": 269,
+      "icon": "fill message-2",
+      "svgPath": "icons/fill message-2.svg"
+    },
+    {
+      "id": 270,
+      "icon": "fill message-add-1",
+      "svgPath": "icons/fill message-add-1.svg"
+    },
+    {
+      "id": 271,
+      "icon": "fill message-add",
+      "svgPath": "icons/fill message-add.svg"
+    },
+    {
+      "id": 272,
+      "icon": "fill message-circle",
+      "svgPath": "icons/fill message-circle.svg"
+    },
+    {
+      "id": 273,
+      "icon": "fill message-edit",
+      "svgPath": "icons/fill message-edit.svg"
+    },
+    {
+      "id": 274,
+      "icon": "fill message-favorite",
+      "svgPath": "icons/fill message-favorite.svg"
+    },
+    {
+      "id": 275,
+      "icon": "fill message-minus",
+      "svgPath": "icons/fill message-minus.svg"
+    },
+    {
+      "id": 276,
+      "icon": "fill message-notif",
+      "svgPath": "icons/fill message-notif.svg"
+    },
+    {
+      "id": 277,
+      "icon": "fill message-question",
+      "svgPath": "icons/fill message-question.svg"
+    },
+    {
+      "id": 278,
+      "icon": "fill message-remove",
+      "svgPath": "icons/fill message-remove.svg"
+    },
+    {
+      "id": 279,
+      "icon": "fill message-search",
+      "svgPath": "icons/fill message-search.svg"
+    },
+    {
+      "id": 280,
+      "icon": "fill message-square",
+      "svgPath": "icons/fill message-square.svg"
+    },
+    {
+      "id": 281,
+      "icon": "fill message-text-1",
+      "svgPath": "icons/fill message-text-1.svg"
+    },
+    {
+      "id": 282,
+      "icon": "fill message-text",
+      "svgPath": "icons/fill message-text.svg"
+    },
+    {
+      "id": 283,
+      "icon": "fill message-tick",
+      "svgPath": "icons/fill message-tick.svg"
+    },
+    {
+      "id": 284,
+      "icon": "fill message-time",
+      "svgPath": "icons/fill message-time.svg"
+    },
+    {
+      "id": 285,
+      "icon": "fill message",
+      "svgPath": "icons/fill message.svg"
+    },
+    {
+      "id": 286,
+      "icon": "fill messages-1",
+      "svgPath": "icons/fill messages-1.svg"
+    },
+    {
+      "id": 287,
+      "icon": "fill messages-2",
+      "svgPath": "icons/fill messages-2.svg"
+    },
+    {
+      "id": 288,
+      "icon": "fill messages-3",
+      "svgPath": "icons/fill messages-3.svg"
+    },
+    {
+      "id": 289,
+      "icon": "fill messages",
+      "svgPath": "icons/fill messages.svg"
+    },
+    {
+      "id": 290,
+      "icon": "fill messenger",
+      "svgPath": "icons/fill messenger.svg"
+    },
+    {
+      "id": 291,
+      "icon": "fill microphone-2",
+      "svgPath": "icons/fill microphone-2.svg"
+    },
+    {
+      "id": 292,
+      "icon": "fill microphone-slash-1",
+      "svgPath": "icons/fill microphone-slash-1.svg"
+    },
+    {
+      "id": 293,
+      "icon": "fill microphone-slash",
+      "svgPath": "icons/fill microphone-slash.svg"
+    },
+    {
+      "id": 294,
+      "icon": "fill microphone",
+      "svgPath": "icons/fill microphone.svg"
+    },
+    {
+      "id": 295,
+      "icon": "fill minus-cirlce",
+      "svgPath": "icons/fill minus-cirlce.svg"
+    },
+    {
+      "id": 296,
+      "icon": "fill minus-square",
+      "svgPath": "icons/fill minus-square.svg"
+    },
+    {
+      "id": 297,
+      "icon": "fill minus",
+      "svgPath": "icons/fill minus.svg"
+    },
+    {
+      "id": 298,
+      "icon": "fill money-2",
+      "svgPath": "icons/fill money-2.svg"
+    },
+    {
+      "id": 299,
+      "icon": "fill money-3",
+      "svgPath": "icons/fill money-3.svg"
+    },
+    {
+      "id": 300,
+      "icon": "fill money-4",
+      "svgPath": "icons/fill money-4.svg"
+    },
+    {
+      "id": 301,
+      "icon": "fill money-add",
+      "svgPath": "icons/fill money-add.svg"
+    },
+    {
+      "id": 302,
+      "icon": "fill money-change",
+      "svgPath": "icons/fill money-change.svg"
+    },
+    {
+      "id": 303,
+      "icon": "fill money-forbidden",
+      "svgPath": "icons/fill money-forbidden.svg"
+    },
+    {
+      "id": 304,
+      "icon": "fill money-receive",
+      "svgPath": "icons/fill money-receive.svg"
+    },
+    {
+      "id": 305,
+      "icon": "fill money-remove",
+      "svgPath": "icons/fill money-remove.svg"
+    },
+    {
+      "id": 306,
+      "icon": "fill money-send",
+      "svgPath": "icons/fill money-send.svg"
+    },
+    {
+      "id": 307,
+      "icon": "fill money-tick",
+      "svgPath": "icons/fill money-tick.svg"
+    },
+    {
+      "id": 308,
+      "icon": "fill money-time",
+      "svgPath": "icons/fill money-time.svg"
+    },
+    {
+      "id": 309,
+      "icon": "fill money",
+      "svgPath": "icons/fill money.svg"
+    },
+    {
+      "id": 310,
+      "icon": "fill moneys",
+      "svgPath": "icons/fill moneys.svg"
+    },
+    {
+      "id": 311,
+      "icon": "fill more-2",
+      "svgPath": "icons/fill more-2.svg"
+    },
+    {
+      "id": 312,
+      "icon": "fill more-circle",
+      "svgPath": "icons/fill more-circle.svg"
+    },
+    {
+      "id": 313,
+      "icon": "fill more-square",
+      "svgPath": "icons/fill more-square.svg"
+    },
+    {
+      "id": 314,
+      "icon": "fill more",
+      "svgPath": "icons/fill more.svg"
+    },
+    {
+      "id": 315,
+      "icon": "fill note-1",
+      "svgPath": "icons/fill note-1.svg"
+    },
+    {
+      "id": 316,
+      "icon": "fill note-2",
+      "svgPath": "icons/fill note-2.svg"
+    },
+    {
+      "id": 317,
+      "icon": "fill note-add",
+      "svgPath": "icons/fill note-add.svg"
+    },
+    {
+      "id": 318,
+      "icon": "fill note-remove",
+      "svgPath": "icons/fill note-remove.svg"
+    },
+    {
+      "id": 319,
+      "icon": "fill note-text",
+      "svgPath": "icons/fill note-text.svg"
+    },
+    {
+      "id": 320,
+      "icon": "fill note",
+      "svgPath": "icons/fill note.svg"
+    },
+    {
+      "id": 321,
+      "icon": "fill notification-1",
+      "svgPath": "icons/fill notification-1.svg"
+    },
+    {
+      "id": 322,
+      "icon": "fill notification-bing",
+      "svgPath": "icons/fill notification-bing.svg"
+    },
+    {
+      "id": 323,
+      "icon": "fill notification-circle",
+      "svgPath": "icons/fill notification-circle.svg"
+    },
+    {
+      "id": 324,
+      "icon": "fill notification-status",
+      "svgPath": "icons/fill notification-status.svg"
+    },
+    {
+      "id": 325,
+      "icon": "fill notification",
+      "svgPath": "icons/fill notification.svg"
+    },
+    {
+      "id": 326,
+      "icon": "fill paypal",
+      "svgPath": "icons/fill paypal.svg"
+    },
+    {
+      "id": 327,
+      "icon": "fill paytm",
+      "svgPath": "icons/fill paytm.svg"
+    },
+    {
+      "id": 328,
+      "icon": "fill people-1",
+      "svgPath": "icons/fill people-1.svg"
+    },
+    {
+      "id": 329,
+      "icon": "fill people",
+      "svgPath": "icons/fill people.svg"
+    },
+    {
+      "id": 330,
+      "icon": "fill percentage-circle",
+      "svgPath": "icons/fill percentage-circle.svg"
+    },
+    {
+      "id": 331,
+      "icon": "fill percentage-square",
+      "svgPath": "icons/fill percentage-square.svg"
+    },
+    {
+      "id": 332,
+      "icon": "fill phonepe",
+      "svgPath": "icons/fill phonepe.svg"
+    },
+    {
+      "id": 333,
+      "icon": "fill pie-chart",
+      "svgPath": "icons/fill pie-chart.svg"
+    },
+    {
+      "id": 334,
+      "icon": "fill radar",
+      "svgPath": "icons/fill radar.svg"
+    },
+    {
+      "id": 335,
+      "icon": "fill ranking-1",
+      "svgPath": "icons/fill ranking-1.svg"
+    },
+    {
+      "id": 336,
+      "icon": "fill ranking",
+      "svgPath": "icons/fill ranking.svg"
+    },
+    {
+      "id": 337,
+      "icon": "fill receipt-1",
+      "svgPath": "icons/fill receipt-1.svg"
+    },
+    {
+      "id": 338,
+      "icon": "fill receipt-2-1",
+      "svgPath": "icons/fill receipt-2-1.svg"
+    },
+    {
+      "id": 339,
+      "icon": "fill receipt-2",
+      "svgPath": "icons/fill receipt-2.svg"
+    },
+    {
+      "id": 340,
+      "icon": "fill receipt-add",
+      "svgPath": "icons/fill receipt-add.svg"
+    },
+    {
+      "id": 341,
+      "icon": "fill receipt-discount",
+      "svgPath": "icons/fill receipt-discount.svg"
+    },
+    {
+      "id": 342,
+      "icon": "fill receipt-disscount",
+      "svgPath": "icons/fill receipt-disscount.svg"
+    },
+    {
+      "id": 343,
+      "icon": "fill receipt-edit",
+      "svgPath": "icons/fill receipt-edit.svg"
+    },
+    {
+      "id": 344,
+      "icon": "fill receipt-item",
+      "svgPath": "icons/fill receipt-item.svg"
+    },
+    {
+      "id": 345,
+      "icon": "fill receipt-minus",
+      "svgPath": "icons/fill receipt-minus.svg"
+    },
+    {
+      "id": 346,
+      "icon": "fill receipt-search",
+      "svgPath": "icons/fill receipt-search.svg"
+    },
+    {
+      "id": 347,
+      "icon": "fill receipt-square",
+      "svgPath": "icons/fill receipt-square.svg"
+    },
+    {
+      "id": 348,
+      "icon": "fill receipt-text",
+      "svgPath": "icons/fill receipt-text.svg"
+    },
+    {
+      "id": 349,
+      "icon": "fill receipt",
+      "svgPath": "icons/fill receipt.svg"
+    },
+    {
+      "id": 350,
+      "icon": "fill receive-square-2",
+      "svgPath": "icons/fill receive-square-2.svg"
+    },
+    {
+      "id": 351,
+      "icon": "fill receive-square",
+      "svgPath": "icons/fill receive-square.svg"
+    },
+    {
+      "id": 352,
+      "icon": "fill redo",
+      "svgPath": "icons/fill redo.svg"
+    },
+    {
+      "id": 353,
+      "icon": "fill refresh-2",
+      "svgPath": "icons/fill refresh-2.svg"
+    },
+    {
+      "id": 354,
+      "icon": "fill refresh-circle",
+      "svgPath": "icons/fill refresh-circle.svg"
+    },
+    {
+      "id": 355,
+      "icon": "fill refresh-left-square",
+      "svgPath": "icons/fill refresh-left-square.svg"
+    },
+    {
+      "id": 356,
+      "icon": "fill refresh-right-square",
+      "svgPath": "icons/fill refresh-right-square.svg"
+    },
+    {
+      "id": 357,
+      "icon": "fill refresh-square-2",
+      "svgPath": "icons/fill refresh-square-2.svg"
+    },
+    {
+      "id": 358,
+      "icon": "fill refresh",
+      "svgPath": "icons/fill refresh.svg"
+    },
+    {
+      "id": 359,
+      "icon": "fill repeat-circle",
+      "svgPath": "icons/fill repeat-circle.svg"
+    },
+    {
+      "id": 360,
+      "icon": "fill repeat",
+      "svgPath": "icons/fill repeat.svg"
+    },
+    {
+      "id": 361,
+      "icon": "fill rotate-left",
+      "svgPath": "icons/fill rotate-left.svg"
+    },
+    {
+      "id": 362,
+      "icon": "fill rotate-right",
+      "svgPath": "icons/fill rotate-right.svg"
+    },
+    {
+      "id": 363,
+      "icon": "fill route-square",
+      "svgPath": "icons/fill route-square.svg"
+    },
+    {
+      "id": 364,
+      "icon": "fill rupee-circle",
+      "svgPath": "icons/fill rupee-circle.svg"
+    },
+    {
+      "id": 365,
+      "icon": "fill rupee-recive",
+      "svgPath": "icons/fill rupee-recive.svg"
+    },
+    {
+      "id": 366,
+      "icon": "fill rupee-send",
+      "svgPath": "icons/fill rupee-send.svg"
+    },
+    {
+      "id": 367,
+      "icon": "fill rupee-square",
+      "svgPath": "icons/fill rupee-square.svg"
+    },
+    {
+      "id": 368,
+      "icon": "fill safe-home",
+      "svgPath": "icons/fill safe-home.svg"
+    },
+    {
+      "id": 369,
+      "icon": "fill save-2",
+      "svgPath": "icons/fill save-2.svg"
+    },
+    {
+      "id": 370,
+      "icon": "fill save-add",
+      "svgPath": "icons/fill save-add.svg"
+    },
+    {
+      "id": 371,
+      "icon": "fill save-minus",
+      "svgPath": "icons/fill save-minus.svg"
+    },
+    {
+      "id": 372,
+      "icon": "fill save-remove",
+      "svgPath": "icons/fill save-remove.svg"
+    },
+    {
+      "id": 373,
+      "icon": "fill scan-barcode",
+      "svgPath": "icons/fill scan-barcode.svg"
+    },
+    {
+      "id": 374,
+      "icon": "fill scan",
+      "svgPath": "icons/fill scan.svg"
+    },
+    {
+      "id": 375,
+      "icon": "fill scanner",
+      "svgPath": "icons/fill scanner.svg"
+    },
+    {
+      "id": 376,
+      "icon": "fill search-favorite-1",
+      "svgPath": "icons/fill search-favorite-1.svg"
+    },
+    {
+      "id": 377,
+      "icon": "fill search-favorite",
+      "svgPath": "icons/fill search-favorite.svg"
+    },
+    {
+      "id": 378,
+      "icon": "fill search-normal-1",
+      "svgPath": "icons/fill search-normal-1.svg"
+    },
+    {
+      "id": 379,
+      "icon": "fill search-normal",
+      "svgPath": "icons/fill search-normal.svg"
+    },
+    {
+      "id": 380,
+      "icon": "fill search-status-1",
+      "svgPath": "icons/fill search-status-1.svg"
+    },
+    {
+      "id": 381,
+      "icon": "fill search-status",
+      "svgPath": "icons/fill search-status.svg"
+    },
+    {
+      "id": 382,
+      "icon": "fill search-zoom-in-1",
+      "svgPath": "icons/fill search-zoom-in-1.svg"
+    },
+    {
+      "id": 383,
+      "icon": "fill search-zoom-in",
+      "svgPath": "icons/fill search-zoom-in.svg"
+    },
+    {
+      "id": 384,
+      "icon": "fill search-zoom-out-1",
+      "svgPath": "icons/fill search-zoom-out-1.svg"
+    },
+    {
+      "id": 385,
+      "icon": "fill search-zoom-out",
+      "svgPath": "icons/fill search-zoom-out.svg"
+    },
+    {
+      "id": 386,
+      "icon": "fill security-card",
+      "svgPath": "icons/fill security-card.svg"
+    },
+    {
+      "id": 387,
+      "icon": "fill security-safe",
+      "svgPath": "icons/fill security-safe.svg"
+    },
+    {
+      "id": 388,
+      "icon": "fill security-time",
+      "svgPath": "icons/fill security-time.svg"
+    },
+    {
+      "id": 389,
+      "icon": "fill security-user",
+      "svgPath": "icons/fill security-user.svg"
+    },
+    {
+      "id": 390,
+      "icon": "fill security",
+      "svgPath": "icons/fill security.svg"
+    },
+    {
+      "id": 391,
+      "icon": "fill send-1",
+      "svgPath": "icons/fill send-1.svg"
+    },
+    {
+      "id": 392,
+      "icon": "fill send-2",
+      "svgPath": "icons/fill send-2.svg"
+    },
+    {
+      "id": 393,
+      "icon": "fill send-sqaure-2",
+      "svgPath": "icons/fill send-sqaure-2.svg"
+    },
+    {
+      "id": 394,
+      "icon": "fill send-square",
+      "svgPath": "icons/fill send-square.svg"
+    },
+    {
+      "id": 395,
+      "icon": "fill setting-2",
+      "svgPath": "icons/fill setting-2.svg"
+    },
+    {
+      "id": 396,
+      "icon": "fill setting-3",
+      "svgPath": "icons/fill setting-3.svg"
+    },
+    {
+      "id": 397,
+      "icon": "fill setting-4",
+      "svgPath": "icons/fill setting-4.svg"
+    },
+    {
+      "id": 398,
+      "icon": "fill setting",
+      "svgPath": "icons/fill setting.svg"
+    },
+    {
+      "id": 399,
+      "icon": "fill settings",
+      "svgPath": "icons/fill settings.svg"
+    },
+    {
+      "id": 400,
+      "icon": "fill share",
+      "svgPath": "icons/fill share.svg"
+    },
+    {
+      "id": 401,
+      "icon": "fill shield-cross",
+      "svgPath": "icons/fill shield-cross.svg"
+    },
+    {
+      "id": 402,
+      "icon": "fill shield-search",
+      "svgPath": "icons/fill shield-search.svg"
+    },
+    {
+      "id": 403,
+      "icon": "fill shield-security",
+      "svgPath": "icons/fill shield-security.svg"
+    },
+    {
+      "id": 404,
+      "icon": "fill shield-slash",
+      "svgPath": "icons/fill shield-slash.svg"
+    },
+    {
+      "id": 405,
+      "icon": "fill shield-tick",
+      "svgPath": "icons/fill shield-tick.svg"
+    },
+    {
+      "id": 406,
+      "icon": "fill shield",
+      "svgPath": "icons/fill shield.svg"
+    },
+    {
+      "id": 407,
+      "icon": "fill shop-add",
+      "svgPath": "icons/fill shop-add.svg"
+    },
+    {
+      "id": 408,
+      "icon": "fill shop-remove",
+      "svgPath": "icons/fill shop-remove.svg"
+    },
+    {
+      "id": 409,
+      "icon": "fill shop",
+      "svgPath": "icons/fill shop.svg"
+    },
+    {
+      "id": 410,
+      "icon": "fill shopping-bag",
+      "svgPath": "icons/fill shopping-bag.svg"
+    },
+    {
+      "id": 411,
+      "icon": "fill shopping-cart",
+      "svgPath": "icons/fill shopping-cart.svg"
+    },
+    {
+      "id": 412,
+      "icon": "fill signpost",
+      "svgPath": "icons/fill signpost.svg"
+    },
+    {
+      "id": 413,
+      "icon": "fill slack",
+      "svgPath": "icons/fill slack.svg"
+    },
+    {
+      "id": 414,
+      "icon": "fill slash",
+      "svgPath": "icons/fill slash.svg"
+    },
+    {
+      "id": 415,
+      "icon": "fill smart-car",
+      "svgPath": "icons/fill smart-car.svg"
+    },
+    {
+      "id": 416,
+      "icon": "fill smart-home",
+      "svgPath": "icons/fill smart-home.svg"
+    },
+    {
+      "id": 417,
+      "icon": "fill smileys",
+      "svgPath": "icons/fill smileys.svg"
+    },
+    {
+      "id": 418,
+      "icon": "fill snapchat",
+      "svgPath": "icons/fill snapchat.svg"
+    },
+    {
+      "id": 419,
+      "icon": "fill sort",
+      "svgPath": "icons/fill sort.svg"
+    },
+    {
+      "id": 420,
+      "icon": "fill speedometer",
+      "svgPath": "icons/fill speedometer.svg"
+    },
+    {
+      "id": 421,
+      "icon": "fill star-1",
+      "svgPath": "icons/fill star-1.svg"
+    },
+    {
+      "id": 422,
+      "icon": "fill star-slash",
+      "svgPath": "icons/fill star-slash.svg"
+    },
+    {
+      "id": 423,
+      "icon": "fill star",
+      "svgPath": "icons/fill star.svg"
+    },
+    {
+      "id": 424,
+      "icon": "fill sticky-note",
+      "svgPath": "icons/fill sticky-note.svg"
+    },
+    {
+      "id": 425,
+      "icon": "fill support",
+      "svgPath": "icons/fill support.svg"
+    },
+    {
+      "id": 426,
+      "icon": "fill tag-2",
+      "svgPath": "icons/fill tag-2.svg"
+    },
+    {
+      "id": 427,
+      "icon": "fill tag-cross",
+      "svgPath": "icons/fill tag-cross.svg"
+    },
+    {
+      "id": 428,
+      "icon": "fill tag-right",
+      "svgPath": "icons/fill tag-right.svg"
+    },
+    {
+      "id": 429,
+      "icon": "fill tag-user",
+      "svgPath": "icons/fill tag-user.svg"
+    },
+    {
+      "id": 430,
+      "icon": "fill tag",
+      "svgPath": "icons/fill tag.svg"
+    },
+    {
+      "id": 431,
+      "icon": "fill task-square",
+      "svgPath": "icons/fill task-square.svg"
+    },
+    {
+      "id": 432,
+      "icon": "fill task",
+      "svgPath": "icons/fill task.svg"
+    },
+    {
+      "id": 433,
+      "icon": "fill teacher",
+      "svgPath": "icons/fill teacher.svg"
+    },
+    {
+      "id": 434,
+      "icon": "fill tick-circle",
+      "svgPath": "icons/fill tick-circle.svg"
+    },
+    {
+      "id": 435,
+      "icon": "fill tick-square",
+      "svgPath": "icons/fill tick-square.svg"
+    },
+    {
+      "id": 436,
+      "icon": "fill timer",
+      "svgPath": "icons/fill timer.svg"
+    },
+    {
+      "id": 437,
+      "icon": "fill toggle-off-circle",
+      "svgPath": "icons/fill toggle-off-circle.svg"
+    },
+    {
+      "id": 438,
+      "icon": "fill toggle-off",
+      "svgPath": "icons/fill toggle-off.svg"
+    },
+    {
+      "id": 439,
+      "icon": "fill toggle-on-circle",
+      "svgPath": "icons/fill toggle-on-circle.svg"
+    },
+    {
+      "id": 440,
+      "icon": "fill toggle-on",
+      "svgPath": "icons/fill toggle-on.svg"
+    },
+    {
+      "id": 441,
+      "icon": "fill transaction-minus",
+      "svgPath": "icons/fill transaction-minus.svg"
+    },
+    {
+      "id": 442,
+      "icon": "fill trash",
+      "svgPath": "icons/fill trash.svg"
+    },
+    {
+      "id": 443,
+      "icon": "fill truck-fast",
+      "svgPath": "icons/fill truck-fast.svg"
+    },
+    {
+      "id": 444,
+      "icon": "fill truck-remove",
+      "svgPath": "icons/fill truck-remove.svg"
+    },
+    {
+      "id": 445,
+      "icon": "fill truck-tick",
+      "svgPath": "icons/fill truck-tick.svg"
+    },
+    {
+      "id": 446,
+      "icon": "fill truck-time",
+      "svgPath": "icons/fill truck-time.svg"
+    },
+    {
+      "id": 447,
+      "icon": "fill truck",
+      "svgPath": "icons/fill truck.svg"
+    },
+    {
+      "id": 448,
+      "icon": "fill trush-square",
+      "svgPath": "icons/fill trush-square.svg"
+    },
+    {
+      "id": 449,
+      "icon": "fill twitch",
+      "svgPath": "icons/fill twitch.svg"
+    },
+    {
+      "id": 450,
+      "icon": "fill undo",
+      "svgPath": "icons/fill undo.svg"
+    },
+    {
+      "id": 451,
+      "icon": "fill unlock",
+      "svgPath": "icons/fill unlock.svg"
+    },
+    {
+      "id": 452,
+      "icon": "fill user-1",
+      "svgPath": "icons/fill user-1.svg"
+    },
+    {
+      "id": 453,
+      "icon": "fill user-add-1",
+      "svgPath": "icons/fill user-add-1.svg"
+    },
+    {
+      "id": 454,
+      "icon": "fill user-add",
+      "svgPath": "icons/fill user-add.svg"
+    },
+    {
+      "id": 455,
+      "icon": "fill user-circle",
+      "svgPath": "icons/fill user-circle.svg"
+    },
+    {
+      "id": 456,
+      "icon": "fill user-cirlce-add",
+      "svgPath": "icons/fill user-cirlce-add.svg"
+    },
+    {
+      "id": 457,
+      "icon": "fill user-edit",
+      "svgPath": "icons/fill user-edit.svg"
+    },
+    {
+      "id": 458,
+      "icon": "fill user-minus-1",
+      "svgPath": "icons/fill user-minus-1.svg"
+    },
+    {
+      "id": 459,
+      "icon": "fill user-minus",
+      "svgPath": "icons/fill user-minus.svg"
+    },
+    {
+      "id": 460,
+      "icon": "fill user-octagon",
+      "svgPath": "icons/fill user-octagon.svg"
+    },
+    {
+      "id": 461,
+      "icon": "fill user-remove-1",
+      "svgPath": "icons/fill user-remove-1.svg"
+    },
+    {
+      "id": 462,
+      "icon": "fill user-remove",
+      "svgPath": "icons/fill user-remove.svg"
+    },
+    {
+      "id": 463,
+      "icon": "fill user-search",
+      "svgPath": "icons/fill user-search.svg"
+    },
+    {
+      "id": 464,
+      "icon": "fill user-square",
+      "svgPath": "icons/fill user-square.svg"
+    },
+    {
+      "id": 465,
+      "icon": "fill user-tag",
+      "svgPath": "icons/fill user-tag.svg"
+    },
+    {
+      "id": 466,
+      "icon": "fill user-tick-1",
+      "svgPath": "icons/fill user-tick-1.svg"
+    },
+    {
+      "id": 467,
+      "icon": "fill user-tick",
+      "svgPath": "icons/fill user-tick.svg"
+    },
+    {
+      "id": 468,
+      "icon": "fill user",
+      "svgPath": "icons/fill user.svg"
+    },
+    {
+      "id": 469,
+      "icon": "fill verify",
+      "svgPath": "icons/fill verify.svg"
+    },
+    {
+      "id": 470,
+      "icon": "fill video-slash",
+      "svgPath": "icons/fill video-slash.svg"
+    },
+    {
+      "id": 471,
+      "icon": "fill video",
+      "svgPath": "icons/fill video.svg"
+    },
+    {
+      "id": 472,
+      "icon": "fill voice-circle",
+      "svgPath": "icons/fill voice-circle.svg"
+    },
+    {
+      "id": 473,
+      "icon": "fill voice-square",
+      "svgPath": "icons/fill voice-square.svg"
+    },
+    {
+      "id": 474,
+      "icon": "fill volume-cross",
+      "svgPath": "icons/fill volume-cross.svg"
+    },
+    {
+      "id": 475,
+      "icon": "fill volume-high",
+      "svgPath": "icons/fill volume-high.svg"
+    },
+    {
+      "id": 476,
+      "icon": "fill volume-low-1",
+      "svgPath": "icons/fill volume-low-1.svg"
+    },
+    {
+      "id": 477,
+      "icon": "fill volume-low",
+      "svgPath": "icons/fill volume-low.svg"
+    },
+    {
+      "id": 478,
+      "icon": "fill volume-mute",
+      "svgPath": "icons/fill volume-mute.svg"
+    },
+    {
+      "id": 479,
+      "icon": "fill volume-slash",
+      "svgPath": "icons/fill volume-slash.svg"
+    },
+    {
+      "id": 480,
+      "icon": "fill volume-up",
+      "svgPath": "icons/fill volume-up.svg"
+    },
+    {
+      "id": 481,
+      "icon": "fill wallet-1",
+      "svgPath": "icons/fill wallet-1.svg"
+    },
+    {
+      "id": 482,
+      "icon": "fill wallet-2",
+      "svgPath": "icons/fill wallet-2.svg"
+    },
+    {
+      "id": 483,
+      "icon": "fill wallet-3",
+      "svgPath": "icons/fill wallet-3.svg"
+    },
+    {
+      "id": 484,
+      "icon": "fill wallet-add-1",
+      "svgPath": "icons/fill wallet-add-1.svg"
+    },
+    {
+      "id": 485,
+      "icon": "fill wallet-add",
+      "svgPath": "icons/fill wallet-add.svg"
+    },
+    {
+      "id": 486,
+      "icon": "fill wallet-check",
+      "svgPath": "icons/fill wallet-check.svg"
+    },
+    {
+      "id": 487,
+      "icon": "fill wallet-money",
+      "svgPath": "icons/fill wallet-money.svg"
+    },
+    {
+      "id": 488,
+      "icon": "fill wallet-remove",
+      "svgPath": "icons/fill wallet-remove.svg"
+    },
+    {
+      "id": 489,
+      "icon": "fill wallet-search",
+      "svgPath": "icons/fill wallet-search.svg"
+    },
+    {
+      "id": 490,
+      "icon": "fill wallet",
+      "svgPath": "icons/fill wallet.svg"
+    },
+    {
+      "id": 491,
+      "icon": "fill warning-2",
+      "svgPath": "icons/fill warning-2.svg"
+    },
+    {
+      "id": 492,
+      "icon": "fill whatsapp",
+      "svgPath": "icons/fill whatsapp.svg"
+    },
+    {
+      "id": 493,
+      "icon": "fill wifi-square",
+      "svgPath": "icons/fill wifi-square.svg"
+    },
+    {
+      "id": 494,
+      "icon": "fill windows",
+      "svgPath": "icons/fill windows.svg"
+    },
+    {
+      "id": 495,
+      "icon": "fill youtube",
+      "svgPath": "icons/fill youtube.svg"
+    },
+    {
+      "id": 496,
+      "icon": "fill zoom",
+      "svgPath": "icons/fill zoom.svg"
+    },
+    {
+      "id": 497,
+      "icon": "outline add-circle",
+      "svgPath": "icons/outline add-circle.svg"
+    },
+    {
+      "id": 498,
+      "icon": "outline add-square",
+      "svgPath": "icons/outline add-square.svg"
+    },
+    {
+      "id": 499,
+      "icon": "outline add",
+      "svgPath": "icons/outline add.svg"
+    },
+    {
+      "id": 500,
+      "icon": "outline android",
+      "svgPath": "icons/outline android.svg"
+    },
+    {
+      "id": 501,
+      "icon": "outline apple",
+      "svgPath": "icons/outline apple.svg"
+    },
+    {
+      "id": 502,
+      "icon": "outline archive-1",
+      "svgPath": "icons/outline archive-1.svg"
+    },
+    {
+      "id": 503,
+      "icon": "outline archive-add",
+      "svgPath": "icons/outline archive-add.svg"
+    },
+    {
+      "id": 504,
+      "icon": "outline archive-book",
+      "svgPath": "icons/outline archive-book.svg"
+    },
+    {
+      "id": 505,
+      "icon": "outline archive-minus",
+      "svgPath": "icons/outline archive-minus.svg"
+    },
+    {
+      "id": 506,
+      "icon": "outline archive-slash",
+      "svgPath": "icons/outline archive-slash.svg"
+    },
+    {
+      "id": 507,
+      "icon": "outline archive-tick",
+      "svgPath": "icons/outline archive-tick.svg"
+    },
+    {
+      "id": 508,
+      "icon": "outline archive",
+      "svgPath": "icons/outline archive.svg"
+    },
+    {
+      "id": 509,
+      "icon": "outline arrange-circle-2",
+      "svgPath": "icons/outline arrange-circle-2.svg"
+    },
+    {
+      "id": 510,
+      "icon": "outline arrange-circle",
+      "svgPath": "icons/outline arrange-circle.svg"
+    },
+    {
+      "id": 511,
+      "icon": "outline arrange-square-2",
+      "svgPath": "icons/outline arrange-square-2.svg"
+    },
+    {
+      "id": 512,
+      "icon": "outline arrange-square",
+      "svgPath": "icons/outline arrange-square.svg"
+    },
+    {
+      "id": 513,
+      "icon": "outline arrow-circle-down-1",
+      "svgPath": "icons/outline arrow-circle-down-1.svg"
+    },
+    {
+      "id": 514,
+      "icon": "outline arrow-circle-down",
+      "svgPath": "icons/outline arrow-circle-down.svg"
+    },
+    {
+      "id": 515,
+      "icon": "outline arrow-circle-left-1",
+      "svgPath": "icons/outline arrow-circle-left-1.svg"
+    },
+    {
+      "id": 516,
+      "icon": "outline arrow-circle-left",
+      "svgPath": "icons/outline arrow-circle-left.svg"
+    },
+    {
+      "id": 517,
+      "icon": "outline arrow-circle-right-1",
+      "svgPath": "icons/outline arrow-circle-right-1.svg"
+    },
+    {
+      "id": 518,
+      "icon": "outline arrow-circle-right",
+      "svgPath": "icons/outline arrow-circle-right.svg"
+    },
+    {
+      "id": 519,
+      "icon": "outline arrow-circle-up-1",
+      "svgPath": "icons/outline arrow-circle-up-1.svg"
+    },
+    {
+      "id": 520,
+      "icon": "outline arrow-circle-up",
+      "svgPath": "icons/outline arrow-circle-up.svg"
+    },
+    {
+      "id": 521,
+      "icon": "outline arrow-down-1",
+      "svgPath": "icons/outline arrow-down-1.svg"
+    },
+    {
+      "id": 522,
+      "icon": "outline arrow-down-2",
+      "svgPath": "icons/outline arrow-down-2.svg"
+    },
+    {
+      "id": 523,
+      "icon": "outline arrow-down",
+      "svgPath": "icons/outline arrow-down.svg"
+    },
+    {
+      "id": 524,
+      "icon": "outline arrow-left-1",
+      "svgPath": "icons/outline arrow-left-1.svg"
+    },
+    {
+      "id": 525,
+      "icon": "outline arrow-left-2",
+      "svgPath": "icons/outline arrow-left-2.svg"
+    },
+    {
+      "id": 526,
+      "icon": "outline arrow-left-right",
+      "svgPath": "icons/outline arrow-left-right.svg"
+    },
+    {
+      "id": 527,
+      "icon": "outline arrow-left",
+      "svgPath": "icons/outline arrow-left.svg"
+    },
+    {
+      "id": 528,
+      "icon": "outline arrow-right-1",
+      "svgPath": "icons/outline arrow-right-1.svg"
+    },
+    {
+      "id": 529,
+      "icon": "outline arrow-right-2",
+      "svgPath": "icons/outline arrow-right-2.svg"
+    },
+    {
+      "id": 530,
+      "icon": "outline arrow-right",
+      "svgPath": "icons/outline arrow-right.svg"
+    },
+    {
+      "id": 531,
+      "icon": "outline arrow-square-down",
+      "svgPath": "icons/outline arrow-square-down.svg"
+    },
+    {
+      "id": 532,
+      "icon": "outline arrow-square-left",
+      "svgPath": "icons/outline arrow-square-left.svg"
+    },
+    {
+      "id": 533,
+      "icon": "outline arrow-square-right",
+      "svgPath": "icons/outline arrow-square-right.svg"
+    },
+    {
+      "id": 534,
+      "icon": "outline arrow-square-up",
+      "svgPath": "icons/outline arrow-square-up.svg"
+    },
+    {
+      "id": 535,
+      "icon": "outline arrow-swap-horizontal",
+      "svgPath": "icons/outline arrow-swap-horizontal.svg"
+    },
+    {
+      "id": 536,
+      "icon": "outline arrow-swap",
+      "svgPath": "icons/outline arrow-swap.svg"
+    },
+    {
+      "id": 537,
+      "icon": "outline arrow-up-1",
+      "svgPath": "icons/outline arrow-up-1.svg"
+    },
+    {
+      "id": 538,
+      "icon": "outline arrow-up-2",
+      "svgPath": "icons/outline arrow-up-2.svg"
+    },
+    {
+      "id": 539,
+      "icon": "outline arrow-up-down",
+      "svgPath": "icons/outline arrow-up-down.svg"
+    },
+    {
+      "id": 540,
+      "icon": "outline arrow-up",
+      "svgPath": "icons/outline arrow-up.svg"
+    },
+    {
+      "id": 541,
+      "icon": "outline award",
+      "svgPath": "icons/outline award.svg"
+    },
+    {
+      "id": 542,
+      "icon": "outline back-square",
+      "svgPath": "icons/outline back-square.svg"
+    },
+    {
+      "id": 543,
+      "icon": "outline bag-2",
+      "svgPath": "icons/outline bag-2.svg"
+    },
+    {
+      "id": 544,
+      "icon": "outline bag-cross-1",
+      "svgPath": "icons/outline bag-cross-1.svg"
+    },
+    {
+      "id": 545,
+      "icon": "outline bag-cross",
+      "svgPath": "icons/outline bag-cross.svg"
+    },
+    {
+      "id": 546,
+      "icon": "outline bag-happy",
+      "svgPath": "icons/outline bag-happy.svg"
+    },
+    {
+      "id": 547,
+      "icon": "outline bag-tick-2",
+      "svgPath": "icons/outline bag-tick-2.svg"
+    },
+    {
+      "id": 548,
+      "icon": "outline bag-tick",
+      "svgPath": "icons/outline bag-tick.svg"
+    },
+    {
+      "id": 549,
+      "icon": "outline bag-timer",
+      "svgPath": "icons/outline bag-timer.svg"
+    },
+    {
+      "id": 550,
+      "icon": "outline bag",
+      "svgPath": "icons/outline bag.svg"
+    },
+    {
+      "id": 551,
+      "icon": "outline bank",
+      "svgPath": "icons/outline bank.svg"
+    },
+    {
+      "id": 552,
+      "icon": "outline barcode",
+      "svgPath": "icons/outline barcode.svg"
+    },
+    {
+      "id": 553,
+      "icon": "outline bill",
+      "svgPath": "icons/outline bill.svg"
+    },
+    {
+      "id": 554,
+      "icon": "outline book-1",
+      "svgPath": "icons/outline book-1.svg"
+    },
+    {
+      "id": 555,
+      "icon": "outline book-saved",
+      "svgPath": "icons/outline book-saved.svg"
+    },
+    {
+      "id": 556,
+      "icon": "outline book-square",
+      "svgPath": "icons/outline book-square.svg"
+    },
+    {
+      "id": 557,
+      "icon": "outline book",
+      "svgPath": "icons/outline book.svg"
+    },
+    {
+      "id": 558,
+      "icon": "outline bookmark-2",
+      "svgPath": "icons/outline bookmark-2.svg"
+    },
+    {
+      "id": 559,
+      "icon": "outline bookmark",
+      "svgPath": "icons/outline bookmark.svg"
+    },
+    {
+      "id": 560,
+      "icon": "outline box",
+      "svgPath": "icons/outline box.svg"
+    },
+    {
+      "id": 561,
+      "icon": "outline briefcase",
+      "svgPath": "icons/outline briefcase.svg"
+    },
+    {
+      "id": 562,
+      "icon": "outline brifecase-cross",
+      "svgPath": "icons/outline brifecase-cross.svg"
+    },
+    {
+      "id": 563,
+      "icon": "outline brifecase-tick",
+      "svgPath": "icons/outline brifecase-tick.svg"
+    },
+    {
+      "id": 564,
+      "icon": "outline brifecase-timer",
+      "svgPath": "icons/outline brifecase-timer.svg"
+    },
+    {
+      "id": 565,
+      "icon": "outline building-1",
+      "svgPath": "icons/outline building-1.svg"
+    },
+    {
+      "id": 566,
+      "icon": "outline building-2",
+      "svgPath": "icons/outline building-2.svg"
+    },
+    {
+      "id": 567,
+      "icon": "outline building-3",
+      "svgPath": "icons/outline building-3.svg"
+    },
+    {
+      "id": 568,
+      "icon": "outline building",
+      "svgPath": "icons/outline building.svg"
+    },
+    {
+      "id": 569,
+      "icon": "outline bus",
+      "svgPath": "icons/outline bus.svg"
+    },
+    {
+      "id": 570,
+      "icon": "outline calculator",
+      "svgPath": "icons/outline calculator.svg"
+    },
+    {
+      "id": 571,
+      "icon": "outline calendar-1",
+      "svgPath": "icons/outline calendar-1.svg"
+    },
+    {
+      "id": 572,
+      "icon": "outline calendar-2",
+      "svgPath": "icons/outline calendar-2.svg"
+    },
+    {
+      "id": 573,
+      "icon": "outline calendar-add",
+      "svgPath": "icons/outline calendar-add.svg"
+    },
+    {
+      "id": 574,
+      "icon": "outline calendar-circle",
+      "svgPath": "icons/outline calendar-circle.svg"
+    },
+    {
+      "id": 575,
+      "icon": "outline calendar-edit",
+      "svgPath": "icons/outline calendar-edit.svg"
+    },
+    {
+      "id": 576,
+      "icon": "outline calendar-remove",
+      "svgPath": "icons/outline calendar-remove.svg"
+    },
+    {
+      "id": 577,
+      "icon": "outline calendar-search",
+      "svgPath": "icons/outline calendar-search.svg"
+    },
+    {
+      "id": 578,
+      "icon": "outline calendar-tick",
+      "svgPath": "icons/outline calendar-tick.svg"
+    },
+    {
+      "id": 579,
+      "icon": "outline calendar",
+      "svgPath": "icons/outline calendar.svg"
+    },
+    {
+      "id": 580,
+      "icon": "outline call-add",
+      "svgPath": "icons/outline call-add.svg"
+    },
+    {
+      "id": 581,
+      "icon": "outline call-calling",
+      "svgPath": "icons/outline call-calling.svg"
+    },
+    {
+      "id": 582,
+      "icon": "outline call-incoming",
+      "svgPath": "icons/outline call-incoming.svg"
+    },
+    {
+      "id": 583,
+      "icon": "outline call-minus",
+      "svgPath": "icons/outline call-minus.svg"
+    },
+    {
+      "id": 584,
+      "icon": "outline call-outgoing",
+      "svgPath": "icons/outline call-outgoing.svg"
+    },
+    {
+      "id": 585,
+      "icon": "outline call-received",
+      "svgPath": "icons/outline call-received.svg"
+    },
+    {
+      "id": 586,
+      "icon": "outline call-remove",
+      "svgPath": "icons/outline call-remove.svg"
+    },
+    {
+      "id": 587,
+      "icon": "outline call-slash",
+      "svgPath": "icons/outline call-slash.svg"
+    },
+    {
+      "id": 588,
+      "icon": "outline call",
+      "svgPath": "icons/outline call.svg"
+    },
+    {
+      "id": 589,
+      "icon": "outline camera-slash",
+      "svgPath": "icons/outline camera-slash.svg"
+    },
+    {
+      "id": 590,
+      "icon": "outline camera",
+      "svgPath": "icons/outline camera.svg"
+    },
+    {
+      "id": 591,
+      "icon": "outline car",
+      "svgPath": "icons/outline car.svg"
+    },
+    {
+      "id": 592,
+      "icon": "outline card-add",
+      "svgPath": "icons/outline card-add.svg"
+    },
+    {
+      "id": 593,
+      "icon": "outline card-edit",
+      "svgPath": "icons/outline card-edit.svg"
+    },
+    {
+      "id": 594,
+      "icon": "outline card-pos",
+      "svgPath": "icons/outline card-pos.svg"
+    },
+    {
+      "id": 595,
+      "icon": "outline card-receive",
+      "svgPath": "icons/outline card-receive.svg"
+    },
+    {
+      "id": 596,
+      "icon": "outline card-remove-1",
+      "svgPath": "icons/outline card-remove-1.svg"
+    },
+    {
+      "id": 597,
+      "icon": "outline card-remove",
+      "svgPath": "icons/outline card-remove.svg"
+    },
+    {
+      "id": 598,
+      "icon": "outline card-send",
+      "svgPath": "icons/outline card-send.svg"
+    },
+    {
+      "id": 599,
+      "icon": "outline card-slash",
+      "svgPath": "icons/outline card-slash.svg"
+    },
+    {
+      "id": 600,
+      "icon": "outline card-tick-1",
+      "svgPath": "icons/outline card-tick-1.svg"
+    },
+    {
+      "id": 601,
+      "icon": "outline card-tick",
+      "svgPath": "icons/outline card-tick.svg"
+    },
+    {
+      "id": 602,
+      "icon": "outline cards",
+      "svgPath": "icons/outline cards.svg"
+    },
+    {
+      "id": 603,
+      "icon": "outline category-2",
+      "svgPath": "icons/outline category-2.svg"
+    },
+    {
+      "id": 604,
+      "icon": "outline category",
+      "svgPath": "icons/outline category.svg"
+    },
+    {
+      "id": 605,
+      "icon": "outline chart-2",
+      "svgPath": "icons/outline chart-2.svg"
+    },
+    {
+      "id": 606,
+      "icon": "outline chart",
+      "svgPath": "icons/outline chart.svg"
+    },
+    {
+      "id": 607,
+      "icon": "outline clipboard-close",
+      "svgPath": "icons/outline clipboard-close.svg"
+    },
+    {
+      "id": 608,
+      "icon": "outline clipboard-export",
+      "svgPath": "icons/outline clipboard-export.svg"
+    },
+    {
+      "id": 609,
+      "icon": "outline clipboard-import",
+      "svgPath": "icons/outline clipboard-import.svg"
+    },
+    {
+      "id": 610,
+      "icon": "outline clipboard-text",
+      "svgPath": "icons/outline clipboard-text.svg"
+    },
+    {
+      "id": 611,
+      "icon": "outline clipboard-tick",
+      "svgPath": "icons/outline clipboard-tick.svg"
+    },
+    {
+      "id": 612,
+      "icon": "outline clock",
+      "svgPath": "icons/outline clock.svg"
+    },
+    {
+      "id": 613,
+      "icon": "outline close-circle",
+      "svgPath": "icons/outline close-circle.svg"
+    },
+    {
+      "id": 614,
+      "icon": "outline close-square",
+      "svgPath": "icons/outline close-square.svg"
+    },
+    {
+      "id": 615,
+      "icon": "outline computing",
+      "svgPath": "icons/outline computing.svg"
+    },
+    {
+      "id": 616,
+      "icon": "outline convert",
+      "svgPath": "icons/outline convert.svg"
+    },
+    {
+      "id": 617,
+      "icon": "outline courthouse",
+      "svgPath": "icons/outline courthouse.svg"
+    },
+    {
+      "id": 618,
+      "icon": "outline credit-card",
+      "svgPath": "icons/outline credit-card.svg"
+    },
+    {
+      "id": 619,
+      "icon": "outline cup",
+      "svgPath": "icons/outline cup.svg"
+    },
+    {
+      "id": 620,
+      "icon": "outline danger",
+      "svgPath": "icons/outline danger.svg"
+    },
+    {
+      "id": 621,
+      "icon": "outline device-message",
+      "svgPath": "icons/outline device-message.svg"
+    },
+    {
+      "id": 622,
+      "icon": "outline direct-down",
+      "svgPath": "icons/outline direct-down.svg"
+    },
+    {
+      "id": 623,
+      "icon": "outline direct-inbox",
+      "svgPath": "icons/outline direct-inbox.svg"
+    },
+    {
+      "id": 624,
+      "icon": "outline direct-left",
+      "svgPath": "icons/outline direct-left.svg"
+    },
+    {
+      "id": 625,
+      "icon": "outline direct-normal",
+      "svgPath": "icons/outline direct-normal.svg"
+    },
+    {
+      "id": 626,
+      "icon": "outline direct-notification",
+      "svgPath": "icons/outline direct-notification.svg"
+    },
+    {
+      "id": 627,
+      "icon": "outline direct-right",
+      "svgPath": "icons/outline direct-right.svg"
+    },
+    {
+      "id": 628,
+      "icon": "outline direct-send",
+      "svgPath": "icons/outline direct-send.svg"
+    },
+    {
+      "id": 629,
+      "icon": "outline direct-up",
+      "svgPath": "icons/outline direct-up.svg"
+    },
+    {
+      "id": 630,
+      "icon": "outline direct",
+      "svgPath": "icons/outline direct.svg"
+    },
+    {
+      "id": 631,
+      "icon": "outline directbox-default",
+      "svgPath": "icons/outline directbox-default.svg"
+    },
+    {
+      "id": 632,
+      "icon": "outline directbox-notif",
+      "svgPath": "icons/outline directbox-notif.svg"
+    },
+    {
+      "id": 633,
+      "icon": "outline directbox-receive",
+      "svgPath": "icons/outline directbox-receive.svg"
+    },
+    {
+      "id": 634,
+      "icon": "outline directbox-send",
+      "svgPath": "icons/outline directbox-send.svg"
+    },
+    {
+      "id": 635,
+      "icon": "outline discount-circle",
+      "svgPath": "icons/outline discount-circle.svg"
+    },
+    {
+      "id": 636,
+      "icon": "outline discount-shape",
+      "svgPath": "icons/outline discount-shape.svg"
+    },
+    {
+      "id": 637,
+      "icon": "outline discover",
+      "svgPath": "icons/outline discover.svg"
+    },
+    {
+      "id": 638,
+      "icon": "outline dislike",
+      "svgPath": "icons/outline dislike.svg"
+    },
+    {
+      "id": 639,
+      "icon": "outline document-1",
+      "svgPath": "icons/outline document-1.svg"
+    },
+    {
+      "id": 640,
+      "icon": "outline document-copy",
+      "svgPath": "icons/outline document-copy.svg"
+    },
+    {
+      "id": 641,
+      "icon": "outline document-download",
+      "svgPath": "icons/outline document-download.svg"
+    },
+    {
+      "id": 642,
+      "icon": "outline document-filter",
+      "svgPath": "icons/outline document-filter.svg"
+    },
+    {
+      "id": 643,
+      "icon": "outline document-forward",
+      "svgPath": "icons/outline document-forward.svg"
+    },
+    {
+      "id": 644,
+      "icon": "outline document-normal",
+      "svgPath": "icons/outline document-normal.svg"
+    },
+    {
+      "id": 645,
+      "icon": "outline document-previous",
+      "svgPath": "icons/outline document-previous.svg"
+    },
+    {
+      "id": 646,
+      "icon": "outline document-text-1",
+      "svgPath": "icons/outline document-text-1.svg"
+    },
+    {
+      "id": 647,
+      "icon": "outline document-text",
+      "svgPath": "icons/outline document-text.svg"
+    },
+    {
+      "id": 648,
+      "icon": "outline document-upload",
+      "svgPath": "icons/outline document-upload.svg"
+    },
+    {
+      "id": 649,
+      "icon": "outline document",
+      "svgPath": "icons/outline document.svg"
+    },
+    {
+      "id": 650,
+      "icon": "outline dollar-circle",
+      "svgPath": "icons/outline dollar-circle.svg"
+    },
+    {
+      "id": 651,
+      "icon": "outline dollar-square",
+      "svgPath": "icons/outline dollar-square.svg"
+    },
+    {
+      "id": 652,
+      "icon": "outline dribbble",
+      "svgPath": "icons/outline dribbble.svg"
+    },
+    {
+      "id": 653,
+      "icon": "outline driving",
+      "svgPath": "icons/outline driving.svg"
+    },
+    {
+      "id": 654,
+      "icon": "outline edit-2",
+      "svgPath": "icons/outline edit-2.svg"
+    },
+    {
+      "id": 655,
+      "icon": "outline edit",
+      "svgPath": "icons/outline edit.svg"
+    },
+    {
+      "id": 656,
+      "icon": "outline emoji-happy",
+      "svgPath": "icons/outline emoji-happy.svg"
+    },
+    {
+      "id": 657,
+      "icon": "outline emoji-normal",
+      "svgPath": "icons/outline emoji-normal.svg"
+    },
+    {
+      "id": 658,
+      "icon": "outline emoji-sad",
+      "svgPath": "icons/outline emoji-sad.svg"
+    },
+    {
+      "id": 659,
+      "icon": "outline empty-wallet-add",
+      "svgPath": "icons/outline empty-wallet-add.svg"
+    },
+    {
+      "id": 660,
+      "icon": "outline empty-wallet-change",
+      "svgPath": "icons/outline empty-wallet-change.svg"
+    },
+    {
+      "id": 661,
+      "icon": "outline empty-wallet-remove",
+      "svgPath": "icons/outline empty-wallet-remove.svg"
+    },
+    {
+      "id": 662,
+      "icon": "outline empty-wallet-tick",
+      "svgPath": "icons/outline empty-wallet-tick.svg"
+    },
+    {
+      "id": 663,
+      "icon": "outline empty-wallet-time",
+      "svgPath": "icons/outline empty-wallet-time.svg"
+    },
+    {
+      "id": 664,
+      "icon": "outline empty-wallet",
+      "svgPath": "icons/outline empty-wallet.svg"
+    },
+    {
+      "id": 665,
+      "icon": "outline export-1",
+      "svgPath": "icons/outline export-1.svg"
+    },
+    {
+      "id": 666,
+      "icon": "outline export-2",
+      "svgPath": "icons/outline export-2.svg"
+    },
+    {
+      "id": 667,
+      "icon": "outline export-3",
+      "svgPath": "icons/outline export-3.svg"
+    },
+    {
+      "id": 668,
+      "icon": "outline export",
+      "svgPath": "icons/outline export.svg"
+    },
+    {
+      "id": 669,
+      "icon": "outline eye-slash",
+      "svgPath": "icons/outline eye-slash.svg"
+    },
+    {
+      "id": 670,
+      "icon": "outline eye",
+      "svgPath": "icons/outline eye.svg"
+    },
+    {
+      "id": 671,
+      "icon": "outline facebook",
+      "svgPath": "icons/outline facebook.svg"
+    },
+    {
+      "id": 672,
+      "icon": "outline filter-add",
+      "svgPath": "icons/outline filter-add.svg"
+    },
+    {
+      "id": 673,
+      "icon": "outline filter-edit",
+      "svgPath": "icons/outline filter-edit.svg"
+    },
+    {
+      "id": 674,
+      "icon": "outline filter-remove",
+      "svgPath": "icons/outline filter-remove.svg"
+    },
+    {
+      "id": 675,
+      "icon": "outline filter-search",
+      "svgPath": "icons/outline filter-search.svg"
+    },
+    {
+      "id": 676,
+      "icon": "outline filter-square",
+      "svgPath": "icons/outline filter-square.svg"
+    },
+    {
+      "id": 677,
+      "icon": "outline filter-tick",
+      "svgPath": "icons/outline filter-tick.svg"
+    },
+    {
+      "id": 678,
+      "icon": "outline filter",
+      "svgPath": "icons/outline filter.svg"
+    },
+    {
+      "id": 679,
+      "icon": "outline flag-2",
+      "svgPath": "icons/outline flag-2.svg"
+    },
+    {
+      "id": 680,
+      "icon": "outline flag",
+      "svgPath": "icons/outline flag.svg"
+    },
+    {
+      "id": 681,
+      "icon": "outline flash-circle",
+      "svgPath": "icons/outline flash-circle.svg"
+    },
+    {
+      "id": 682,
+      "icon": "outline flash-slash",
+      "svgPath": "icons/outline flash-slash.svg"
+    },
+    {
+      "id": 683,
+      "icon": "outline flash",
+      "svgPath": "icons/outline flash.svg"
+    },
+    {
+      "id": 684,
+      "icon": "outline forbidden-2",
+      "svgPath": "icons/outline forbidden-2.svg"
+    },
+    {
+      "id": 685,
+      "icon": "outline forbidden",
+      "svgPath": "icons/outline forbidden.svg"
+    },
+    {
+      "id": 686,
+      "icon": "outline forward-square",
+      "svgPath": "icons/outline forward-square.svg"
+    },
+    {
+      "id": 687,
+      "icon": "outline gallery-add",
+      "svgPath": "icons/outline gallery-add.svg"
+    },
+    {
+      "id": 688,
+      "icon": "outline gallery-export",
+      "svgPath": "icons/outline gallery-export.svg"
+    },
+    {
+      "id": 689,
+      "icon": "outline gallery-import",
+      "svgPath": "icons/outline gallery-import.svg"
+    },
+    {
+      "id": 690,
+      "icon": "outline gallery-remove",
+      "svgPath": "icons/outline gallery-remove.svg"
+    },
+    {
+      "id": 691,
+      "icon": "outline gallery-slash",
+      "svgPath": "icons/outline gallery-slash.svg"
+    },
+    {
+      "id": 692,
+      "icon": "outline gallery-tick",
+      "svgPath": "icons/outline gallery-tick.svg"
+    },
+    {
+      "id": 693,
+      "icon": "outline gallery",
+      "svgPath": "icons/outline gallery.svg"
+    },
+    {
+      "id": 694,
+      "icon": "outline gas-station",
+      "svgPath": "icons/outline gas-station.svg"
+    },
+    {
+      "id": 695,
+      "icon": "outline gift",
+      "svgPath": "icons/outline gift.svg"
+    },
+    {
+      "id": 696,
+      "icon": "outline google-play",
+      "svgPath": "icons/outline google-play.svg"
+    },
+    {
+      "id": 697,
+      "icon": "outline google",
+      "svgPath": "icons/outline google.svg"
+    },
+    {
+      "id": 698,
+      "icon": "outline gps-slash",
+      "svgPath": "icons/outline gps-slash.svg"
+    },
+    {
+      "id": 699,
+      "icon": "outline gps",
+      "svgPath": "icons/outline gps.svg"
+    },
+    {
+      "id": 700,
+      "icon": "outline heart-add",
+      "svgPath": "icons/outline heart-add.svg"
+    },
+    {
+      "id": 701,
+      "icon": "outline heart-circle",
+      "svgPath": "icons/outline heart-circle.svg"
+    },
+    {
+      "id": 702,
+      "icon": "outline heart-edit",
+      "svgPath": "icons/outline heart-edit.svg"
+    },
+    {
+      "id": 703,
+      "icon": "outline heart-remove",
+      "svgPath": "icons/outline heart-remove.svg"
+    },
+    {
+      "id": 704,
+      "icon": "outline heart-search",
+      "svgPath": "icons/outline heart-search.svg"
+    },
+    {
+      "id": 705,
+      "icon": "outline heart-slash",
+      "svgPath": "icons/outline heart-slash.svg"
+    },
+    {
+      "id": 706,
+      "icon": "outline heart-tick",
+      "svgPath": "icons/outline heart-tick.svg"
+    },
+    {
+      "id": 707,
+      "icon": "outline heart",
+      "svgPath": "icons/outline heart.svg"
+    },
+    {
+      "id": 708,
+      "icon": "outline home-1",
+      "svgPath": "icons/outline home-1.svg"
+    },
+    {
+      "id": 709,
+      "icon": "outline home-2",
+      "svgPath": "icons/outline home-2.svg"
+    },
+    {
+      "id": 710,
+      "icon": "outline home-wifi",
+      "svgPath": "icons/outline home-wifi.svg"
+    },
+    {
+      "id": 711,
+      "icon": "outline home",
+      "svgPath": "icons/outline home.svg"
+    },
+    {
+      "id": 712,
+      "icon": "outline hospital",
+      "svgPath": "icons/outline hospital.svg"
+    },
+    {
+      "id": 713,
+      "icon": "outline house-1",
+      "svgPath": "icons/outline house-1.svg"
+    },
+    {
+      "id": 714,
+      "icon": "outline house",
+      "svgPath": "icons/outline house.svg"
+    },
+    {
+      "id": 715,
+      "icon": "outline image",
+      "svgPath": "icons/outline image.svg"
+    },
+    {
+      "id": 716,
+      "icon": "outline import-1",
+      "svgPath": "icons/outline import-1.svg"
+    },
+    {
+      "id": 717,
+      "icon": "outline import-2",
+      "svgPath": "icons/outline import-2.svg"
+    },
+    {
+      "id": 718,
+      "icon": "outline import-3",
+      "svgPath": "icons/outline import-3.svg"
+    },
+    {
+      "id": 719,
+      "icon": "outline import",
+      "svgPath": "icons/outline import.svg"
+    },
+    {
+      "id": 720,
+      "icon": "outline info-circle",
+      "svgPath": "icons/outline info-circle.svg"
+    },
+    {
+      "id": 721,
+      "icon": "outline information",
+      "svgPath": "icons/outline information.svg"
+    },
+    {
+      "id": 722,
+      "icon": "outline instagram",
+      "svgPath": "icons/outline instagram.svg"
+    },
+    {
+      "id": 723,
+      "icon": "outline key-square",
+      "svgPath": "icons/outline key-square.svg"
+    },
+    {
+      "id": 724,
+      "icon": "outline key",
+      "svgPath": "icons/outline key.svg"
+    },
+    {
+      "id": 725,
+      "icon": "outline lamp-charge",
+      "svgPath": "icons/outline lamp-charge.svg"
+    },
+    {
+      "id": 726,
+      "icon": "outline lamp-on",
+      "svgPath": "icons/outline lamp-on.svg"
+    },
+    {
+      "id": 727,
+      "icon": "outline lamp-slash",
+      "svgPath": "icons/outline lamp-slash.svg"
+    },
+    {
+      "id": 728,
+      "icon": "outline lamp",
+      "svgPath": "icons/outline lamp.svg"
+    },
+    {
+      "id": 729,
+      "icon": "outline like-1",
+      "svgPath": "icons/outline like-1.svg"
+    },
+    {
+      "id": 730,
+      "icon": "outline like-dislike",
+      "svgPath": "icons/outline like-dislike.svg"
+    },
+    {
+      "id": 731,
+      "icon": "outline like-shapes",
+      "svgPath": "icons/outline like-shapes.svg"
+    },
+    {
+      "id": 732,
+      "icon": "outline like-tag",
+      "svgPath": "icons/outline like-tag.svg"
+    },
+    {
+      "id": 733,
+      "icon": "outline like",
+      "svgPath": "icons/outline like.svg"
+    },
+    {
+      "id": 734,
+      "icon": "outline line-chart",
+      "svgPath": "icons/outline line-chart.svg"
+    },
+    {
+      "id": 735,
+      "icon": "outline location-add",
+      "svgPath": "icons/outline location-add.svg"
+    },
+    {
+      "id": 736,
+      "icon": "outline location-cross",
+      "svgPath": "icons/outline location-cross.svg"
+    },
+    {
+      "id": 737,
+      "icon": "outline location-minus",
+      "svgPath": "icons/outline location-minus.svg"
+    },
+    {
+      "id": 738,
+      "icon": "outline location-slash",
+      "svgPath": "icons/outline location-slash.svg"
+    },
+    {
+      "id": 739,
+      "icon": "outline location-tick",
+      "svgPath": "icons/outline location-tick.svg"
+    },
+    {
+      "id": 740,
+      "icon": "outline location",
+      "svgPath": "icons/outline location.svg"
+    },
+    {
+      "id": 741,
+      "icon": "outline lock-1",
+      "svgPath": "icons/outline lock-1.svg"
+    },
+    {
+      "id": 742,
+      "icon": "outline lock-circle",
+      "svgPath": "icons/outline lock-circle.svg"
+    },
+    {
+      "id": 743,
+      "icon": "outline lock-slash",
+      "svgPath": "icons/outline lock-slash.svg"
+    },
+    {
+      "id": 744,
+      "icon": "outline lock",
+      "svgPath": "icons/outline lock.svg"
+    },
+    {
+      "id": 745,
+      "icon": "outline login-1",
+      "svgPath": "icons/outline login-1.svg"
+    },
+    {
+      "id": 746,
+      "icon": "outline login",
+      "svgPath": "icons/outline login.svg"
+    },
+    {
+      "id": 747,
+      "icon": "outline logout-1",
+      "svgPath": "icons/outline logout-1.svg"
+    },
+    {
+      "id": 748,
+      "icon": "outline logout",
+      "svgPath": "icons/outline logout.svg"
+    },
+    {
+      "id": 749,
+      "icon": "outline lovely",
+      "svgPath": "icons/outline lovely.svg"
+    },
+    {
+      "id": 750,
+      "icon": "outline magic-star",
+      "svgPath": "icons/outline magic-star.svg"
+    },
+    {
+      "id": 751,
+      "icon": "outline mail-edit",
+      "svgPath": "icons/outline mail-edit.svg"
+    },
+    {
+      "id": 752,
+      "icon": "outline mail-notification",
+      "svgPath": "icons/outline mail-notification.svg"
+    },
+    {
+      "id": 753,
+      "icon": "outline mail-search",
+      "svgPath": "icons/outline mail-search.svg"
+    },
+    {
+      "id": 754,
+      "icon": "outline mail-star",
+      "svgPath": "icons/outline mail-star.svg"
+    },
+    {
+      "id": 755,
+      "icon": "outline mail-tracking",
+      "svgPath": "icons/outline mail-tracking.svg"
+    },
+    {
+      "id": 756,
+      "icon": "outline mail",
+      "svgPath": "icons/outline mail.svg"
+    },
+    {
+      "id": 757,
+      "icon": "outline map-1",
+      "svgPath": "icons/outline map-1.svg"
+    },
+    {
+      "id": 758,
+      "icon": "outline map",
+      "svgPath": "icons/outline map.svg"
+    },
+    {
+      "id": 759,
+      "icon": "outline math",
+      "svgPath": "icons/outline math.svg"
+    },
+    {
+      "id": 760,
+      "icon": "outline medal-star",
+      "svgPath": "icons/outline medal-star.svg"
+    },
+    {
+      "id": 761,
+      "icon": "outline medal",
+      "svgPath": "icons/outline medal.svg"
+    },
+    {
+      "id": 762,
+      "icon": "outline menu-1",
+      "svgPath": "icons/outline menu-1.svg"
+    },
+    {
+      "id": 763,
+      "icon": "outline menu-board",
+      "svgPath": "icons/outline menu-board.svg"
+    },
+    {
+      "id": 764,
+      "icon": "outline menu",
+      "svgPath": "icons/outline menu.svg"
+    },
+    {
+      "id": 765,
+      "icon": "outline message-2",
+      "svgPath": "icons/outline message-2.svg"
+    },
+    {
+      "id": 766,
+      "icon": "outline message-add-1",
+      "svgPath": "icons/outline message-add-1.svg"
+    },
+    {
+      "id": 767,
+      "icon": "outline message-add",
+      "svgPath": "icons/outline message-add.svg"
+    },
+    {
+      "id": 768,
+      "icon": "outline message-circle",
+      "svgPath": "icons/outline message-circle.svg"
+    },
+    {
+      "id": 769,
+      "icon": "outline message-edit",
+      "svgPath": "icons/outline message-edit.svg"
+    },
+    {
+      "id": 770,
+      "icon": "outline message-favorite",
+      "svgPath": "icons/outline message-favorite.svg"
+    },
+    {
+      "id": 771,
+      "icon": "outline message-minus",
+      "svgPath": "icons/outline message-minus.svg"
+    },
+    {
+      "id": 772,
+      "icon": "outline message-notif",
+      "svgPath": "icons/outline message-notif.svg"
+    },
+    {
+      "id": 773,
+      "icon": "outline message-question",
+      "svgPath": "icons/outline message-question.svg"
+    },
+    {
+      "id": 774,
+      "icon": "outline message-remove",
+      "svgPath": "icons/outline message-remove.svg"
+    },
+    {
+      "id": 775,
+      "icon": "outline message-search",
+      "svgPath": "icons/outline message-search.svg"
+    },
+    {
+      "id": 776,
+      "icon": "outline message-square",
+      "svgPath": "icons/outline message-square.svg"
+    },
+    {
+      "id": 777,
+      "icon": "outline message-text-1",
+      "svgPath": "icons/outline message-text-1.svg"
+    },
+    {
+      "id": 778,
+      "icon": "outline message-text",
+      "svgPath": "icons/outline message-text.svg"
+    },
+    {
+      "id": 779,
+      "icon": "outline message-tick",
+      "svgPath": "icons/outline message-tick.svg"
+    },
+    {
+      "id": 780,
+      "icon": "outline message-time",
+      "svgPath": "icons/outline message-time.svg"
+    },
+    {
+      "id": 781,
+      "icon": "outline message",
+      "svgPath": "icons/outline message.svg"
+    },
+    {
+      "id": 782,
+      "icon": "outline messages-1",
+      "svgPath": "icons/outline messages-1.svg"
+    },
+    {
+      "id": 783,
+      "icon": "outline messages-2",
+      "svgPath": "icons/outline messages-2.svg"
+    },
+    {
+      "id": 784,
+      "icon": "outline messages-3",
+      "svgPath": "icons/outline messages-3.svg"
+    },
+    {
+      "id": 785,
+      "icon": "outline messages",
+      "svgPath": "icons/outline messages.svg"
+    },
+    {
+      "id": 786,
+      "icon": "outline messenger",
+      "svgPath": "icons/outline messenger.svg"
+    },
+    {
+      "id": 787,
+      "icon": "outline microphone-2",
+      "svgPath": "icons/outline microphone-2.svg"
+    },
+    {
+      "id": 788,
+      "icon": "outline microphone-slash-1",
+      "svgPath": "icons/outline microphone-slash-1.svg"
+    },
+    {
+      "id": 789,
+      "icon": "outline microphone-slash",
+      "svgPath": "icons/outline microphone-slash.svg"
+    },
+    {
+      "id": 790,
+      "icon": "outline microphone",
+      "svgPath": "icons/outline microphone.svg"
+    },
+    {
+      "id": 791,
+      "icon": "outline minus-cirlce",
+      "svgPath": "icons/outline minus-cirlce.svg"
+    },
+    {
+      "id": 792,
+      "icon": "outline minus-square",
+      "svgPath": "icons/outline minus-square.svg"
+    },
+    {
+      "id": 793,
+      "icon": "outline minus",
+      "svgPath": "icons/outline minus.svg"
+    },
+    {
+      "id": 794,
+      "icon": "outline money-2",
+      "svgPath": "icons/outline money-2.svg"
+    },
+    {
+      "id": 795,
+      "icon": "outline money-3",
+      "svgPath": "icons/outline money-3.svg"
+    },
+    {
+      "id": 796,
+      "icon": "outline money-4",
+      "svgPath": "icons/outline money-4.svg"
+    },
+    {
+      "id": 797,
+      "icon": "outline money-add",
+      "svgPath": "icons/outline money-add.svg"
+    },
+    {
+      "id": 798,
+      "icon": "outline money-change",
+      "svgPath": "icons/outline money-change.svg"
+    },
+    {
+      "id": 799,
+      "icon": "outline money-forbidden",
+      "svgPath": "icons/outline money-forbidden.svg"
+    },
+    {
+      "id": 800,
+      "icon": "outline money-receive",
+      "svgPath": "icons/outline money-receive.svg"
+    },
+    {
+      "id": 801,
+      "icon": "outline money-remove",
+      "svgPath": "icons/outline money-remove.svg"
+    },
+    {
+      "id": 802,
+      "icon": "outline money-send",
+      "svgPath": "icons/outline money-send.svg"
+    },
+    {
+      "id": 803,
+      "icon": "outline money-tick",
+      "svgPath": "icons/outline money-tick.svg"
+    },
+    {
+      "id": 804,
+      "icon": "outline money-time",
+      "svgPath": "icons/outline money-time.svg"
+    },
+    {
+      "id": 805,
+      "icon": "outline money",
+      "svgPath": "icons/outline money.svg"
+    },
+    {
+      "id": 806,
+      "icon": "outline moneys",
+      "svgPath": "icons/outline moneys.svg"
+    },
+    {
+      "id": 807,
+      "icon": "outline more-2",
+      "svgPath": "icons/outline more-2.svg"
+    },
+    {
+      "id": 808,
+      "icon": "outline more-circle",
+      "svgPath": "icons/outline more-circle.svg"
+    },
+    {
+      "id": 809,
+      "icon": "outline more-square",
+      "svgPath": "icons/outline more-square.svg"
+    },
+    {
+      "id": 810,
+      "icon": "outline more",
+      "svgPath": "icons/outline more.svg"
+    },
+    {
+      "id": 811,
+      "icon": "outline note-1",
+      "svgPath": "icons/outline note-1.svg"
+    },
+    {
+      "id": 812,
+      "icon": "outline note-2",
+      "svgPath": "icons/outline note-2.svg"
+    },
+    {
+      "id": 813,
+      "icon": "outline note-add",
+      "svgPath": "icons/outline note-add.svg"
+    },
+    {
+      "id": 814,
+      "icon": "outline note-remove",
+      "svgPath": "icons/outline note-remove.svg"
+    },
+    {
+      "id": 815,
+      "icon": "outline note-text",
+      "svgPath": "icons/outline note-text.svg"
+    },
+    {
+      "id": 816,
+      "icon": "outline note",
+      "svgPath": "icons/outline note.svg"
+    },
+    {
+      "id": 817,
+      "icon": "outline notification-1",
+      "svgPath": "icons/outline notification-1.svg"
+    },
+    {
+      "id": 818,
+      "icon": "outline notification-bing",
+      "svgPath": "icons/outline notification-bing.svg"
+    },
+    {
+      "id": 819,
+      "icon": "outline notification-circle",
+      "svgPath": "icons/outline notification-circle.svg"
+    },
+    {
+      "id": 820,
+      "icon": "outline notification-status",
+      "svgPath": "icons/outline notification-status.svg"
+    },
+    {
+      "id": 821,
+      "icon": "outline notification",
+      "svgPath": "icons/outline notification.svg"
+    },
+    {
+      "id": 822,
+      "icon": "outline paypal",
+      "svgPath": "icons/outline paypal.svg"
+    },
+    {
+      "id": 823,
+      "icon": "outline people-1",
+      "svgPath": "icons/outline people-1.svg"
+    },
+    {
+      "id": 824,
+      "icon": "outline people",
+      "svgPath": "icons/outline people.svg"
+    },
+    {
+      "id": 825,
+      "icon": "outline percentage-circle",
+      "svgPath": "icons/outline percentage-circle.svg"
+    },
+    {
+      "id": 826,
+      "icon": "outline percentage-square",
+      "svgPath": "icons/outline percentage-square.svg"
+    },
+    {
+      "id": 827,
+      "icon": "outline pie-chart",
+      "svgPath": "icons/outline pie-chart.svg"
+    },
+    {
+      "id": 828,
+      "icon": "outline radar",
+      "svgPath": "icons/outline radar.svg"
+    },
+    {
+      "id": 829,
+      "icon": "outline ranking-1",
+      "svgPath": "icons/outline ranking-1.svg"
+    },
+    {
+      "id": 830,
+      "icon": "outline ranking",
+      "svgPath": "icons/outline ranking.svg"
+    },
+    {
+      "id": 831,
+      "icon": "outline receipt-1",
+      "svgPath": "icons/outline receipt-1.svg"
+    },
+    {
+      "id": 832,
+      "icon": "outline receipt-2-1",
+      "svgPath": "icons/outline receipt-2-1.svg"
+    },
+    {
+      "id": 833,
+      "icon": "outline receipt-2",
+      "svgPath": "icons/outline receipt-2.svg"
+    },
+    {
+      "id": 834,
+      "icon": "outline receipt-add",
+      "svgPath": "icons/outline receipt-add.svg"
+    },
+    {
+      "id": 835,
+      "icon": "outline receipt-discount",
+      "svgPath": "icons/outline receipt-discount.svg"
+    },
+    {
+      "id": 836,
+      "icon": "outline receipt-disscount",
+      "svgPath": "icons/outline receipt-disscount.svg"
+    },
+    {
+      "id": 837,
+      "icon": "outline receipt-edit",
+      "svgPath": "icons/outline receipt-edit.svg"
+    },
+    {
+      "id": 838,
+      "icon": "outline receipt-item",
+      "svgPath": "icons/outline receipt-item.svg"
+    },
+    {
+      "id": 839,
+      "icon": "outline receipt-minus",
+      "svgPath": "icons/outline receipt-minus.svg"
+    },
+    {
+      "id": 840,
+      "icon": "outline receipt-search",
+      "svgPath": "icons/outline receipt-search.svg"
+    },
+    {
+      "id": 841,
+      "icon": "outline receipt-square",
+      "svgPath": "icons/outline receipt-square.svg"
+    },
+    {
+      "id": 842,
+      "icon": "outline receipt-text",
+      "svgPath": "icons/outline receipt-text.svg"
+    },
+    {
+      "id": 843,
+      "icon": "outline receipt",
+      "svgPath": "icons/outline receipt.svg"
+    },
+    {
+      "id": 844,
+      "icon": "outline receive-square-2",
+      "svgPath": "icons/outline receive-square-2.svg"
+    },
+    {
+      "id": 845,
+      "icon": "outline receive-square",
+      "svgPath": "icons/outline receive-square.svg"
+    },
+    {
+      "id": 846,
+      "icon": "outline received",
+      "svgPath": "icons/outline received.svg"
+    },
+    {
+      "id": 847,
+      "icon": "outline redo",
+      "svgPath": "icons/outline redo.svg"
+    },
+    {
+      "id": 848,
+      "icon": "outline refresh-2",
+      "svgPath": "icons/outline refresh-2.svg"
+    },
+    {
+      "id": 849,
+      "icon": "outline refresh-circle",
+      "svgPath": "icons/outline refresh-circle.svg"
+    },
+    {
+      "id": 850,
+      "icon": "outline refresh-left-square",
+      "svgPath": "icons/outline refresh-left-square.svg"
+    },
+    {
+      "id": 851,
+      "icon": "outline refresh-right-square",
+      "svgPath": "icons/outline refresh-right-square.svg"
+    },
+    {
+      "id": 852,
+      "icon": "outline refresh-square-2",
+      "svgPath": "icons/outline refresh-square-2.svg"
+    },
+    {
+      "id": 853,
+      "icon": "outline refresh",
+      "svgPath": "icons/outline refresh.svg"
+    },
+    {
+      "id": 854,
+      "icon": "outline repeat-circle",
+      "svgPath": "icons/outline repeat-circle.svg"
+    },
+    {
+      "id": 855,
+      "icon": "outline repeat",
+      "svgPath": "icons/outline repeat.svg"
+    },
+    {
+      "id": 856,
+      "icon": "outline rotate-left",
+      "svgPath": "icons/outline rotate-left.svg"
+    },
+    {
+      "id": 857,
+      "icon": "outline rotate-right",
+      "svgPath": "icons/outline rotate-right.svg"
+    },
+    {
+      "id": 858,
+      "icon": "outline route-square",
+      "svgPath": "icons/outline route-square.svg"
+    },
+    {
+      "id": 859,
+      "icon": "outline rupee-circle",
+      "svgPath": "icons/outline rupee-circle.svg"
+    },
+    {
+      "id": 860,
+      "icon": "outline rupee-recive",
+      "svgPath": "icons/outline rupee-recive.svg"
+    },
+    {
+      "id": 861,
+      "icon": "outline rupee-send",
+      "svgPath": "icons/outline rupee-send.svg"
+    },
+    {
+      "id": 862,
+      "icon": "outline rupee-square",
+      "svgPath": "icons/outline rupee-square.svg"
+    },
+    {
+      "id": 863,
+      "icon": "outline safe-home",
+      "svgPath": "icons/outline safe-home.svg"
+    },
+    {
+      "id": 864,
+      "icon": "outline save-2",
+      "svgPath": "icons/outline save-2.svg"
+    },
+    {
+      "id": 865,
+      "icon": "outline save-add",
+      "svgPath": "icons/outline save-add.svg"
+    },
+    {
+      "id": 866,
+      "icon": "outline save-minus",
+      "svgPath": "icons/outline save-minus.svg"
+    },
+    {
+      "id": 867,
+      "icon": "outline save-remove",
+      "svgPath": "icons/outline save-remove.svg"
+    },
+    {
+      "id": 868,
+      "icon": "outline scan-barcode",
+      "svgPath": "icons/outline scan-barcode.svg"
+    },
+    {
+      "id": 869,
+      "icon": "outline scan",
+      "svgPath": "icons/outline scan.svg"
+    },
+    {
+      "id": 870,
+      "icon": "outline scanner",
+      "svgPath": "icons/outline scanner.svg"
+    },
+    {
+      "id": 871,
+      "icon": "outline search-favorite-1",
+      "svgPath": "icons/outline search-favorite-1.svg"
+    },
+    {
+      "id": 872,
+      "icon": "outline search-favorite",
+      "svgPath": "icons/outline search-favorite.svg"
+    },
+    {
+      "id": 873,
+      "icon": "outline search-normal-1",
+      "svgPath": "icons/outline search-normal-1.svg"
+    },
+    {
+      "id": 874,
+      "icon": "outline search-normal",
+      "svgPath": "icons/outline search-normal.svg"
+    },
+    {
+      "id": 875,
+      "icon": "outline search-status-1",
+      "svgPath": "icons/outline search-status-1.svg"
+    },
+    {
+      "id": 876,
+      "icon": "outline search-status",
+      "svgPath": "icons/outline search-status.svg"
+    },
+    {
+      "id": 877,
+      "icon": "outline search-zoom-in-1",
+      "svgPath": "icons/outline search-zoom-in-1.svg"
+    },
+    {
+      "id": 878,
+      "icon": "outline search-zoom-in",
+      "svgPath": "icons/outline search-zoom-in.svg"
+    },
+    {
+      "id": 879,
+      "icon": "outline search-zoom-out-1",
+      "svgPath": "icons/outline search-zoom-out-1.svg"
+    },
+    {
+      "id": 880,
+      "icon": "outline search-zoom-out",
+      "svgPath": "icons/outline search-zoom-out.svg"
+    },
+    {
+      "id": 881,
+      "icon": "outline security-card",
+      "svgPath": "icons/outline security-card.svg"
+    },
+    {
+      "id": 882,
+      "icon": "outline security-safe",
+      "svgPath": "icons/outline security-safe.svg"
+    },
+    {
+      "id": 883,
+      "icon": "outline security-time",
+      "svgPath": "icons/outline security-time.svg"
+    },
+    {
+      "id": 884,
+      "icon": "outline security-user",
+      "svgPath": "icons/outline security-user.svg"
+    },
+    {
+      "id": 885,
+      "icon": "outline security",
+      "svgPath": "icons/outline security.svg"
+    },
+    {
+      "id": 886,
+      "icon": "outline send-1",
+      "svgPath": "icons/outline send-1.svg"
+    },
+    {
+      "id": 887,
+      "icon": "outline send-2",
+      "svgPath": "icons/outline send-2.svg"
+    },
+    {
+      "id": 888,
+      "icon": "outline send-sqaure-2",
+      "svgPath": "icons/outline send-sqaure-2.svg"
+    },
+    {
+      "id": 889,
+      "icon": "outline send-square",
+      "svgPath": "icons/outline send-square.svg"
+    },
+    {
+      "id": 890,
+      "icon": "outline send",
+      "svgPath": "icons/outline send.svg"
+    },
+    {
+      "id": 891,
+      "icon": "outline setting-2",
+      "svgPath": "icons/outline setting-2.svg"
+    },
+    {
+      "id": 892,
+      "icon": "outline setting-3",
+      "svgPath": "icons/outline setting-3.svg"
+    },
+    {
+      "id": 893,
+      "icon": "outline setting-4",
+      "svgPath": "icons/outline setting-4.svg"
+    },
+    {
+      "id": 894,
+      "icon": "outline setting",
+      "svgPath": "icons/outline setting.svg"
+    },
+    {
+      "id": 895,
+      "icon": "outline settings",
+      "svgPath": "icons/outline settings.svg"
+    },
+    {
+      "id": 896,
+      "icon": "outline share",
+      "svgPath": "icons/outline share.svg"
+    },
+    {
+      "id": 897,
+      "icon": "outline shield-cross",
+      "svgPath": "icons/outline shield-cross.svg"
+    },
+    {
+      "id": 898,
+      "icon": "outline shield-search",
+      "svgPath": "icons/outline shield-search.svg"
+    },
+    {
+      "id": 899,
+      "icon": "outline shield-security",
+      "svgPath": "icons/outline shield-security.svg"
+    },
+    {
+      "id": 900,
+      "icon": "outline shield-slash",
+      "svgPath": "icons/outline shield-slash.svg"
+    },
+    {
+      "id": 901,
+      "icon": "outline shield-tick",
+      "svgPath": "icons/outline shield-tick.svg"
+    },
+    {
+      "id": 902,
+      "icon": "outline shield",
+      "svgPath": "icons/outline shield.svg"
+    },
+    {
+      "id": 903,
+      "icon": "outline shop-add",
+      "svgPath": "icons/outline shop-add.svg"
+    },
+    {
+      "id": 904,
+      "icon": "outline shop-remove",
+      "svgPath": "icons/outline shop-remove.svg"
+    },
+    {
+      "id": 905,
+      "icon": "outline shop",
+      "svgPath": "icons/outline shop.svg"
+    },
+    {
+      "id": 906,
+      "icon": "outline shopping-bag",
+      "svgPath": "icons/outline shopping-bag.svg"
+    },
+    {
+      "id": 907,
+      "icon": "outline shopping-cart",
+      "svgPath": "icons/outline shopping-cart.svg"
+    },
+    {
+      "id": 908,
+      "icon": "outline signpost",
+      "svgPath": "icons/outline signpost.svg"
+    },
+    {
+      "id": 909,
+      "icon": "outline slack",
+      "svgPath": "icons/outline slack.svg"
+    },
+    {
+      "id": 910,
+      "icon": "outline slash",
+      "svgPath": "icons/outline slash.svg"
+    },
+    {
+      "id": 911,
+      "icon": "outline smart-car",
+      "svgPath": "icons/outline smart-car.svg"
+    },
+    {
+      "id": 912,
+      "icon": "outline smart-home",
+      "svgPath": "icons/outline smart-home.svg"
+    },
+    {
+      "id": 913,
+      "icon": "outline smileys",
+      "svgPath": "icons/outline smileys.svg"
+    },
+    {
+      "id": 914,
+      "icon": "outline snapchat",
+      "svgPath": "icons/outline snapchat.svg"
+    },
+    {
+      "id": 915,
+      "icon": "outline sort",
+      "svgPath": "icons/outline sort.svg"
+    },
+    {
+      "id": 916,
+      "icon": "outline sound",
+      "svgPath": "icons/outline sound.svg"
+    },
+    {
+      "id": 917,
+      "icon": "outline speedometer",
+      "svgPath": "icons/outline speedometer.svg"
+    },
+    {
+      "id": 918,
+      "icon": "outline star-1",
+      "svgPath": "icons/outline star-1.svg"
+    },
+    {
+      "id": 919,
+      "icon": "outline star-slash",
+      "svgPath": "icons/outline star-slash.svg"
+    },
+    {
+      "id": 920,
+      "icon": "outline star",
+      "svgPath": "icons/outline star.svg"
+    },
+    {
+      "id": 921,
+      "icon": "outline sticky-note",
+      "svgPath": "icons/outline sticky-note.svg"
+    },
+    {
+      "id": 922,
+      "icon": "outline support",
+      "svgPath": "icons/outline support.svg"
+    },
+    {
+      "id": 923,
+      "icon": "outline tag-2",
+      "svgPath": "icons/outline tag-2.svg"
+    },
+    {
+      "id": 924,
+      "icon": "outline tag-cross",
+      "svgPath": "icons/outline tag-cross.svg"
+    },
+    {
+      "id": 925,
+      "icon": "outline tag-right",
+      "svgPath": "icons/outline tag-right.svg"
+    },
+    {
+      "id": 926,
+      "icon": "outline tag-user",
+      "svgPath": "icons/outline tag-user.svg"
+    },
+    {
+      "id": 927,
+      "icon": "outline tag",
+      "svgPath": "icons/outline tag.svg"
+    },
+    {
+      "id": 928,
+      "icon": "outline task-square",
+      "svgPath": "icons/outline task-square.svg"
+    },
+    {
+      "id": 929,
+      "icon": "outline task",
+      "svgPath": "icons/outline task.svg"
+    },
+    {
+      "id": 930,
+      "icon": "outline teacher",
+      "svgPath": "icons/outline teacher.svg"
+    },
+    {
+      "id": 931,
+      "icon": "outline tick-circle",
+      "svgPath": "icons/outline tick-circle.svg"
+    },
+    {
+      "id": 932,
+      "icon": "outline tick-square",
+      "svgPath": "icons/outline tick-square.svg"
+    },
+    {
+      "id": 933,
+      "icon": "outline timer",
+      "svgPath": "icons/outline timer.svg"
+    },
+    {
+      "id": 934,
+      "icon": "outline toggle-off-circle",
+      "svgPath": "icons/outline toggle-off-circle.svg"
+    },
+    {
+      "id": 935,
+      "icon": "outline toggle-off",
+      "svgPath": "icons/outline toggle-off.svg"
+    },
+    {
+      "id": 936,
+      "icon": "outline toggle-on-circle",
+      "svgPath": "icons/outline toggle-on-circle.svg"
+    },
+    {
+      "id": 937,
+      "icon": "outline toggle-on",
+      "svgPath": "icons/outline toggle-on.svg"
+    },
+    {
+      "id": 938,
+      "icon": "outline transaction-minus",
+      "svgPath": "icons/outline transaction-minus.svg"
+    },
+    {
+      "id": 939,
+      "icon": "outline trash-square",
+      "svgPath": "icons/outline trash-square.svg"
+    },
+    {
+      "id": 940,
+      "icon": "outline trash",
+      "svgPath": "icons/outline trash.svg"
+    },
+    {
+      "id": 941,
+      "icon": "outline truck-fast",
+      "svgPath": "icons/outline truck-fast.svg"
+    },
+    {
+      "id": 942,
+      "icon": "outline truck-remove",
+      "svgPath": "icons/outline truck-remove.svg"
+    },
+    {
+      "id": 943,
+      "icon": "outline truck-tick",
+      "svgPath": "icons/outline truck-tick.svg"
+    },
+    {
+      "id": 944,
+      "icon": "outline truck-time",
+      "svgPath": "icons/outline truck-time.svg"
+    },
+    {
+      "id": 945,
+      "icon": "outline truck",
+      "svgPath": "icons/outline truck.svg"
+    },
+    {
+      "id": 946,
+      "icon": "outline twitch",
+      "svgPath": "icons/outline twitch.svg"
+    },
+    {
+      "id": 947,
+      "icon": "outline undo",
+      "svgPath": "icons/outline undo.svg"
+    },
+    {
+      "id": 948,
+      "icon": "outline unlock",
+      "svgPath": "icons/outline unlock.svg"
+    },
+    {
+      "id": 949,
+      "icon": "outline user-1",
+      "svgPath": "icons/outline user-1.svg"
+    },
+    {
+      "id": 950,
+      "icon": "outline user-add-1",
+      "svgPath": "icons/outline user-add-1.svg"
+    },
+    {
+      "id": 951,
+      "icon": "outline user-add",
+      "svgPath": "icons/outline user-add.svg"
+    },
+    {
+      "id": 952,
+      "icon": "outline user-circle",
+      "svgPath": "icons/outline user-circle.svg"
+    },
+    {
+      "id": 953,
+      "icon": "outline user-cirlce-add",
+      "svgPath": "icons/outline user-cirlce-add.svg"
+    },
+    {
+      "id": 954,
+      "icon": "outline user-edit",
+      "svgPath": "icons/outline user-edit.svg"
+    },
+    {
+      "id": 955,
+      "icon": "outline user-minus-1",
+      "svgPath": "icons/outline user-minus-1.svg"
+    },
+    {
+      "id": 956,
+      "icon": "outline user-minus",
+      "svgPath": "icons/outline user-minus.svg"
+    },
+    {
+      "id": 957,
+      "icon": "outline user-octagon",
+      "svgPath": "icons/outline user-octagon.svg"
+    },
+    {
+      "id": 958,
+      "icon": "outline user-remove-1",
+      "svgPath": "icons/outline user-remove-1.svg"
+    },
+    {
+      "id": 959,
+      "icon": "outline user-search",
+      "svgPath": "icons/outline user-search.svg"
+    },
+    {
+      "id": 960,
+      "icon": "outline user-square",
+      "svgPath": "icons/outline user-square.svg"
+    },
+    {
+      "id": 961,
+      "icon": "outline user-tag",
+      "svgPath": "icons/outline user-tag.svg"
+    },
+    {
+      "id": 962,
+      "icon": "outline user-tick-1",
+      "svgPath": "icons/outline user-tick-1.svg"
+    },
+    {
+      "id": 963,
+      "icon": "outline user-tick",
+      "svgPath": "icons/outline user-tick.svg"
+    },
+    {
+      "id": 964,
+      "icon": "outline user",
+      "svgPath": "icons/outline user.svg"
+    },
+    {
+      "id": 965,
+      "icon": "outline verify",
+      "svgPath": "icons/outline verify.svg"
+    },
+    {
+      "id": 966,
+      "icon": "outline video-slash",
+      "svgPath": "icons/outline video-slash.svg"
+    },
+    {
+      "id": 967,
+      "icon": "outline video",
+      "svgPath": "icons/outline video.svg"
+    },
+    {
+      "id": 968,
+      "icon": "outline voice-circle",
+      "svgPath": "icons/outline voice-circle.svg"
+    },
+    {
+      "id": 969,
+      "icon": "outline voice-square",
+      "svgPath": "icons/outline voice-square.svg"
+    },
+    {
+      "id": 970,
+      "icon": "outline volume-cross",
+      "svgPath": "icons/outline volume-cross.svg"
+    },
+    {
+      "id": 971,
+      "icon": "outline volume-high",
+      "svgPath": "icons/outline volume-high.svg"
+    },
+    {
+      "id": 972,
+      "icon": "outline volume-low-1",
+      "svgPath": "icons/outline volume-low-1.svg"
+    },
+    {
+      "id": 973,
+      "icon": "outline volume-low",
+      "svgPath": "icons/outline volume-low.svg"
+    },
+    {
+      "id": 974,
+      "icon": "outline volume-mute",
+      "svgPath": "icons/outline volume-mute.svg"
+    },
+    {
+      "id": 975,
+      "icon": "outline volume-slash",
+      "svgPath": "icons/outline volume-slash.svg"
+    },
+    {
+      "id": 976,
+      "icon": "outline volume-up",
+      "svgPath": "icons/outline volume-up.svg"
+    },
+    {
+      "id": 977,
+      "icon": "outline wallet-1",
+      "svgPath": "icons/outline wallet-1.svg"
+    },
+    {
+      "id": 978,
+      "icon": "outline wallet-2",
+      "svgPath": "icons/outline wallet-2.svg"
+    },
+    {
+      "id": 979,
+      "icon": "outline wallet-3",
+      "svgPath": "icons/outline wallet-3.svg"
+    },
+    {
+      "id": 980,
+      "icon": "outline wallet-add-1",
+      "svgPath": "icons/outline wallet-add-1.svg"
+    },
+    {
+      "id": 981,
+      "icon": "outline wallet-add",
+      "svgPath": "icons/outline wallet-add.svg"
+    },
+    {
+      "id": 982,
+      "icon": "outline wallet-check",
+      "svgPath": "icons/outline wallet-check.svg"
+    },
+    {
+      "id": 983,
+      "icon": "outline wallet-remove",
+      "svgPath": "icons/outline wallet-remove.svg"
+    },
+    {
+      "id": 984,
+      "icon": "outline wallet-search",
+      "svgPath": "icons/outline wallet-search.svg"
+    },
+    {
+      "id": 985,
+      "icon": "outline wallet",
+      "svgPath": "icons/outline wallet.svg"
+    },
+    {
+      "id": 986,
+      "icon": "outline warning-2",
+      "svgPath": "icons/outline warning-2.svg"
+    },
+    {
+      "id": 987,
+      "icon": "outline whatsapp",
+      "svgPath": "icons/outline whatsapp.svg"
+    },
+    {
+      "id": 988,
+      "icon": "outline wifi-square",
+      "svgPath": "icons/outline wifi-square.svg"
+    },
+    {
+      "id": 989,
+      "icon": "outline wifi",
+      "svgPath": "icons/outline wifi.svg"
+    },
+    {
+      "id": 990,
+      "icon": "outline windows",
+      "svgPath": "icons/outline windows.svg"
+    },
+    {
+      "id": 991,
+      "icon": "outline youtube",
+      "svgPath": "icons/outline youtube.svg"
+    },
+    {
+      "id": 992,
+      "icon": "outline zoom",
+      "svgPath": "icons/outline zoom.svg"
+    },
+    {
+      "id": 993,
+      "icon": "two-tone add-circle",
+      "svgPath": "icons/two-tone add-circle.svg"
+    },
+    {
+      "id": 994,
+      "icon": "two-tone add-square",
+      "svgPath": "icons/two-tone add-square.svg"
+    },
+    {
+      "id": 995,
+      "icon": "two-tone add",
+      "svgPath": "icons/two-tone add.svg"
+    },
+    {
+      "id": 996,
+      "icon": "two-tone android",
+      "svgPath": "icons/two-tone android.svg"
+    },
+    {
+      "id": 997,
+      "icon": "two-tone apple",
+      "svgPath": "icons/two-tone apple.svg"
+    },
+    {
+      "id": 998,
+      "icon": "two-tone archive-1",
+      "svgPath": "icons/two-tone archive-1.svg"
+    },
+    {
+      "id": 999,
+      "icon": "two-tone archive-add",
+      "svgPath": "icons/two-tone archive-add.svg"
+    },
+    {
+      "id": 1000,
+      "icon": "two-tone archive-book",
+      "svgPath": "icons/two-tone archive-book.svg"
+    },
+    {
+      "id": 1001,
+      "icon": "two-tone archive-minus",
+      "svgPath": "icons/two-tone archive-minus.svg"
+    },
+    {
+      "id": 1002,
+      "icon": "two-tone archive-slash",
+      "svgPath": "icons/two-tone archive-slash.svg"
+    },
+    {
+      "id": 1003,
+      "icon": "two-tone archive-tick",
+      "svgPath": "icons/two-tone archive-tick.svg"
+    },
+    {
+      "id": 1004,
+      "icon": "two-tone archive",
+      "svgPath": "icons/two-tone archive.svg"
+    },
+    {
+      "id": 1005,
+      "icon": "two-tone arrange-circle-2",
+      "svgPath": "icons/two-tone arrange-circle-2.svg"
+    },
+    {
+      "id": 1006,
+      "icon": "two-tone arrange-circle",
+      "svgPath": "icons/two-tone arrange-circle.svg"
+    },
+    {
+      "id": 1007,
+      "icon": "two-tone arrange-square-2",
+      "svgPath": "icons/two-tone arrange-square-2.svg"
+    },
+    {
+      "id": 1008,
+      "icon": "two-tone arrange-square",
+      "svgPath": "icons/two-tone arrange-square.svg"
+    },
+    {
+      "id": 1009,
+      "icon": "two-tone arrow-2",
+      "svgPath": "icons/two-tone arrow-2.svg"
+    },
+    {
+      "id": 1010,
+      "icon": "two-tone arrow-3",
+      "svgPath": "icons/two-tone arrow-3.svg"
+    },
+    {
+      "id": 1011,
+      "icon": "two-tone arrow-circle-down-1",
+      "svgPath": "icons/two-tone arrow-circle-down-1.svg"
+    },
+    {
+      "id": 1012,
+      "icon": "two-tone arrow-circle-down",
+      "svgPath": "icons/two-tone arrow-circle-down.svg"
+    },
+    {
+      "id": 1013,
+      "icon": "two-tone arrow-circle-left-1",
+      "svgPath": "icons/two-tone arrow-circle-left-1.svg"
+    },
+    {
+      "id": 1014,
+      "icon": "two-tone arrow-circle-left",
+      "svgPath": "icons/two-tone arrow-circle-left.svg"
+    },
+    {
+      "id": 1015,
+      "icon": "two-tone arrow-circle-right-1",
+      "svgPath": "icons/two-tone arrow-circle-right-1.svg"
+    },
+    {
+      "id": 1016,
+      "icon": "two-tone arrow-circle-right",
+      "svgPath": "icons/two-tone arrow-circle-right.svg"
+    },
+    {
+      "id": 1017,
+      "icon": "two-tone arrow-circle-up-1",
+      "svgPath": "icons/two-tone arrow-circle-up-1.svg"
+    },
+    {
+      "id": 1018,
+      "icon": "two-tone arrow-circle-up",
+      "svgPath": "icons/two-tone arrow-circle-up.svg"
+    },
+    {
+      "id": 1019,
+      "icon": "two-tone arrow-down-1",
+      "svgPath": "icons/two-tone arrow-down-1.svg"
+    },
+    {
+      "id": 1020,
+      "icon": "two-tone arrow-down",
+      "svgPath": "icons/two-tone arrow-down.svg"
+    },
+    {
+      "id": 1021,
+      "icon": "two-tone arrow-left-1",
+      "svgPath": "icons/two-tone arrow-left-1.svg"
+    },
+    {
+      "id": 1022,
+      "icon": "two-tone arrow-left",
+      "svgPath": "icons/two-tone arrow-left.svg"
+    },
+    {
+      "id": 1023,
+      "icon": "two-tone arrow-right-1",
+      "svgPath": "icons/two-tone arrow-right-1.svg"
+    },
+    {
+      "id": 1024,
+      "icon": "two-tone arrow-right",
+      "svgPath": "icons/two-tone arrow-right.svg"
+    },
+    {
+      "id": 1025,
+      "icon": "two-tone arrow-square-down-2",
+      "svgPath": "icons/two-tone arrow-square-down-2.svg"
+    },
+    {
+      "id": 1026,
+      "icon": "two-tone arrow-square-down",
+      "svgPath": "icons/two-tone arrow-square-down.svg"
+    },
+    {
+      "id": 1027,
+      "icon": "two-tone arrow-square-left-1",
+      "svgPath": "icons/two-tone arrow-square-left-1.svg"
+    },
+    {
+      "id": 1028,
+      "icon": "two-tone arrow-square-left",
+      "svgPath": "icons/two-tone arrow-square-left.svg"
+    },
+    {
+      "id": 1029,
+      "icon": "two-tone arrow-square-right-2",
+      "svgPath": "icons/two-tone arrow-square-right-2.svg"
+    },
+    {
+      "id": 1030,
+      "icon": "two-tone arrow-square-right",
+      "svgPath": "icons/two-tone arrow-square-right.svg"
+    },
+    {
+      "id": 1031,
+      "icon": "two-tone arrow-square-up-1",
+      "svgPath": "icons/two-tone arrow-square-up-1.svg"
+    },
+    {
+      "id": 1032,
+      "icon": "two-tone arrow-square-up",
+      "svgPath": "icons/two-tone arrow-square-up.svg"
+    },
+    {
+      "id": 1033,
+      "icon": "two-tone arrow-swap-horizontal",
+      "svgPath": "icons/two-tone arrow-swap-horizontal.svg"
+    },
+    {
+      "id": 1034,
+      "icon": "two-tone arrow-swap",
+      "svgPath": "icons/two-tone arrow-swap.svg"
+    },
+    {
+      "id": 1035,
+      "icon": "two-tone arrow-up-1",
+      "svgPath": "icons/two-tone arrow-up-1.svg"
+    },
+    {
+      "id": 1036,
+      "icon": "two-tone arrow-up",
+      "svgPath": "icons/two-tone arrow-up.svg"
+    },
+    {
+      "id": 1037,
+      "icon": "two-tone award",
+      "svgPath": "icons/two-tone award.svg"
+    },
+    {
+      "id": 1038,
+      "icon": "two-tone back-square",
+      "svgPath": "icons/two-tone back-square.svg"
+    },
+    {
+      "id": 1039,
+      "icon": "two-tone bag-2",
+      "svgPath": "icons/two-tone bag-2.svg"
+    },
+    {
+      "id": 1040,
+      "icon": "two-tone bag-cross-1",
+      "svgPath": "icons/two-tone bag-cross-1.svg"
+    },
+    {
+      "id": 1041,
+      "icon": "two-tone bag-cross",
+      "svgPath": "icons/two-tone bag-cross.svg"
+    },
+    {
+      "id": 1042,
+      "icon": "two-tone bag-happy",
+      "svgPath": "icons/two-tone bag-happy.svg"
+    },
+    {
+      "id": 1043,
+      "icon": "two-tone bag-tick-2",
+      "svgPath": "icons/two-tone bag-tick-2.svg"
+    },
+    {
+      "id": 1044,
+      "icon": "two-tone bag-tick",
+      "svgPath": "icons/two-tone bag-tick.svg"
+    },
+    {
+      "id": 1045,
+      "icon": "two-tone bag-timer",
+      "svgPath": "icons/two-tone bag-timer.svg"
+    },
+    {
+      "id": 1046,
+      "icon": "two-tone bag",
+      "svgPath": "icons/two-tone bag.svg"
+    },
+    {
+      "id": 1047,
+      "icon": "two-tone bank",
+      "svgPath": "icons/two-tone bank.svg"
+    },
+    {
+      "id": 1048,
+      "icon": "two-tone barcode",
+      "svgPath": "icons/two-tone barcode.svg"
+    },
+    {
+      "id": 1049,
+      "icon": "two-tone bill",
+      "svgPath": "icons/two-tone bill.svg"
+    },
+    {
+      "id": 1050,
+      "icon": "two-tone book-1",
+      "svgPath": "icons/two-tone book-1.svg"
+    },
+    {
+      "id": 1051,
+      "icon": "two-tone book-saved",
+      "svgPath": "icons/two-tone book-saved.svg"
+    },
+    {
+      "id": 1052,
+      "icon": "two-tone book-square",
+      "svgPath": "icons/two-tone book-square.svg"
+    },
+    {
+      "id": 1053,
+      "icon": "two-tone book",
+      "svgPath": "icons/two-tone book.svg"
+    },
+    {
+      "id": 1054,
+      "icon": "two-tone bookmark-2",
+      "svgPath": "icons/two-tone bookmark-2.svg"
+    },
+    {
+      "id": 1055,
+      "icon": "two-tone bookmark",
+      "svgPath": "icons/two-tone bookmark.svg"
+    },
+    {
+      "id": 1056,
+      "icon": "two-tone box",
+      "svgPath": "icons/two-tone box.svg"
+    },
+    {
+      "id": 1057,
+      "icon": "two-tone briefcase",
+      "svgPath": "icons/two-tone briefcase.svg"
+    },
+    {
+      "id": 1058,
+      "icon": "two-tone brifecase-cross",
+      "svgPath": "icons/two-tone brifecase-cross.svg"
+    },
+    {
+      "id": 1059,
+      "icon": "two-tone brifecase-tick",
+      "svgPath": "icons/two-tone brifecase-tick.svg"
+    },
+    {
+      "id": 1060,
+      "icon": "two-tone brifecase-timer",
+      "svgPath": "icons/two-tone brifecase-timer.svg"
+    },
+    {
+      "id": 1061,
+      "icon": "two-tone building-1",
+      "svgPath": "icons/two-tone building-1.svg"
+    },
+    {
+      "id": 1062,
+      "icon": "two-tone building-2",
+      "svgPath": "icons/two-tone building-2.svg"
+    },
+    {
+      "id": 1063,
+      "icon": "two-tone building-3",
+      "svgPath": "icons/two-tone building-3.svg"
+    },
+    {
+      "id": 1064,
+      "icon": "two-tone building-5",
+      "svgPath": "icons/two-tone building-5.svg"
+    },
+    {
+      "id": 1065,
+      "icon": "two-tone building",
+      "svgPath": "icons/two-tone building.svg"
+    },
+    {
+      "id": 1066,
+      "icon": "two-tone bus",
+      "svgPath": "icons/two-tone bus.svg"
+    },
+    {
+      "id": 1067,
+      "icon": "two-tone calculator",
+      "svgPath": "icons/two-tone calculator.svg"
+    },
+    {
+      "id": 1068,
+      "icon": "two-tone calendar-1",
+      "svgPath": "icons/two-tone calendar-1.svg"
+    },
+    {
+      "id": 1069,
+      "icon": "two-tone calendar-2",
+      "svgPath": "icons/two-tone calendar-2.svg"
+    },
+    {
+      "id": 1070,
+      "icon": "two-tone calendar-add",
+      "svgPath": "icons/two-tone calendar-add.svg"
+    },
+    {
+      "id": 1071,
+      "icon": "two-tone calendar-circle",
+      "svgPath": "icons/two-tone calendar-circle.svg"
+    },
+    {
+      "id": 1072,
+      "icon": "two-tone calendar-edit",
+      "svgPath": "icons/two-tone calendar-edit.svg"
+    },
+    {
+      "id": 1073,
+      "icon": "two-tone calendar-remove",
+      "svgPath": "icons/two-tone calendar-remove.svg"
+    },
+    {
+      "id": 1074,
+      "icon": "two-tone calendar-search",
+      "svgPath": "icons/two-tone calendar-search.svg"
+    },
+    {
+      "id": 1075,
+      "icon": "two-tone calendar-tick",
+      "svgPath": "icons/two-tone calendar-tick.svg"
+    },
+    {
+      "id": 1076,
+      "icon": "two-tone calendar",
+      "svgPath": "icons/two-tone calendar.svg"
+    },
+    {
+      "id": 1077,
+      "icon": "two-tone call-add",
+      "svgPath": "icons/two-tone call-add.svg"
+    },
+    {
+      "id": 1078,
+      "icon": "two-tone call-calling",
+      "svgPath": "icons/two-tone call-calling.svg"
+    },
+    {
+      "id": 1079,
+      "icon": "two-tone call-incoming",
+      "svgPath": "icons/two-tone call-incoming.svg"
+    },
+    {
+      "id": 1080,
+      "icon": "two-tone call-minus",
+      "svgPath": "icons/two-tone call-minus.svg"
+    },
+    {
+      "id": 1081,
+      "icon": "two-tone call-outgoing",
+      "svgPath": "icons/two-tone call-outgoing.svg"
+    },
+    {
+      "id": 1082,
+      "icon": "two-tone call-received",
+      "svgPath": "icons/two-tone call-received.svg"
+    },
+    {
+      "id": 1083,
+      "icon": "two-tone call-remove",
+      "svgPath": "icons/two-tone call-remove.svg"
+    },
+    {
+      "id": 1084,
+      "icon": "two-tone call-slash",
+      "svgPath": "icons/two-tone call-slash.svg"
+    },
+    {
+      "id": 1085,
+      "icon": "two-tone call",
+      "svgPath": "icons/two-tone call.svg"
+    },
+    {
+      "id": 1086,
+      "icon": "two-tone camera-slash",
+      "svgPath": "icons/two-tone camera-slash.svg"
+    },
+    {
+      "id": 1087,
+      "icon": "two-tone camera",
+      "svgPath": "icons/two-tone camera.svg"
+    },
+    {
+      "id": 1088,
+      "icon": "two-tone car",
+      "svgPath": "icons/two-tone car.svg"
+    },
+    {
+      "id": 1089,
+      "icon": "two-tone card-add",
+      "svgPath": "icons/two-tone card-add.svg"
+    },
+    {
+      "id": 1090,
+      "icon": "two-tone card-edit",
+      "svgPath": "icons/two-tone card-edit.svg"
+    },
+    {
+      "id": 1091,
+      "icon": "two-tone card-pos",
+      "svgPath": "icons/two-tone card-pos.svg"
+    },
+    {
+      "id": 1092,
+      "icon": "two-tone card-receive",
+      "svgPath": "icons/two-tone card-receive.svg"
+    },
+    {
+      "id": 1093,
+      "icon": "two-tone card-remove-1",
+      "svgPath": "icons/two-tone card-remove-1.svg"
+    },
+    {
+      "id": 1094,
+      "icon": "two-tone card-remove",
+      "svgPath": "icons/two-tone card-remove.svg"
+    },
+    {
+      "id": 1095,
+      "icon": "two-tone card-send",
+      "svgPath": "icons/two-tone card-send.svg"
+    },
+    {
+      "id": 1096,
+      "icon": "two-tone card-slash",
+      "svgPath": "icons/two-tone card-slash.svg"
+    },
+    {
+      "id": 1097,
+      "icon": "two-tone card-tick-1",
+      "svgPath": "icons/two-tone card-tick-1.svg"
+    },
+    {
+      "id": 1098,
+      "icon": "two-tone card-tick",
+      "svgPath": "icons/two-tone card-tick.svg"
+    },
+    {
+      "id": 1099,
+      "icon": "two-tone cards",
+      "svgPath": "icons/two-tone cards.svg"
+    },
+    {
+      "id": 1100,
+      "icon": "two-tone category-2",
+      "svgPath": "icons/two-tone category-2.svg"
+    },
+    {
+      "id": 1101,
+      "icon": "two-tone category",
+      "svgPath": "icons/two-tone category.svg"
+    },
+    {
+      "id": 1102,
+      "icon": "two-tone chart-2",
+      "svgPath": "icons/two-tone chart-2.svg"
+    },
+    {
+      "id": 1103,
+      "icon": "two-tone chart",
+      "svgPath": "icons/two-tone chart.svg"
+    },
+    {
+      "id": 1104,
+      "icon": "two-tone clipboard-close",
+      "svgPath": "icons/two-tone clipboard-close.svg"
+    },
+    {
+      "id": 1105,
+      "icon": "two-tone clipboard-export",
+      "svgPath": "icons/two-tone clipboard-export.svg"
+    },
+    {
+      "id": 1106,
+      "icon": "two-tone clipboard-import",
+      "svgPath": "icons/two-tone clipboard-import.svg"
+    },
+    {
+      "id": 1107,
+      "icon": "two-tone clipboard-text",
+      "svgPath": "icons/two-tone clipboard-text.svg"
+    },
+    {
+      "id": 1108,
+      "icon": "two-tone clipboard-tick",
+      "svgPath": "icons/two-tone clipboard-tick.svg"
+    },
+    {
+      "id": 1109,
+      "icon": "two-tone clock",
+      "svgPath": "icons/two-tone clock.svg"
+    },
+    {
+      "id": 1110,
+      "icon": "two-tone close-circle",
+      "svgPath": "icons/two-tone close-circle.svg"
+    },
+    {
+      "id": 1111,
+      "icon": "two-tone close-square",
+      "svgPath": "icons/two-tone close-square.svg"
+    },
+    {
+      "id": 1112,
+      "icon": "two-tone computing",
+      "svgPath": "icons/two-tone computing.svg"
+    },
+    {
+      "id": 1113,
+      "icon": "two-tone convert",
+      "svgPath": "icons/two-tone convert.svg"
+    },
+    {
+      "id": 1114,
+      "icon": "two-tone courthouse",
+      "svgPath": "icons/two-tone courthouse.svg"
+    },
+    {
+      "id": 1115,
+      "icon": "two-tone credit-card",
+      "svgPath": "icons/two-tone credit-card.svg"
+    },
+    {
+      "id": 1116,
+      "icon": "two-tone cup",
+      "svgPath": "icons/two-tone cup.svg"
+    },
+    {
+      "id": 1117,
+      "icon": "two-tone danger",
+      "svgPath": "icons/two-tone danger.svg"
+    },
+    {
+      "id": 1118,
+      "icon": "two-tone device-message",
+      "svgPath": "icons/two-tone device-message.svg"
+    },
+    {
+      "id": 1119,
+      "icon": "two-tone direct-down",
+      "svgPath": "icons/two-tone direct-down.svg"
+    },
+    {
+      "id": 1120,
+      "icon": "two-tone direct-inbox",
+      "svgPath": "icons/two-tone direct-inbox.svg"
+    },
+    {
+      "id": 1121,
+      "icon": "two-tone direct-left",
+      "svgPath": "icons/two-tone direct-left.svg"
+    },
+    {
+      "id": 1122,
+      "icon": "two-tone direct-normal",
+      "svgPath": "icons/two-tone direct-normal.svg"
+    },
+    {
+      "id": 1123,
+      "icon": "two-tone direct-notification",
+      "svgPath": "icons/two-tone direct-notification.svg"
+    },
+    {
+      "id": 1124,
+      "icon": "two-tone direct-right",
+      "svgPath": "icons/two-tone direct-right.svg"
+    },
+    {
+      "id": 1125,
+      "icon": "two-tone direct-send",
+      "svgPath": "icons/two-tone direct-send.svg"
+    },
+    {
+      "id": 1126,
+      "icon": "two-tone direct-up",
+      "svgPath": "icons/two-tone direct-up.svg"
+    },
+    {
+      "id": 1127,
+      "icon": "two-tone direct",
+      "svgPath": "icons/two-tone direct.svg"
+    },
+    {
+      "id": 1128,
+      "icon": "two-tone directbox-default",
+      "svgPath": "icons/two-tone directbox-default.svg"
+    },
+    {
+      "id": 1129,
+      "icon": "two-tone directbox-notif",
+      "svgPath": "icons/two-tone directbox-notif.svg"
+    },
+    {
+      "id": 1130,
+      "icon": "two-tone directbox-receive",
+      "svgPath": "icons/two-tone directbox-receive.svg"
+    },
+    {
+      "id": 1131,
+      "icon": "two-tone directbox-send",
+      "svgPath": "icons/two-tone directbox-send.svg"
+    },
+    {
+      "id": 1132,
+      "icon": "two-tone discount-circle",
+      "svgPath": "icons/two-tone discount-circle.svg"
+    },
+    {
+      "id": 1133,
+      "icon": "two-tone discount-shape",
+      "svgPath": "icons/two-tone discount-shape.svg"
+    },
+    {
+      "id": 1134,
+      "icon": "two-tone discover",
+      "svgPath": "icons/two-tone discover.svg"
+    },
+    {
+      "id": 1135,
+      "icon": "two-tone dislike",
+      "svgPath": "icons/two-tone dislike.svg"
+    },
+    {
+      "id": 1136,
+      "icon": "two-tone document-1",
+      "svgPath": "icons/two-tone document-1.svg"
+    },
+    {
+      "id": 1137,
+      "icon": "two-tone document-cloud",
+      "svgPath": "icons/two-tone document-cloud.svg"
+    },
+    {
+      "id": 1138,
+      "icon": "two-tone document-copy",
+      "svgPath": "icons/two-tone document-copy.svg"
+    },
+    {
+      "id": 1139,
+      "icon": "two-tone document-download",
+      "svgPath": "icons/two-tone document-download.svg"
+    },
+    {
+      "id": 1140,
+      "icon": "two-tone document-filter",
+      "svgPath": "icons/two-tone document-filter.svg"
+    },
+    {
+      "id": 1141,
+      "icon": "two-tone document-forward",
+      "svgPath": "icons/two-tone document-forward.svg"
+    },
+    {
+      "id": 1142,
+      "icon": "two-tone document-normal",
+      "svgPath": "icons/two-tone document-normal.svg"
+    },
+    {
+      "id": 1143,
+      "icon": "two-tone document-previous",
+      "svgPath": "icons/two-tone document-previous.svg"
+    },
+    {
+      "id": 1144,
+      "icon": "two-tone document-text-1",
+      "svgPath": "icons/two-tone document-text-1.svg"
+    },
+    {
+      "id": 1145,
+      "icon": "two-tone document-text",
+      "svgPath": "icons/two-tone document-text.svg"
+    },
+    {
+      "id": 1146,
+      "icon": "two-tone document-upload",
+      "svgPath": "icons/two-tone document-upload.svg"
+    },
+    {
+      "id": 1147,
+      "icon": "two-tone document",
+      "svgPath": "icons/two-tone document.svg"
+    },
+    {
+      "id": 1148,
+      "icon": "two-tone dollar-circle",
+      "svgPath": "icons/two-tone dollar-circle.svg"
+    },
+    {
+      "id": 1149,
+      "icon": "two-tone dollar-square",
+      "svgPath": "icons/two-tone dollar-square.svg"
+    },
+    {
+      "id": 1150,
+      "icon": "two-tone dribbble",
+      "svgPath": "icons/two-tone dribbble.svg"
+    },
+    {
+      "id": 1151,
+      "icon": "two-tone driving",
+      "svgPath": "icons/two-tone driving.svg"
+    },
+    {
+      "id": 1152,
+      "icon": "two-tone edit-2",
+      "svgPath": "icons/two-tone edit-2.svg"
+    },
+    {
+      "id": 1153,
+      "icon": "two-tone edit",
+      "svgPath": "icons/two-tone edit.svg"
+    },
+    {
+      "id": 1154,
+      "icon": "two-tone emoji-happy",
+      "svgPath": "icons/two-tone emoji-happy.svg"
+    },
+    {
+      "id": 1155,
+      "icon": "two-tone emoji-normal",
+      "svgPath": "icons/two-tone emoji-normal.svg"
+    },
+    {
+      "id": 1156,
+      "icon": "two-tone emoji-sad",
+      "svgPath": "icons/two-tone emoji-sad.svg"
+    },
+    {
+      "id": 1157,
+      "icon": "two-tone empty-wallet-add",
+      "svgPath": "icons/two-tone empty-wallet-add.svg"
+    },
+    {
+      "id": 1158,
+      "icon": "two-tone empty-wallet-change",
+      "svgPath": "icons/two-tone empty-wallet-change.svg"
+    },
+    {
+      "id": 1159,
+      "icon": "two-tone empty-wallet-remove",
+      "svgPath": "icons/two-tone empty-wallet-remove.svg"
+    },
+    {
+      "id": 1160,
+      "icon": "two-tone empty-wallet-tick",
+      "svgPath": "icons/two-tone empty-wallet-tick.svg"
+    },
+    {
+      "id": 1161,
+      "icon": "two-tone empty-wallet-time",
+      "svgPath": "icons/two-tone empty-wallet-time.svg"
+    },
+    {
+      "id": 1162,
+      "icon": "two-tone empty-wallet",
+      "svgPath": "icons/two-tone empty-wallet.svg"
+    },
+    {
+      "id": 1163,
+      "icon": "two-tone export-1",
+      "svgPath": "icons/two-tone export-1.svg"
+    },
+    {
+      "id": 1164,
+      "icon": "two-tone export-circle",
+      "svgPath": "icons/two-tone export-circle.svg"
+    },
+    {
+      "id": 1165,
+      "icon": "two-tone export-square",
+      "svgPath": "icons/two-tone export-square.svg"
+    },
+    {
+      "id": 1166,
+      "icon": "two-tone export",
+      "svgPath": "icons/two-tone export.svg"
+    },
+    {
+      "id": 1167,
+      "icon": "two-tone eye-slash",
+      "svgPath": "icons/two-tone eye-slash.svg"
+    },
+    {
+      "id": 1168,
+      "icon": "two-tone eye",
+      "svgPath": "icons/two-tone eye.svg"
+    },
+    {
+      "id": 1169,
+      "icon": "two-tone facebook",
+      "svgPath": "icons/two-tone facebook.svg"
+    },
+    {
+      "id": 1170,
+      "icon": "two-tone filter-add",
+      "svgPath": "icons/two-tone filter-add.svg"
+    },
+    {
+      "id": 1171,
+      "icon": "two-tone filter-edit",
+      "svgPath": "icons/two-tone filter-edit.svg"
+    },
+    {
+      "id": 1172,
+      "icon": "two-tone filter-remove",
+      "svgPath": "icons/two-tone filter-remove.svg"
+    },
+    {
+      "id": 1173,
+      "icon": "two-tone filter-search",
+      "svgPath": "icons/two-tone filter-search.svg"
+    },
+    {
+      "id": 1174,
+      "icon": "two-tone filter-square",
+      "svgPath": "icons/two-tone filter-square.svg"
+    },
+    {
+      "id": 1175,
+      "icon": "two-tone filter-tick",
+      "svgPath": "icons/two-tone filter-tick.svg"
+    },
+    {
+      "id": 1176,
+      "icon": "two-tone filter",
+      "svgPath": "icons/two-tone filter.svg"
+    },
+    {
+      "id": 1177,
+      "icon": "two-tone flag-2",
+      "svgPath": "icons/two-tone flag-2.svg"
+    },
+    {
+      "id": 1178,
+      "icon": "two-tone flag",
+      "svgPath": "icons/two-tone flag.svg"
+    },
+    {
+      "id": 1179,
+      "icon": "two-tone flash-circle",
+      "svgPath": "icons/two-tone flash-circle.svg"
+    },
+    {
+      "id": 1180,
+      "icon": "two-tone flash-slash",
+      "svgPath": "icons/two-tone flash-slash.svg"
+    },
+    {
+      "id": 1181,
+      "icon": "two-tone flash",
+      "svgPath": "icons/two-tone flash.svg"
+    },
+    {
+      "id": 1182,
+      "icon": "two-tone forbidden-2",
+      "svgPath": "icons/two-tone forbidden-2.svg"
+    },
+    {
+      "id": 1183,
+      "icon": "two-tone forbidden",
+      "svgPath": "icons/two-tone forbidden.svg"
+    },
+    {
+      "id": 1184,
+      "icon": "two-tone forward-square",
+      "svgPath": "icons/two-tone forward-square.svg"
+    },
+    {
+      "id": 1185,
+      "icon": "two-tone gallery-add",
+      "svgPath": "icons/two-tone gallery-add.svg"
+    },
+    {
+      "id": 1186,
+      "icon": "two-tone gallery-export",
+      "svgPath": "icons/two-tone gallery-export.svg"
+    },
+    {
+      "id": 1187,
+      "icon": "two-tone gallery-import",
+      "svgPath": "icons/two-tone gallery-import.svg"
+    },
+    {
+      "id": 1188,
+      "icon": "two-tone gallery-remove",
+      "svgPath": "icons/two-tone gallery-remove.svg"
+    },
+    {
+      "id": 1189,
+      "icon": "two-tone gallery-slash",
+      "svgPath": "icons/two-tone gallery-slash.svg"
+    },
+    {
+      "id": 1190,
+      "icon": "two-tone gallery-tick",
+      "svgPath": "icons/two-tone gallery-tick.svg"
+    },
+    {
+      "id": 1191,
+      "icon": "two-tone gallery",
+      "svgPath": "icons/two-tone gallery.svg"
+    },
+    {
+      "id": 1192,
+      "icon": "two-tone gas-station",
+      "svgPath": "icons/two-tone gas-station.svg"
+    },
+    {
+      "id": 1193,
+      "icon": "two-tone gift",
+      "svgPath": "icons/two-tone gift.svg"
+    },
+    {
+      "id": 1194,
+      "icon": "two-tone google-play",
+      "svgPath": "icons/two-tone google-play.svg"
+    },
+    {
+      "id": 1195,
+      "icon": "two-tone google",
+      "svgPath": "icons/two-tone google.svg"
+    },
+    {
+      "id": 1196,
+      "icon": "two-tone gps-slash",
+      "svgPath": "icons/two-tone gps-slash.svg"
+    },
+    {
+      "id": 1197,
+      "icon": "two-tone gps",
+      "svgPath": "icons/two-tone gps.svg"
+    },
+    {
+      "id": 1198,
+      "icon": "two-tone heart-add",
+      "svgPath": "icons/two-tone heart-add.svg"
+    },
+    {
+      "id": 1199,
+      "icon": "two-tone heart-circle",
+      "svgPath": "icons/two-tone heart-circle.svg"
+    },
+    {
+      "id": 1200,
+      "icon": "two-tone heart-edit",
+      "svgPath": "icons/two-tone heart-edit.svg"
+    },
+    {
+      "id": 1201,
+      "icon": "two-tone heart-remove",
+      "svgPath": "icons/two-tone heart-remove.svg"
+    },
+    {
+      "id": 1202,
+      "icon": "two-tone heart-search",
+      "svgPath": "icons/two-tone heart-search.svg"
+    },
+    {
+      "id": 1203,
+      "icon": "two-tone heart-slash",
+      "svgPath": "icons/two-tone heart-slash.svg"
+    },
+    {
+      "id": 1204,
+      "icon": "two-tone heart-tick",
+      "svgPath": "icons/two-tone heart-tick.svg"
+    },
+    {
+      "id": 1205,
+      "icon": "two-tone heart",
+      "svgPath": "icons/two-tone heart.svg"
+    },
+    {
+      "id": 1206,
+      "icon": "two-tone home-1",
+      "svgPath": "icons/two-tone home-1.svg"
+    },
+    {
+      "id": 1207,
+      "icon": "two-tone home-2",
+      "svgPath": "icons/two-tone home-2.svg"
+    },
+    {
+      "id": 1208,
+      "icon": "two-tone home-wifi",
+      "svgPath": "icons/two-tone home-wifi.svg"
+    },
+    {
+      "id": 1209,
+      "icon": "two-tone home",
+      "svgPath": "icons/two-tone home.svg"
+    },
+    {
+      "id": 1210,
+      "icon": "two-tone hospital",
+      "svgPath": "icons/two-tone hospital.svg"
+    },
+    {
+      "id": 1211,
+      "icon": "two-tone house-2",
+      "svgPath": "icons/two-tone house-2.svg"
+    },
+    {
+      "id": 1212,
+      "icon": "two-tone house",
+      "svgPath": "icons/two-tone house.svg"
+    },
+    {
+      "id": 1213,
+      "icon": "two-tone image",
+      "svgPath": "icons/two-tone image.svg"
+    },
+    {
+      "id": 1214,
+      "icon": "two-tone import-1",
+      "svgPath": "icons/two-tone import-1.svg"
+    },
+    {
+      "id": 1215,
+      "icon": "two-tone import-circle",
+      "svgPath": "icons/two-tone import-circle.svg"
+    },
+    {
+      "id": 1216,
+      "icon": "two-tone import-square",
+      "svgPath": "icons/two-tone import-square.svg"
+    },
+    {
+      "id": 1217,
+      "icon": "two-tone import",
+      "svgPath": "icons/two-tone import.svg"
+    },
+    {
+      "id": 1218,
+      "icon": "two-tone info-circle",
+      "svgPath": "icons/two-tone info-circle.svg"
+    },
+    {
+      "id": 1219,
+      "icon": "two-tone information",
+      "svgPath": "icons/two-tone information.svg"
+    },
+    {
+      "id": 1220,
+      "icon": "two-tone instagram",
+      "svgPath": "icons/two-tone instagram.svg"
+    },
+    {
+      "id": 1221,
+      "icon": "two-tone key-square",
+      "svgPath": "icons/two-tone key-square.svg"
+    },
+    {
+      "id": 1222,
+      "icon": "two-tone key",
+      "svgPath": "icons/two-tone key.svg"
+    },
+    {
+      "id": 1223,
+      "icon": "two-tone lamp-charge",
+      "svgPath": "icons/two-tone lamp-charge.svg"
+    },
+    {
+      "id": 1224,
+      "icon": "two-tone lamp-on",
+      "svgPath": "icons/two-tone lamp-on.svg"
+    },
+    {
+      "id": 1225,
+      "icon": "two-tone lamp-slash",
+      "svgPath": "icons/two-tone lamp-slash.svg"
+    },
+    {
+      "id": 1226,
+      "icon": "two-tone lamp",
+      "svgPath": "icons/two-tone lamp.svg"
+    },
+    {
+      "id": 1227,
+      "icon": "two-tone like-1",
+      "svgPath": "icons/two-tone like-1.svg"
+    },
+    {
+      "id": 1228,
+      "icon": "two-tone like-dislike",
+      "svgPath": "icons/two-tone like-dislike.svg"
+    },
+    {
+      "id": 1229,
+      "icon": "two-tone like-shapes",
+      "svgPath": "icons/two-tone like-shapes.svg"
+    },
+    {
+      "id": 1230,
+      "icon": "two-tone like-tag",
+      "svgPath": "icons/two-tone like-tag.svg"
+    },
+    {
+      "id": 1231,
+      "icon": "two-tone like",
+      "svgPath": "icons/two-tone like.svg"
+    },
+    {
+      "id": 1232,
+      "icon": "two-tone line-chart",
+      "svgPath": "icons/two-tone line-chart.svg"
+    },
+    {
+      "id": 1233,
+      "icon": "two-tone location-add",
+      "svgPath": "icons/two-tone location-add.svg"
+    },
+    {
+      "id": 1234,
+      "icon": "two-tone location-cross",
+      "svgPath": "icons/two-tone location-cross.svg"
+    },
+    {
+      "id": 1235,
+      "icon": "two-tone location-minus",
+      "svgPath": "icons/two-tone location-minus.svg"
+    },
+    {
+      "id": 1236,
+      "icon": "two-tone location-slash",
+      "svgPath": "icons/two-tone location-slash.svg"
+    },
+    {
+      "id": 1237,
+      "icon": "two-tone location-tick",
+      "svgPath": "icons/two-tone location-tick.svg"
+    },
+    {
+      "id": 1238,
+      "icon": "two-tone location",
+      "svgPath": "icons/two-tone location.svg"
+    },
+    {
+      "id": 1239,
+      "icon": "two-tone lock-1",
+      "svgPath": "icons/two-tone lock-1.svg"
+    },
+    {
+      "id": 1240,
+      "icon": "two-tone lock-circle",
+      "svgPath": "icons/two-tone lock-circle.svg"
+    },
+    {
+      "id": 1241,
+      "icon": "two-tone lock-slash",
+      "svgPath": "icons/two-tone lock-slash.svg"
+    },
+    {
+      "id": 1242,
+      "icon": "two-tone lock",
+      "svgPath": "icons/two-tone lock.svg"
+    },
+    {
+      "id": 1243,
+      "icon": "two-tone login-1",
+      "svgPath": "icons/two-tone login-1.svg"
+    },
+    {
+      "id": 1244,
+      "icon": "two-tone login",
+      "svgPath": "icons/two-tone login.svg"
+    },
+    {
+      "id": 1245,
+      "icon": "two-tone logout-1",
+      "svgPath": "icons/two-tone logout-1.svg"
+    },
+    {
+      "id": 1246,
+      "icon": "two-tone logout",
+      "svgPath": "icons/two-tone logout.svg"
+    },
+    {
+      "id": 1247,
+      "icon": "two-tone lovely",
+      "svgPath": "icons/two-tone lovely.svg"
+    },
+    {
+      "id": 1248,
+      "icon": "two-tone magic-star",
+      "svgPath": "icons/two-tone magic-star.svg"
+    },
+    {
+      "id": 1249,
+      "icon": "two-tone mail-edit",
+      "svgPath": "icons/two-tone mail-edit.svg"
+    },
+    {
+      "id": 1250,
+      "icon": "two-tone mail-notification",
+      "svgPath": "icons/two-tone mail-notification.svg"
+    },
+    {
+      "id": 1251,
+      "icon": "two-tone mail-search",
+      "svgPath": "icons/two-tone mail-search.svg"
+    },
+    {
+      "id": 1252,
+      "icon": "two-tone mail-star",
+      "svgPath": "icons/two-tone mail-star.svg"
+    },
+    {
+      "id": 1253,
+      "icon": "two-tone mail-tracking",
+      "svgPath": "icons/two-tone mail-tracking.svg"
+    },
+    {
+      "id": 1254,
+      "icon": "two-tone mail",
+      "svgPath": "icons/two-tone mail.svg"
+    },
+    {
+      "id": 1255,
+      "icon": "two-tone map-1",
+      "svgPath": "icons/two-tone map-1.svg"
+    },
+    {
+      "id": 1256,
+      "icon": "two-tone map",
+      "svgPath": "icons/two-tone map.svg"
+    },
+    {
+      "id": 1257,
+      "icon": "two-tone math",
+      "svgPath": "icons/two-tone math.svg"
+    },
+    {
+      "id": 1258,
+      "icon": "two-tone medal-star",
+      "svgPath": "icons/two-tone medal-star.svg"
+    },
+    {
+      "id": 1259,
+      "icon": "two-tone medal",
+      "svgPath": "icons/two-tone medal.svg"
+    },
+    {
+      "id": 1260,
+      "icon": "two-tone menu-1",
+      "svgPath": "icons/two-tone menu-1.svg"
+    },
+    {
+      "id": 1261,
+      "icon": "two-tone menu-board",
+      "svgPath": "icons/two-tone menu-board.svg"
+    },
+    {
+      "id": 1262,
+      "icon": "two-tone menu",
+      "svgPath": "icons/two-tone menu.svg"
+    },
+    {
+      "id": 1263,
+      "icon": "two-tone message-2",
+      "svgPath": "icons/two-tone message-2.svg"
+    },
+    {
+      "id": 1264,
+      "icon": "two-tone message-add-1",
+      "svgPath": "icons/two-tone message-add-1.svg"
+    },
+    {
+      "id": 1265,
+      "icon": "two-tone message-add",
+      "svgPath": "icons/two-tone message-add.svg"
+    },
+    {
+      "id": 1266,
+      "icon": "two-tone message-circle",
+      "svgPath": "icons/two-tone message-circle.svg"
+    },
+    {
+      "id": 1267,
+      "icon": "two-tone message-edit",
+      "svgPath": "icons/two-tone message-edit.svg"
+    },
+    {
+      "id": 1268,
+      "icon": "two-tone message-favorite",
+      "svgPath": "icons/two-tone message-favorite.svg"
+    },
+    {
+      "id": 1269,
+      "icon": "two-tone message-minus",
+      "svgPath": "icons/two-tone message-minus.svg"
+    },
+    {
+      "id": 1270,
+      "icon": "two-tone message-notif",
+      "svgPath": "icons/two-tone message-notif.svg"
+    },
+    {
+      "id": 1271,
+      "icon": "two-tone message-question",
+      "svgPath": "icons/two-tone message-question.svg"
+    },
+    {
+      "id": 1272,
+      "icon": "two-tone message-remove",
+      "svgPath": "icons/two-tone message-remove.svg"
+    },
+    {
+      "id": 1273,
+      "icon": "two-tone message-search",
+      "svgPath": "icons/two-tone message-search.svg"
+    },
+    {
+      "id": 1274,
+      "icon": "two-tone message-square",
+      "svgPath": "icons/two-tone message-square.svg"
+    },
+    {
+      "id": 1275,
+      "icon": "two-tone message-text-1",
+      "svgPath": "icons/two-tone message-text-1.svg"
+    },
+    {
+      "id": 1276,
+      "icon": "two-tone message-text",
+      "svgPath": "icons/two-tone message-text.svg"
+    },
+    {
+      "id": 1277,
+      "icon": "two-tone message-tick",
+      "svgPath": "icons/two-tone message-tick.svg"
+    },
+    {
+      "id": 1278,
+      "icon": "two-tone message-time",
+      "svgPath": "icons/two-tone message-time.svg"
+    },
+    {
+      "id": 1279,
+      "icon": "two-tone message",
+      "svgPath": "icons/two-tone message.svg"
+    },
+    {
+      "id": 1280,
+      "icon": "two-tone messages-1",
+      "svgPath": "icons/two-tone messages-1.svg"
+    },
+    {
+      "id": 1281,
+      "icon": "two-tone messages-2",
+      "svgPath": "icons/two-tone messages-2.svg"
+    },
+    {
+      "id": 1282,
+      "icon": "two-tone messages-3",
+      "svgPath": "icons/two-tone messages-3.svg"
+    },
+    {
+      "id": 1283,
+      "icon": "two-tone messages",
+      "svgPath": "icons/two-tone messages.svg"
+    },
+    {
+      "id": 1284,
+      "icon": "two-tone messenger",
+      "svgPath": "icons/two-tone messenger.svg"
+    },
+    {
+      "id": 1285,
+      "icon": "two-tone microphone-2",
+      "svgPath": "icons/two-tone microphone-2.svg"
+    },
+    {
+      "id": 1286,
+      "icon": "two-tone microphone-slash-1",
+      "svgPath": "icons/two-tone microphone-slash-1.svg"
+    },
+    {
+      "id": 1287,
+      "icon": "two-tone microphone-slash",
+      "svgPath": "icons/two-tone microphone-slash.svg"
+    },
+    {
+      "id": 1288,
+      "icon": "two-tone microphone",
+      "svgPath": "icons/two-tone microphone.svg"
+    },
+    {
+      "id": 1289,
+      "icon": "two-tone minus-cirlce",
+      "svgPath": "icons/two-tone minus-cirlce.svg"
+    },
+    {
+      "id": 1290,
+      "icon": "two-tone minus-square",
+      "svgPath": "icons/two-tone minus-square.svg"
+    },
+    {
+      "id": 1291,
+      "icon": "two-tone minus",
+      "svgPath": "icons/two-tone minus.svg"
+    },
+    {
+      "id": 1292,
+      "icon": "two-tone money-2",
+      "svgPath": "icons/two-tone money-2.svg"
+    },
+    {
+      "id": 1293,
+      "icon": "two-tone money-3",
+      "svgPath": "icons/two-tone money-3.svg"
+    },
+    {
+      "id": 1294,
+      "icon": "two-tone money-4",
+      "svgPath": "icons/two-tone money-4.svg"
+    },
+    {
+      "id": 1295,
+      "icon": "two-tone money-add",
+      "svgPath": "icons/two-tone money-add.svg"
+    },
+    {
+      "id": 1296,
+      "icon": "two-tone money-change",
+      "svgPath": "icons/two-tone money-change.svg"
+    },
+    {
+      "id": 1297,
+      "icon": "two-tone money-forbidden",
+      "svgPath": "icons/two-tone money-forbidden.svg"
+    },
+    {
+      "id": 1298,
+      "icon": "two-tone money-receive",
+      "svgPath": "icons/two-tone money-receive.svg"
+    },
+    {
+      "id": 1299,
+      "icon": "two-tone money-remove",
+      "svgPath": "icons/two-tone money-remove.svg"
+    },
+    {
+      "id": 1300,
+      "icon": "two-tone money-send",
+      "svgPath": "icons/two-tone money-send.svg"
+    },
+    {
+      "id": 1301,
+      "icon": "two-tone money-tick",
+      "svgPath": "icons/two-tone money-tick.svg"
+    },
+    {
+      "id": 1302,
+      "icon": "two-tone money-time",
+      "svgPath": "icons/two-tone money-time.svg"
+    },
+    {
+      "id": 1303,
+      "icon": "two-tone money",
+      "svgPath": "icons/two-tone money.svg"
+    },
+    {
+      "id": 1304,
+      "icon": "two-tone moneys",
+      "svgPath": "icons/two-tone moneys.svg"
+    },
+    {
+      "id": 1305,
+      "icon": "two-tone more-2",
+      "svgPath": "icons/two-tone more-2.svg"
+    },
+    {
+      "id": 1306,
+      "icon": "two-tone more-circle",
+      "svgPath": "icons/two-tone more-circle.svg"
+    },
+    {
+      "id": 1307,
+      "icon": "two-tone more-square",
+      "svgPath": "icons/two-tone more-square.svg"
+    },
+    {
+      "id": 1308,
+      "icon": "two-tone more",
+      "svgPath": "icons/two-tone more.svg"
+    },
+    {
+      "id": 1309,
+      "icon": "two-tone note-1",
+      "svgPath": "icons/two-tone note-1.svg"
+    },
+    {
+      "id": 1310,
+      "icon": "two-tone note-2",
+      "svgPath": "icons/two-tone note-2.svg"
+    },
+    {
+      "id": 1311,
+      "icon": "two-tone note-add",
+      "svgPath": "icons/two-tone note-add.svg"
+    },
+    {
+      "id": 1312,
+      "icon": "two-tone note-remove",
+      "svgPath": "icons/two-tone note-remove.svg"
+    },
+    {
+      "id": 1313,
+      "icon": "two-tone note-text",
+      "svgPath": "icons/two-tone note-text.svg"
+    },
+    {
+      "id": 1314,
+      "icon": "two-tone note",
+      "svgPath": "icons/two-tone note.svg"
+    },
+    {
+      "id": 1315,
+      "icon": "two-tone notification-1",
+      "svgPath": "icons/two-tone notification-1.svg"
+    },
+    {
+      "id": 1316,
+      "icon": "two-tone notification-bing",
+      "svgPath": "icons/two-tone notification-bing.svg"
+    },
+    {
+      "id": 1317,
+      "icon": "two-tone notification-circle",
+      "svgPath": "icons/two-tone notification-circle.svg"
+    },
+    {
+      "id": 1318,
+      "icon": "two-tone notification-status",
+      "svgPath": "icons/two-tone notification-status.svg"
+    },
+    {
+      "id": 1319,
+      "icon": "two-tone notification",
+      "svgPath": "icons/two-tone notification.svg"
+    },
+    {
+      "id": 1320,
+      "icon": "two-tone paypal",
+      "svgPath": "icons/two-tone paypal.svg"
+    },
+    {
+      "id": 1321,
+      "icon": "two-tone people-1",
+      "svgPath": "icons/two-tone people-1.svg"
+    },
+    {
+      "id": 1322,
+      "icon": "two-tone people",
+      "svgPath": "icons/two-tone people.svg"
+    },
+    {
+      "id": 1323,
+      "icon": "two-tone percentage-circle",
+      "svgPath": "icons/two-tone percentage-circle.svg"
+    },
+    {
+      "id": 1324,
+      "icon": "two-tone percentage-square",
+      "svgPath": "icons/two-tone percentage-square.svg"
+    },
+    {
+      "id": 1325,
+      "icon": "two-tone pie-chart",
+      "svgPath": "icons/two-tone pie-chart.svg"
+    },
+    {
+      "id": 1326,
+      "icon": "two-tone radar",
+      "svgPath": "icons/two-tone radar.svg"
+    },
+    {
+      "id": 1327,
+      "icon": "two-tone ranking-1",
+      "svgPath": "icons/two-tone ranking-1.svg"
+    },
+    {
+      "id": 1328,
+      "icon": "two-tone ranking",
+      "svgPath": "icons/two-tone ranking.svg"
+    },
+    {
+      "id": 1329,
+      "icon": "two-tone receipt-1",
+      "svgPath": "icons/two-tone receipt-1.svg"
+    },
+    {
+      "id": 1330,
+      "icon": "two-tone receipt-2-1",
+      "svgPath": "icons/two-tone receipt-2-1.svg"
+    },
+    {
+      "id": 1331,
+      "icon": "two-tone receipt-2",
+      "svgPath": "icons/two-tone receipt-2.svg"
+    },
+    {
+      "id": 1332,
+      "icon": "two-tone receipt-add",
+      "svgPath": "icons/two-tone receipt-add.svg"
+    },
+    {
+      "id": 1333,
+      "icon": "two-tone receipt-discount",
+      "svgPath": "icons/two-tone receipt-discount.svg"
+    },
+    {
+      "id": 1334,
+      "icon": "two-tone receipt-disscount",
+      "svgPath": "icons/two-tone receipt-disscount.svg"
+    },
+    {
+      "id": 1335,
+      "icon": "two-tone receipt-edit",
+      "svgPath": "icons/two-tone receipt-edit.svg"
+    },
+    {
+      "id": 1336,
+      "icon": "two-tone receipt-item",
+      "svgPath": "icons/two-tone receipt-item.svg"
+    },
+    {
+      "id": 1337,
+      "icon": "two-tone receipt-minus",
+      "svgPath": "icons/two-tone receipt-minus.svg"
+    },
+    {
+      "id": 1338,
+      "icon": "two-tone receipt-search",
+      "svgPath": "icons/two-tone receipt-search.svg"
+    },
+    {
+      "id": 1339,
+      "icon": "two-tone receipt-square",
+      "svgPath": "icons/two-tone receipt-square.svg"
+    },
+    {
+      "id": 1340,
+      "icon": "two-tone receipt-text",
+      "svgPath": "icons/two-tone receipt-text.svg"
+    },
+    {
+      "id": 1341,
+      "icon": "two-tone receipt",
+      "svgPath": "icons/two-tone receipt.svg"
+    },
+    {
+      "id": 1342,
+      "icon": "two-tone receive-square-2",
+      "svgPath": "icons/two-tone receive-square-2.svg"
+    },
+    {
+      "id": 1343,
+      "icon": "two-tone receive-square",
+      "svgPath": "icons/two-tone receive-square.svg"
+    },
+    {
+      "id": 1344,
+      "icon": "two-tone received",
+      "svgPath": "icons/two-tone received.svg"
+    },
+    {
+      "id": 1345,
+      "icon": "two-tone redo",
+      "svgPath": "icons/two-tone redo.svg"
+    },
+    {
+      "id": 1346,
+      "icon": "two-tone refresh-2",
+      "svgPath": "icons/two-tone refresh-2.svg"
+    },
+    {
+      "id": 1347,
+      "icon": "two-tone refresh-circle",
+      "svgPath": "icons/two-tone refresh-circle.svg"
+    },
+    {
+      "id": 1348,
+      "icon": "two-tone refresh-left-square",
+      "svgPath": "icons/two-tone refresh-left-square.svg"
+    },
+    {
+      "id": 1349,
+      "icon": "two-tone refresh-right-square",
+      "svgPath": "icons/two-tone refresh-right-square.svg"
+    },
+    {
+      "id": 1350,
+      "icon": "two-tone refresh-square-2",
+      "svgPath": "icons/two-tone refresh-square-2.svg"
+    },
+    {
+      "id": 1351,
+      "icon": "two-tone refresh",
+      "svgPath": "icons/two-tone refresh.svg"
+    },
+    {
+      "id": 1352,
+      "icon": "two-tone repeat-circle",
+      "svgPath": "icons/two-tone repeat-circle.svg"
+    },
+    {
+      "id": 1353,
+      "icon": "two-tone repeat",
+      "svgPath": "icons/two-tone repeat.svg"
+    },
+    {
+      "id": 1354,
+      "icon": "two-tone rotate-left",
+      "svgPath": "icons/two-tone rotate-left.svg"
+    },
+    {
+      "id": 1355,
+      "icon": "two-tone rotate-right",
+      "svgPath": "icons/two-tone rotate-right.svg"
+    },
+    {
+      "id": 1356,
+      "icon": "two-tone route-square",
+      "svgPath": "icons/two-tone route-square.svg"
+    },
+    {
+      "id": 1357,
+      "icon": "two-tone rupee-circle",
+      "svgPath": "icons/two-tone rupee-circle.svg"
+    },
+    {
+      "id": 1358,
+      "icon": "two-tone rupee-recive",
+      "svgPath": "icons/two-tone rupee-recive.svg"
+    },
+    {
+      "id": 1359,
+      "icon": "two-tone rupee-send",
+      "svgPath": "icons/two-tone rupee-send.svg"
+    },
+    {
+      "id": 1360,
+      "icon": "two-tone rupee-square",
+      "svgPath": "icons/two-tone rupee-square.svg"
+    },
+    {
+      "id": 1361,
+      "icon": "two-tone safe-home",
+      "svgPath": "icons/two-tone safe-home.svg"
+    },
+    {
+      "id": 1362,
+      "icon": "two-tone save-2",
+      "svgPath": "icons/two-tone save-2.svg"
+    },
+    {
+      "id": 1363,
+      "icon": "two-tone save-add",
+      "svgPath": "icons/two-tone save-add.svg"
+    },
+    {
+      "id": 1364,
+      "icon": "two-tone save-minus",
+      "svgPath": "icons/two-tone save-minus.svg"
+    },
+    {
+      "id": 1365,
+      "icon": "two-tone save-remove",
+      "svgPath": "icons/two-tone save-remove.svg"
+    },
+    {
+      "id": 1366,
+      "icon": "two-tone scan-barcode",
+      "svgPath": "icons/two-tone scan-barcode.svg"
+    },
+    {
+      "id": 1367,
+      "icon": "two-tone scan",
+      "svgPath": "icons/two-tone scan.svg"
+    },
+    {
+      "id": 1368,
+      "icon": "two-tone scanner",
+      "svgPath": "icons/two-tone scanner.svg"
+    },
+    {
+      "id": 1369,
+      "icon": "two-tone search-favorite-1",
+      "svgPath": "icons/two-tone search-favorite-1.svg"
+    },
+    {
+      "id": 1370,
+      "icon": "two-tone search-favorite",
+      "svgPath": "icons/two-tone search-favorite.svg"
+    },
+    {
+      "id": 1371,
+      "icon": "two-tone search-normal-1",
+      "svgPath": "icons/two-tone search-normal-1.svg"
+    },
+    {
+      "id": 1372,
+      "icon": "two-tone search-normal",
+      "svgPath": "icons/two-tone search-normal.svg"
+    },
+    {
+      "id": 1373,
+      "icon": "two-tone search-status-1",
+      "svgPath": "icons/two-tone search-status-1.svg"
+    },
+    {
+      "id": 1374,
+      "icon": "two-tone search-status",
+      "svgPath": "icons/two-tone search-status.svg"
+    },
+    {
+      "id": 1375,
+      "icon": "two-tone search-zoom-in-1",
+      "svgPath": "icons/two-tone search-zoom-in-1.svg"
+    },
+    {
+      "id": 1376,
+      "icon": "two-tone search-zoom-in",
+      "svgPath": "icons/two-tone search-zoom-in.svg"
+    },
+    {
+      "id": 1377,
+      "icon": "two-tone search-zoom-out-1",
+      "svgPath": "icons/two-tone search-zoom-out-1.svg"
+    },
+    {
+      "id": 1378,
+      "icon": "two-tone search-zoom-out",
+      "svgPath": "icons/two-tone search-zoom-out.svg"
+    },
+    {
+      "id": 1379,
+      "icon": "two-tone security-card",
+      "svgPath": "icons/two-tone security-card.svg"
+    },
+    {
+      "id": 1380,
+      "icon": "two-tone security-safe",
+      "svgPath": "icons/two-tone security-safe.svg"
+    },
+    {
+      "id": 1381,
+      "icon": "two-tone security-time",
+      "svgPath": "icons/two-tone security-time.svg"
+    },
+    {
+      "id": 1382,
+      "icon": "two-tone security-user",
+      "svgPath": "icons/two-tone security-user.svg"
+    },
+    {
+      "id": 1383,
+      "icon": "two-tone security",
+      "svgPath": "icons/two-tone security.svg"
+    },
+    {
+      "id": 1384,
+      "icon": "two-tone send-1",
+      "svgPath": "icons/two-tone send-1.svg"
+    },
+    {
+      "id": 1385,
+      "icon": "two-tone send-2",
+      "svgPath": "icons/two-tone send-2.svg"
+    },
+    {
+      "id": 1386,
+      "icon": "two-tone send-square-1",
+      "svgPath": "icons/two-tone send-square-1.svg"
+    },
+    {
+      "id": 1387,
+      "icon": "two-tone send-square",
+      "svgPath": "icons/two-tone send-square.svg"
+    },
+    {
+      "id": 1388,
+      "icon": "two-tone send",
+      "svgPath": "icons/two-tone send.svg"
+    },
+    {
+      "id": 1389,
+      "icon": "two-tone setting-2",
+      "svgPath": "icons/two-tone setting-2.svg"
+    },
+    {
+      "id": 1390,
+      "icon": "two-tone setting-3",
+      "svgPath": "icons/two-tone setting-3.svg"
+    },
+    {
+      "id": 1391,
+      "icon": "two-tone setting-4",
+      "svgPath": "icons/two-tone setting-4.svg"
+    },
+    {
+      "id": 1392,
+      "icon": "two-tone setting",
+      "svgPath": "icons/two-tone setting.svg"
+    },
+    {
+      "id": 1393,
+      "icon": "two-tone settings",
+      "svgPath": "icons/two-tone settings.svg"
+    },
+    {
+      "id": 1394,
+      "icon": "two-tone share",
+      "svgPath": "icons/two-tone share.svg"
+    },
+    {
+      "id": 1395,
+      "icon": "two-tone shield-cross",
+      "svgPath": "icons/two-tone shield-cross.svg"
+    },
+    {
+      "id": 1396,
+      "icon": "two-tone shield-search",
+      "svgPath": "icons/two-tone shield-search.svg"
+    },
+    {
+      "id": 1397,
+      "icon": "two-tone shield-security",
+      "svgPath": "icons/two-tone shield-security.svg"
+    },
+    {
+      "id": 1398,
+      "icon": "two-tone shield-slash",
+      "svgPath": "icons/two-tone shield-slash.svg"
+    },
+    {
+      "id": 1399,
+      "icon": "two-tone shield-tick",
+      "svgPath": "icons/two-tone shield-tick.svg"
+    },
+    {
+      "id": 1400,
+      "icon": "two-tone shield",
+      "svgPath": "icons/two-tone shield.svg"
+    },
+    {
+      "id": 1401,
+      "icon": "two-tone shop-add",
+      "svgPath": "icons/two-tone shop-add.svg"
+    },
+    {
+      "id": 1402,
+      "icon": "two-tone shop-remove",
+      "svgPath": "icons/two-tone shop-remove.svg"
+    },
+    {
+      "id": 1403,
+      "icon": "two-tone shop",
+      "svgPath": "icons/two-tone shop.svg"
+    },
+    {
+      "id": 1404,
+      "icon": "two-tone shopping-bag",
+      "svgPath": "icons/two-tone shopping-bag.svg"
+    },
+    {
+      "id": 1405,
+      "icon": "two-tone shopping-cart",
+      "svgPath": "icons/two-tone shopping-cart.svg"
+    },
+    {
+      "id": 1406,
+      "icon": "two-tone signpost",
+      "svgPath": "icons/two-tone signpost.svg"
+    },
+    {
+      "id": 1407,
+      "icon": "two-tone slack",
+      "svgPath": "icons/two-tone slack.svg"
+    },
+    {
+      "id": 1408,
+      "icon": "two-tone slash",
+      "svgPath": "icons/two-tone slash.svg"
+    },
+    {
+      "id": 1409,
+      "icon": "two-tone smart-car",
+      "svgPath": "icons/two-tone smart-car.svg"
+    },
+    {
+      "id": 1410,
+      "icon": "two-tone smart-home",
+      "svgPath": "icons/two-tone smart-home.svg"
+    },
+    {
+      "id": 1411,
+      "icon": "two-tone smileys",
+      "svgPath": "icons/two-tone smileys.svg"
+    },
+    {
+      "id": 1412,
+      "icon": "two-tone snapchat",
+      "svgPath": "icons/two-tone snapchat.svg"
+    },
+    {
+      "id": 1413,
+      "icon": "two-tone sort",
+      "svgPath": "icons/two-tone sort.svg"
+    },
+    {
+      "id": 1414,
+      "icon": "two-tone sound",
+      "svgPath": "icons/two-tone sound.svg"
+    },
+    {
+      "id": 1415,
+      "icon": "two-tone speedometer",
+      "svgPath": "icons/two-tone speedometer.svg"
+    },
+    {
+      "id": 1416,
+      "icon": "two-tone star-1",
+      "svgPath": "icons/two-tone star-1.svg"
+    },
+    {
+      "id": 1417,
+      "icon": "two-tone star-slash",
+      "svgPath": "icons/two-tone star-slash.svg"
+    },
+    {
+      "id": 1418,
+      "icon": "two-tone star",
+      "svgPath": "icons/two-tone star.svg"
+    },
+    {
+      "id": 1419,
+      "icon": "two-tone sticky-note",
+      "svgPath": "icons/two-tone sticky-note.svg"
+    },
+    {
+      "id": 1420,
+      "icon": "two-tone support",
+      "svgPath": "icons/two-tone support.svg"
+    },
+    {
+      "id": 1421,
+      "icon": "two-tone tag-2",
+      "svgPath": "icons/two-tone tag-2.svg"
+    },
+    {
+      "id": 1422,
+      "icon": "two-tone tag-cross",
+      "svgPath": "icons/two-tone tag-cross.svg"
+    },
+    {
+      "id": 1423,
+      "icon": "two-tone tag-right",
+      "svgPath": "icons/two-tone tag-right.svg"
+    },
+    {
+      "id": 1424,
+      "icon": "two-tone tag-user",
+      "svgPath": "icons/two-tone tag-user.svg"
+    },
+    {
+      "id": 1425,
+      "icon": "two-tone tag",
+      "svgPath": "icons/two-tone tag.svg"
+    },
+    {
+      "id": 1426,
+      "icon": "two-tone task-square",
+      "svgPath": "icons/two-tone task-square.svg"
+    },
+    {
+      "id": 1427,
+      "icon": "two-tone task",
+      "svgPath": "icons/two-tone task.svg"
+    },
+    {
+      "id": 1428,
+      "icon": "two-tone teacher",
+      "svgPath": "icons/two-tone teacher.svg"
+    },
+    {
+      "id": 1429,
+      "icon": "two-tone tick-circle",
+      "svgPath": "icons/two-tone tick-circle.svg"
+    },
+    {
+      "id": 1430,
+      "icon": "two-tone tick-square",
+      "svgPath": "icons/two-tone tick-square.svg"
+    },
+    {
+      "id": 1431,
+      "icon": "two-tone timer",
+      "svgPath": "icons/two-tone timer.svg"
+    },
+    {
+      "id": 1432,
+      "icon": "two-tone toggle-off-circle",
+      "svgPath": "icons/two-tone toggle-off-circle.svg"
+    },
+    {
+      "id": 1433,
+      "icon": "two-tone toggle-off",
+      "svgPath": "icons/two-tone toggle-off.svg"
+    },
+    {
+      "id": 1434,
+      "icon": "two-tone toggle-on-circle",
+      "svgPath": "icons/two-tone toggle-on-circle.svg"
+    },
+    {
+      "id": 1435,
+      "icon": "two-tone toggle-on",
+      "svgPath": "icons/two-tone toggle-on.svg"
+    },
+    {
+      "id": 1436,
+      "icon": "two-tone transaction-minus",
+      "svgPath": "icons/two-tone transaction-minus.svg"
+    },
+    {
+      "id": 1437,
+      "icon": "two-tone trash",
+      "svgPath": "icons/two-tone trash.svg"
+    },
+    {
+      "id": 1438,
+      "icon": "two-tone truck-fast",
+      "svgPath": "icons/two-tone truck-fast.svg"
+    },
+    {
+      "id": 1439,
+      "icon": "two-tone truck-remove",
+      "svgPath": "icons/two-tone truck-remove.svg"
+    },
+    {
+      "id": 1440,
+      "icon": "two-tone truck-tick",
+      "svgPath": "icons/two-tone truck-tick.svg"
+    },
+    {
+      "id": 1441,
+      "icon": "two-tone truck-time",
+      "svgPath": "icons/two-tone truck-time.svg"
+    },
+    {
+      "id": 1442,
+      "icon": "two-tone truck",
+      "svgPath": "icons/two-tone truck.svg"
+    },
+    {
+      "id": 1443,
+      "icon": "two-tone trush-square",
+      "svgPath": "icons/two-tone trush-square.svg"
+    },
+    {
+      "id": 1444,
+      "icon": "two-tone twitch",
+      "svgPath": "icons/two-tone twitch.svg"
+    },
+    {
+      "id": 1445,
+      "icon": "two-tone undo",
+      "svgPath": "icons/two-tone undo.svg"
+    },
+    {
+      "id": 1446,
+      "icon": "two-tone unlock",
+      "svgPath": "icons/two-tone unlock.svg"
+    },
+    {
+      "id": 1447,
+      "icon": "two-tone usd-coin-(usdc)",
+      "svgPath": "icons/two-tone usd-coin-(usdc).svg"
+    },
+    {
+      "id": 1448,
+      "icon": "two-tone user-1",
+      "svgPath": "icons/two-tone user-1.svg"
+    },
+    {
+      "id": 1449,
+      "icon": "two-tone user-add-1",
+      "svgPath": "icons/two-tone user-add-1.svg"
+    },
+    {
+      "id": 1450,
+      "icon": "two-tone user-add",
+      "svgPath": "icons/two-tone user-add.svg"
+    },
+    {
+      "id": 1451,
+      "icon": "two-tone user-circle",
+      "svgPath": "icons/two-tone user-circle.svg"
+    },
+    {
+      "id": 1452,
+      "icon": "two-tone user-cirlce-add",
+      "svgPath": "icons/two-tone user-cirlce-add.svg"
+    },
+    {
+      "id": 1453,
+      "icon": "two-tone user-edit",
+      "svgPath": "icons/two-tone user-edit.svg"
+    },
+    {
+      "id": 1454,
+      "icon": "two-tone user-minus-1",
+      "svgPath": "icons/two-tone user-minus-1.svg"
+    },
+    {
+      "id": 1455,
+      "icon": "two-tone user-minus",
+      "svgPath": "icons/two-tone user-minus.svg"
+    },
+    {
+      "id": 1456,
+      "icon": "two-tone user-octagon",
+      "svgPath": "icons/two-tone user-octagon.svg"
+    },
+    {
+      "id": 1457,
+      "icon": "two-tone user-remove-1",
+      "svgPath": "icons/two-tone user-remove-1.svg"
+    },
+    {
+      "id": 1458,
+      "icon": "two-tone user-remove",
+      "svgPath": "icons/two-tone user-remove.svg"
+    },
+    {
+      "id": 1459,
+      "icon": "two-tone user-search",
+      "svgPath": "icons/two-tone user-search.svg"
+    },
+    {
+      "id": 1460,
+      "icon": "two-tone user-square",
+      "svgPath": "icons/two-tone user-square.svg"
+    },
+    {
+      "id": 1461,
+      "icon": "two-tone user-tag",
+      "svgPath": "icons/two-tone user-tag.svg"
+    },
+    {
+      "id": 1462,
+      "icon": "two-tone user-tick-1",
+      "svgPath": "icons/two-tone user-tick-1.svg"
+    },
+    {
+      "id": 1463,
+      "icon": "two-tone user-tick",
+      "svgPath": "icons/two-tone user-tick.svg"
+    },
+    {
+      "id": 1464,
+      "icon": "two-tone user",
+      "svgPath": "icons/two-tone user.svg"
+    },
+    {
+      "id": 1465,
+      "icon": "two-tone verify",
+      "svgPath": "icons/two-tone verify.svg"
+    },
+    {
+      "id": 1466,
+      "icon": "two-tone video-slash",
+      "svgPath": "icons/two-tone video-slash.svg"
+    },
+    {
+      "id": 1467,
+      "icon": "two-tone video",
+      "svgPath": "icons/two-tone video.svg"
+    },
+    {
+      "id": 1468,
+      "icon": "two-tone voice-circle",
+      "svgPath": "icons/two-tone voice-circle.svg"
+    },
+    {
+      "id": 1469,
+      "icon": "two-tone voice-square",
+      "svgPath": "icons/two-tone voice-square.svg"
+    },
+    {
+      "id": 1470,
+      "icon": "two-tone volume-cross",
+      "svgPath": "icons/two-tone volume-cross.svg"
+    },
+    {
+      "id": 1471,
+      "icon": "two-tone volume-high",
+      "svgPath": "icons/two-tone volume-high.svg"
+    },
+    {
+      "id": 1472,
+      "icon": "two-tone volume-low-1",
+      "svgPath": "icons/two-tone volume-low-1.svg"
+    },
+    {
+      "id": 1473,
+      "icon": "two-tone volume-low",
+      "svgPath": "icons/two-tone volume-low.svg"
+    },
+    {
+      "id": 1474,
+      "icon": "two-tone volume-mute",
+      "svgPath": "icons/two-tone volume-mute.svg"
+    },
+    {
+      "id": 1475,
+      "icon": "two-tone volume-slash",
+      "svgPath": "icons/two-tone volume-slash.svg"
+    },
+    {
+      "id": 1476,
+      "icon": "two-tone volume-up",
+      "svgPath": "icons/two-tone volume-up.svg"
+    },
+    {
+      "id": 1477,
+      "icon": "two-tone wallet-1",
+      "svgPath": "icons/two-tone wallet-1.svg"
+    },
+    {
+      "id": 1478,
+      "icon": "two-tone wallet-2",
+      "svgPath": "icons/two-tone wallet-2.svg"
+    },
+    {
+      "id": 1479,
+      "icon": "two-tone wallet-3",
+      "svgPath": "icons/two-tone wallet-3.svg"
+    },
+    {
+      "id": 1480,
+      "icon": "two-tone wallet-add-1",
+      "svgPath": "icons/two-tone wallet-add-1.svg"
+    },
+    {
+      "id": 1481,
+      "icon": "two-tone wallet-add",
+      "svgPath": "icons/two-tone wallet-add.svg"
+    },
+    {
+      "id": 1482,
+      "icon": "two-tone wallet-check",
+      "svgPath": "icons/two-tone wallet-check.svg"
+    },
+    {
+      "id": 1483,
+      "icon": "two-tone wallet-money",
+      "svgPath": "icons/two-tone wallet-money.svg"
+    },
+    {
+      "id": 1484,
+      "icon": "two-tone wallet-remove",
+      "svgPath": "icons/two-tone wallet-remove.svg"
+    },
+    {
+      "id": 1485,
+      "icon": "two-tone wallet-search",
+      "svgPath": "icons/two-tone wallet-search.svg"
+    },
+    {
+      "id": 1486,
+      "icon": "two-tone wallet",
+      "svgPath": "icons/two-tone wallet.svg"
+    },
+    {
+      "id": 1487,
+      "icon": "two-tone warning-2",
+      "svgPath": "icons/two-tone warning-2.svg"
+    },
+    {
+      "id": 1488,
+      "icon": "two-tone whatsapp",
+      "svgPath": "icons/two-tone whatsapp.svg"
+    },
+    {
+      "id": 1489,
+      "icon": "two-tone wifi-square",
+      "svgPath": "icons/two-tone wifi-square.svg"
+    },
+    {
+      "id": 1490,
+      "icon": "two-tone wifi",
+      "svgPath": "icons/two-tone wifi.svg"
+    },
+    {
+      "id": 1491,
+      "icon": "two-tone windows",
+      "svgPath": "icons/two-tone windows.svg"
+    },
+    {
+      "id": 1492,
+      "icon": "two-tone youtube",
+      "svgPath": "icons/two-tone youtube.svg"
+    },
+    {
+      "id": 1493,
+      "icon": "two-tone zoom",
+      "svgPath": "icons/two-tone zoom.svg"
+    }
+  ]
+}
